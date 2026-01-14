@@ -1,0 +1,51 @@
+﻿@model Holiday.Models.ticket
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>ticket</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Flight.FlightId)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ticketId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

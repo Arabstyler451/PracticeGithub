@@ -1,0 +1,196 @@
+﻿/* Full top header */
+.custom-navbar {
+    background-color: #013220 !important;
+    height: 480px;
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+    display: flex;
+    align-items: flex-start;
+}
+
+/* Main container */
+.header-content {
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Top Row: Branding + Login/Register */
+.top-row {
+    padding: 0;
+}
+
+.header-title {
+    color: white;
+    font-size: 2rem;
+    font-weight: 600;
+}
+    /* Branding hover color */
+    .header-title:hover {
+        color: #B8860B !important;
+        text-decoration: none; /* optional: remove underline */
+        cursor: pointer; /* optional: show pointer on hover */
+    }
+
+
+/* Login / Register */
+.auth-links a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+    .auth-links a:hover {
+        text-decoration: underline;
+        text-decoration-color: #B8860B !important;
+    }
+
+/* Force the nav items to be horizontal */
+.nav-pill-menu {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+    margin-top: 100px !important;
+}
+
+
+/* Rounded Rectangle Nav Buttons */
+/* Make nav items bigger and respect padding */
+.nav-pill {
+    display: inline-flex !important; /* allow height and width to grow */
+    align-items:center; /* vertically center text */
+    justify-content: center; /* horizontally center text */
+    height: auto !important; /* remove Bootstrap's fixed height */
+    padding: 6px 20px !important; /* taller and wider */
+    border-radius: 15px; /* rounded rectangle */
+    background: rgba(255, 255, 255, 0.15);
+    color: white !important;
+    font-weight: 600;
+    font-size: 1.0rem; /* bigger text */
+    transition: 0.2s ease;
+}
+
+    .nav-pill:hover {
+        background: rgba(255, 255, 255, 0.3);
+    }
+
+
+/* Remove bootstrap defaults */
+.navbar-nav .nav-link {
+    padding: 0;  
+}
+
+/* Nav section below branding aligned to left */
+.nav-section {
+    display: flex;
+    justify-content: flex-start; /* aligns items to the left */
+    margin-top: 40px; /* adjust vertical spacing below branding */
+}
+
+
+/* From Uiverse.io by gharsh11032000 */
+.card {
+    position: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    border-radius: 24px;
+    line-height: 1.6;
+    transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    display: inline-block !important;
+    flex-direction: row !important;
+    gap: 10px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+    padding: 36px;
+    border-radius: 22px;
+    color: #ffffff;
+    overflow: hidden;
+    background: #013220;
+    transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+    .content::before {
+        position: absolute;
+        content: "";
+        top: -4%;
+        left: 50%;
+        width: 90%;
+        height: 90%;
+        transform: translate(-50%);
+        background: #d0ffce;
+        z-index: -1;
+        transform-origin: bottom;
+        border-radius: inherit;
+        transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .content::after {
+        position: absolute;
+        content: "";
+        top: -8%;
+        left: 50%;
+        width: 80%;
+        height: 80%;
+        transform: translate(-50%);
+        background: #e9ffe7;
+        z-index: -2;
+        transform-origin: bottom;
+        border-radius: inherit;
+        transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .content svg {
+        width: 48px;
+        height: 48px;
+    }
+
+    .content .para {
+        z-index: 1;
+        opacity: 1;
+        font-size: 18px;
+        transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+    .content .link {
+        z-index: 1;
+        color: #fea000;
+        text-decoration: none;
+        font-family: inherit;
+        font-size: 16px;
+        transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
+        .content .link:hover {
+            text-decoration: underline;
+        }
+
+.card:hover {
+    transform: translate(0px, -16px);
+}
+
+    .card:hover .content::before {
+        rotate: -8deg;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    .card:hover .content::after {
+        rotate: 8deg;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }

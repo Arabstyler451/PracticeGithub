@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\709016\\source\\repos\\Holiday\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\views\\destinations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|c:\\users\\709016\\source\\repos\\holiday\\holiday\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BEA24865-A0A9-44BA-8B18-C6BC6FB802CD}|Holiday\\Holiday.csproj|solutionrelative:holiday\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Holiday\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Holiday\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:01:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Holiday\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Holiday\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:59:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Destinations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Holiday\\Views\\Destinations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Destinations\\Index.cshtml",
+              "RelativeToolTip": "Holiday\\Views\\Destinations\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T10:54:13.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Holiday\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Holiday\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T09:44:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Holiday\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Holiday\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T09:48:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Holiday\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Holiday\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-24T09:44:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "Holiday\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\709016\\source\\repos\\Holiday\\Holiday\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "Holiday\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T09:28:01.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

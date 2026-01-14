@@ -1,0 +1,48 @@
+﻿@model Holiday.Models.ticket
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ticket</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ticketTime)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ticketTime)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Flight)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Flight.FlightId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ticketId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
