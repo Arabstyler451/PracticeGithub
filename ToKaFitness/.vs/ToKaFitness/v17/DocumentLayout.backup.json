@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\controllers\\gymcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\views\\gymcustomers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\views\\gymcustomers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\views\\gymcustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\views\\gymcustomers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\views\\gymcustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\models\\gymcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\controllers\\gympassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\tokafitness\\tokafitness\\models\\gympass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToKaFitness\\Views\\GymCustomers\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Index.cshtml",
+              "RelativeToolTip": "ToKaFitness\\Views\\GymCustomers\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:19:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ToKaFitness\\Views\\GymCustomers\\Edit.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Edit.cshtml",
+              "RelativeToolTip": "ToKaFitness\\Views\\GymCustomers\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:19:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Details.cshtml",
+              "RelativeDocumentMoniker": "ToKaFitness\\Views\\GymCustomers\\Details.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Details.cshtml",
+              "RelativeToolTip": "ToKaFitness\\Views\\GymCustomers\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:19:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ToKaFitness\\Views\\GymCustomers\\Delete.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Delete.cshtml",
+              "RelativeToolTip": "ToKaFitness\\Views\\GymCustomers\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:19:05.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Create.cshtml",
+              "RelativeDocumentMoniker": "ToKaFitness\\Views\\GymCustomers\\Create.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Views\\GymCustomers\\Create.cshtml",
+              "RelativeToolTip": "ToKaFitness\\Views\\GymCustomers\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:18:53.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GymCustomersController.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymCustomersController.cs",
+              "RelativeDocumentMoniker": "ToKaFitness\\Controllers\\GymCustomersController.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymCustomersController.cs",
+              "RelativeToolTip": "ToKaFitness\\Controllers\\GymCustomersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:45:42.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GymPassesController.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
+              "RelativeDocumentMoniker": "ToKaFitness\\Controllers\\GymPassesController.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
+              "RelativeToolTip": "ToKaFitness\\Controllers\\GymPassesController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAiwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:44:54.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GymPass.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymPass.cs",
+              "RelativeDocumentMoniker": "ToKaFitness\\Models\\GymPass.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymPass.cs",
+              "RelativeToolTip": "ToKaFitness\\Models\\GymPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:40:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GymCustomer.cs",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymCustomer.cs",
+              "RelativeDocumentMoniker": "ToKaFitness\\Models\\GymCustomer.cs",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymCustomer.cs",
+              "RelativeToolTip": "ToKaFitness\\Models\\GymCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:40:09.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
