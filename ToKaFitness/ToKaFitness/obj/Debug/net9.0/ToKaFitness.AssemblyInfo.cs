@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToKaFitness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae0bad82fec47ff3b90244dc964f7b1dc3ad6d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50615fd5b9ecd309af1f3ef2254df31889a2dd94")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToKaFitness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToKaFitness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
