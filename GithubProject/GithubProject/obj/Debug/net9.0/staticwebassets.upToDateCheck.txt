@@ -1,76 +1,4 @@
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\LICENSE.txt
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\js\site.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\LICENSE.md
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\favicon.ico
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\additional-methods.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.min.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.min.js
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\css\site.css
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
-\\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\jquery.validate.js
-wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\js\site.js
-wwwroot\lib\bootstrap\dist\css\bootstrap.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
-wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -95,6 +23,14 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -108,6 +44,14 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
@@ -115,11 +59,119 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\lib\jquery-validation\dist\additional-methods.js
-wwwroot\lib\jquery-validation\dist\additional-methods.min.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.js
-wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
-wwwroot\lib\jquery-validation\LICENSE.md
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
-wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
-wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\User\css\ajax-loader.gif
+wwwroot\User\css\bootstrap.min.css
+wwwroot\User\css\vendor.css
+wwwroot\User\images\about-img1.jpg
+wwwroot\User\images\about-img2.jpg
+wwwroot\User\images\about-img3.jpg
+wwwroot\User\images\chocolat\close.png
+wwwroot\User\images\chocolat\fullscreen-black.png
+wwwroot\User\images\chocolat\fullscreen.png
+wwwroot\User\images\chocolat\left.png
+wwwroot\User\images\chocolat\loader.gif
+wwwroot\User\images\chocolat\right.png
+wwwroot\User\images\commentor-item1.jpg
+wwwroot\User\images\commentor-item2.jpg
+wwwroot\User\images\commentor-item3.jpg
+wwwroot\User\images\item1.jpg
+wwwroot\User\images\item2.jpg
+wwwroot\User\images\item3.jpg
+wwwroot\User\images\main-logo-footer.png
+wwwroot\User\images\main-logo.png
+wwwroot\User\images\pattern1.png
+wwwroot\User\images\pattern2.png
+wwwroot\User\images\post1.jpg
+wwwroot\User\images\post2.jpg
+wwwroot\User\images\post3.jpg
+wwwroot\User\images\post4.jpg
+wwwroot\User\images\post5.jpg
+wwwroot\User\images\room1.jpg
+wwwroot\User\images\room2.jpg
+wwwroot\User\images\room3.jpg
+wwwroot\User\images\slider-image.jpg
+wwwroot\User\images\slider-image1.jpg
+wwwroot\User\images\team1.jpg
+wwwroot\User\images\team2.jpg
+wwwroot\User\images\team3.jpg
+wwwroot\User\images\team4.jpg
+wwwroot\User\images\team5.jpg
+wwwroot\User\images\team6.jpg
+wwwroot\User\images\video.jpg
+wwwroot\User\index.html
+wwwroot\User\js\ajax-loader.gif
+wwwroot\User\js\bootstrap.bundle.min.js
+wwwroot\User\js\jquery-1.11.0.min.js
+wwwroot\User\js\plugins.js
+wwwroot\User\js\script.js
+wwwroot\User\readme.txt
+wwwroot\User\style.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\css\vendor.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\favicon.ico
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\css\bootstrap.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery-validation\LICENSE.md
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.min.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\lib\jquery\LICENSE.txt
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\js\bootstrap.bundle.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\js\jquery-1.11.0.min.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\js\plugins.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\js\script.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\readme.txt
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\style.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\User\index.html

@@ -1,0 +1,2 @@
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\css\site.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\GithubProject\GithubProject\wwwroot\js\site.js
