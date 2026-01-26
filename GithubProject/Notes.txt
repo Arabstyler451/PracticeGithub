@@ -1,1 +1,41 @@
 Client Secret: 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
+
+            return View(await _context.GymCustomer.ToListAsync());
+
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var userGymCustomerData = await _context.GymCustomer.Where(g => g.UserID == userId).ToListAsync();
+            return View(userGymCustomerData);
+
+            var gymCustomer = await _context.GymCustomer.FindAsync(gymPass.GymCustomerId);
+
+            if (gymCustomer == null)
+            {
+                return NotFound();
+            }
+            gymPass.GymCustomer = gymCustomer;
+            ModelState.Remove("GymCustomer");
+
+
+
+
+GymPass:
+ public int GymPassId { get; set; }
+ public int GymCustomerId { get; set; } //Foreign Key
+
+ public string CustomerName { get; set;}
+ public DateTime ExpiryDate { get; set; }
+
+ public GymCustomer GymCustomer { get; set; } //Navigation Property
+
+
+GymCustomer:
+        public int GymCustomerId { get; set; }
+        public string UserID { get; set; } //Foriegn key for linking to a logged in user
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public string Address { get; set; }
+
+        public ICollection<GymPass>? GymPass { get; set; }
