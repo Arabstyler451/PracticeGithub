@@ -1,0 +1,16 @@
+Set Task Brief
+You work for a software development company. The company has secured a contract to develop a solution for a local venue hire business. CityPoint Room Hire specialises in:
+•	Room hire for meetings, training sessions and private events
+•	Equipment hire such as projectors, speakers and seating
+•	Short-term and day-long bookings for community groups and businesses
+The clients (owners of CityPoint Room Hire) would like to develop a digital solution that will:
+•	Provide customers with information about:
+-	Rooms available for hire and their facilities
+-	Booking policies and staff details for the company
+•	Allow customers to:
+-	Book rooms for specific dates and times pending confirmation 
+-	View and manage their existing bookings
+The client has conducted market research with existing customers to identify features that could be included in the digital solution. The suggested features by the Client are:
+•	Account registration to allow customers to manage their bookings and data
+•	Accessibility features to support a wide range of users
+•	A staff area to manage rooms and booing requests that they can confirm or deny
