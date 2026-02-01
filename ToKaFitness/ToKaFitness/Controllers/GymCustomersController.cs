@@ -69,7 +69,7 @@ namespace ToKaFitness.Controllers
 
             if (ModelState.IsValid)
             {
-                _context.Add(gymCustomer);
+                _context.Add(gymCustomer);  
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }

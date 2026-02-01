@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\controllers\\accessibilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\controllers\\accessibilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\controllers\\accountinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\controllers\\accountinformationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\models\\accessibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\models\\accessibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\cityhome\\cityhome\\models\\accountinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CF3C2B-9894-6F81-77D2-297F8AF04936}|CityHome\\CityHome.csproj|solutionrelative:cityhome\\models\\accountinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "CityHome\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "CityHome\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:16:19.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CityHome\\Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "CityHome\\Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:16:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "CityHome\\Views\\Bookings\\Details.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "CityHome\\Views\\Bookings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:15:52.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CityHome\\Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "CityHome\\Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:15:01.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "CityHome\\Views\\Bookings\\Create.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "CityHome\\Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-01T23:11:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "CityHome\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "CityHome\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:53:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountInformationsController.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\AccountInformationsController.cs",
+              "RelativeDocumentMoniker": "CityHome\\Controllers\\AccountInformationsController.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\AccountInformationsController.cs",
+              "RelativeToolTip": "CityHome\\Controllers\\AccountInformationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:52:34.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessibilitiesController.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\AccessibilitiesController.cs",
+              "RelativeDocumentMoniker": "CityHome\\Controllers\\AccessibilitiesController.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Controllers\\AccessibilitiesController.cs",
+              "RelativeToolTip": "CityHome\\Controllers\\AccessibilitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:51:45.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Accessibility.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Accessibility.cs",
+              "RelativeDocumentMoniker": "CityHome\\Models\\Accessibility.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Accessibility.cs",
+              "RelativeToolTip": "CityHome\\Models\\Accessibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:32:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountInformation.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\AccountInformation.cs",
+              "RelativeDocumentMoniker": "CityHome\\Models\\AccountInformation.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\AccountInformation.cs",
+              "RelativeToolTip": "CityHome\\Models\\AccountInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:32:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "CityHome\\Models\\Booking.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Booking.cs",
+              "RelativeToolTip": "CityHome\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:32:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "CityHome\\Models\\Room.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Models\\Room.cs",
+              "RelativeToolTip": "CityHome\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T22:32:05.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
