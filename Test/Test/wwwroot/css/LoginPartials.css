@@ -1,0 +1,42 @@
+﻿/* Base reset for both buttons in navbar */
+.nav-link.custom-login,
+.nav-link.custom-register {
+    display: inline-block;
+    padding: 0.5rem 1.2rem; /* Button height and width */
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.25s ease; /* Smooth changes */
+    margin: 0 1rem; /* Space between them */
+    border: 1px solid transparent; /* For smooth hover transitions */
+}
+
+/* Login button: starts white */
+.custom-login {
+    background-color: #ffffff; /* Pure white background */
+    color: #333333; /* Dark gray text for readability */
+    border: 1px solid #cccccc; /* Light border so it stands out on light navbar */
+    min-width: 2rem !important; /* same value for symmetry */
+}
+
+    .custom-login:hover,
+    .custom-login:focus {
+        background-color: #FFF7ED; /* Fills with your orange on hover */
+        color: #BE6A21; /* orange text on hover */
+        transform: translateY(0px); /* Subtle lift */
+    }
+
+/* Register button: starts with your color */
+.custom-register {
+    background-color: #BE6A21; /* Your specified orange */
+    color: #ffffff; /* White text */
+    border: 1px solid #a55c1c; /* Slightly darker border */
+    border-radius: 2rem; /* Soft rounded corners */
+}
+
+    .custom-register:hover,
+    .custom-register:focus {
+        background-color: #a55c1c; /* Darker orange on hover (derived from #BE6A21) */
+        color: #ffffff;
+        transform: translateY(0px);
+
+    }
