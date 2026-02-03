@@ -52,7 +52,7 @@ button.accept-policy {
   line-height: inherit;
 }
 
-.footer {
+/*.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -64,6 +64,5 @@ button.accept-policy {
     .footer.text-muted,
     .footer.text-muted a:hover {
         color: #A8A29E !important; /* White text + override for links */
-        font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
+        /*font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
     }
-

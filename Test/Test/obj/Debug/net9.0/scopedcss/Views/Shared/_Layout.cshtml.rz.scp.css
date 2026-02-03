@@ -52,7 +52,7 @@ button.accept-policy[b-zz1b99kxi4] {
   line-height: inherit;
 }
 
-.footer[b-zz1b99kxi4] {
+/*.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -61,9 +61,8 @@ button.accept-policy[b-zz1b99kxi4] {
     background-color: #1C1917;
 }
 
-    .footer.text-muted[b-zz1b99kxi4],
-    .footer.text-muted a:hover[b-zz1b99kxi4] {
+    .footer.text-muted,
+    .footer.text-muted a:hover {
         color: #A8A29E !important; /* White text + override for links */
-        font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
+        /*font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
     }
-

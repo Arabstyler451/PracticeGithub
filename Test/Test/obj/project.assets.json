@@ -1644,16 +1644,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.0": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.12": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.0",
-          "Microsoft.Extensions.Caching.Memory": "9.0.0",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.0",
-          "Microsoft.Extensions.Logging": "9.0.0",
-          "System.Formats.Asn1": "9.0.0",
-          "System.Text.Json": "9.0.0"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.12",
+          "Microsoft.Extensions.Caching.Memory": "9.0.12",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.12",
+          "Microsoft.Extensions.Logging": "9.0.12",
+          "System.Formats.Asn1": "9.0.12",
+          "System.Text.Json": "9.0.12"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -5835,10 +5835,10 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.0": {
-      "sha512": "3Y7/3kgz6C5kRFeELLZ5VeIeBlxB31x/ywscbN4r1JqTXIy8WWGo0CqzuOxBy4UzaTzpifElAZvv4fyD3ZQK5w==",
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.12": {
+      "sha512": "OKmkIsSAhNW8beuWtaqgF230Cz/GptsJzrD0AFAzLK2gbyZGz4HSkDn1KLe/seCfJKL/8+IrsQw7Lz1/DpFKag==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.0",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.12",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5846,7 +5846,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.9.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.9.0.12.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -8654,29 +8654,29 @@
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 9.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 9.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.12",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.12"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\709016\\.nuget\\packages\\": {},
+    "C:\\Users\\abdul\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\709016\\.nuget\\packages\\",
-      "outputPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\obj\\",
+      "projectPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+      "outputPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\709016\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8685,6 +8685,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8703,7 +8704,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -8723,7 +8724,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[9.0.0, )"
+            "version": "[9.0.12, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -8747,12 +8748,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.0, 9.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8761,7 +8756,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

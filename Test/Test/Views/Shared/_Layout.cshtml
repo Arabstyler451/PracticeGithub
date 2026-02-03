@@ -8,54 +8,171 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Test.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Footer.css" asp-append-version="true" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!--Bootstrap ================================================== -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" asp-append-version="true" />
+
+    <!--vendor css ================================================== -->
+    <link rel="stylesheet" href="~/css/vendor.css" asp-append-version="true" />
+
+    <!--Link Swiper's CSS ================================================== -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
+    <!--Link AOS's CSS ================================================== -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+    <!-- Style Sheet ================================================== -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <!-- Google Fonts ================================================== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CityPoint</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Rooms" asp-action="Index">Rooms</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Bookings" asp-action="Index">Booking</a>
-                        </li>
-                    </ul>
-                    <partial name="_LoginPartial" />
+    <header id="header">
+        <nav id="primary-header" class="navbar navbar-expand-lg py-4">
+            <div class="container-fluid padding-side">
+                <div class="d-flex justify-content-between align-items-center w-100">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="images/main-logo.png" class="logo img-fluid">
+                    </a>
+                    <button class="navbar-toggler border-0 d-flex d-lg-none order-3 p-2 shadow-none" type="button"
+                            data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false">
+                        <svg class="navbar-icon" width="60" height="60">
+                            <use xlink:href="#navbar-icon"></use>
+                        </svg>
+                    </button>
+                    <div class="header-bottom offcanvas offcanvas-end " id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel">
+                        <div class="offcanvas-header px-4 pb-0">
+                            <button type="button" class="btn-close btn-close-black mt-2" data-bs-dismiss="offcanvas"
+                                    aria-label="Close" data-bs-target="#bdNavbar"></button>
+                        </div>
+                        <div class="offcanvas-body align-items-center justify-content-center">
+                            <div class="search d-block d-lg-none m-5">
+                                <form class=" position-relative">
+                                    <input type="text" class="form-control bg-secondary border-0 rounded-5 px-4 py-2"
+                                           placeholder="Search...">
+                                    <a href="#" class="position-absolute top-50 end-0 translate-middle-y p-1 me-3">
+                                        <svg class="" width="20" height="20">
+                                            <use xlink:href="#search"></use>
+                                        </svg>
+                                    </a>
+                                </form>
+                            </div>
+                            <ul class="navbar-nav align-items-center mb-2 mb-lg-0">
+                                <li class="nav-item px-3">
+                                    <a class="nav-link active p-0" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+                                <li class="nav-item px-3">
+                                    <a class="nav-link active p-0" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                                </li>
+                                <li class="nav-item px-3">
+                                    <a class="nav-link active p-0" asp-area="" asp-controller="Rooms" asp-action="Index">Rooms</a>
+                                </li>
+                                <li class="nav-item px-3">
+                                    <a class="nav-link active p-0" asp-area="" asp-controller="Bookings" asp-action="Index">Booking</a>
+                                </li>
+                                <li class="nav-item px-3 dropdown">
+                                    <a class="nav-link p-0 dropdown-toggle text-center " data-bs-toggle="dropdown" href="#" role="button"
+                                       aria-expanded="false">Pages</a>
+                                    <ul class="dropdown-menu dropdown-menu-end animate slide mt-3 border-0 shadow">
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">About </a>
+                                        </li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">Room </a>
+                                        </li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item">
+                                                Room-Details
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">Blog </a>
+                                        </li>
+                                        <li><a href="index.html" class="dropdown-item ">Blog-Single </a></li>
+                                        <li><a href="index.html" class="dropdown-item ">Services </a></li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">
+                                                Service-Details
+                                            </a>
+                                        </li>
+                                        <li><a href="index.html" class="dropdown-item ">Booking </a></li>
+                                        <li><a href="index.html" class="dropdown-item ">Gallery </a></li>
+                                        <li><a href="index.html" class="dropdown-item ">Contact </a></li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">Team </a>
+                                        </li>
+                                        <li><a href="index.html" class="dropdown-item ">Reviews </a></li>
+                                        <li>
+                                            <a href="index.html" class="dropdown-item ">FAQs </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <partial name="_LoginPartial" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            © 2026 CityPoint Room Hire. All rights reserved <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <section id="footer">
+        <hr class="text-black">
+        <div class="container-fluid padding-side padding-small" data-aos="fade-up">
+            <footer class="row">
+                <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                    <h4 class="display-6 fw-normal">Quick links</h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item"><a href="#" class="p-0 "> Home </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> About us </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Rooms </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Booking</a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Contact us </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Support </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 offset-lg-1 mb-4 mb-lg-0">
+                    <h4 class="display-6 fw-normal">Services</h4>
+                    <ul class="nav flex-column">
+                        <li class="nav-item"><a href="#" class="p-0 "> Spa </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Pool </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Yoga </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Gym</a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> News </a></li>
+                        <li class="nav-item"><a href="#" class="p-0 "> Terms & Conditions </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-lg-3 offset-lg-1 mb-4 mb-lg-0">
+                    <p class="m-0">© Copyright 2026 CityPoint Room Hire</p>
+                </div>
+            </footer>
         </div>
-    </footer>
+    </section>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="js/plugins.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

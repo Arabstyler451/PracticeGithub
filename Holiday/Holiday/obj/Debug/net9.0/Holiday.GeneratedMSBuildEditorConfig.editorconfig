@@ -15,131 +15,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v9.0
 build_property.RootNamespace = Holiday
 build_property.RootNamespace = Holiday
-build_property.ProjectDir = C:\Users\709016\source\repos\Holiday\Holiday\
+build_property.ProjectDir = D:\T Level Material\Visual Studio 2026\PracticeGithub\Holiday\Holiday\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\709016\source\repos\Holiday\Holiday
+build_property.MSBuildProjectDirectory = D:\T Level Material\Visual Studio 2026\PracticeGithub\Holiday\Holiday
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Destinations/Create.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Destinations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Destinations/Delete.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Destinations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Destinations/Details.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Destinations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Destinations/Edit.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Destinations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Destinations/Index.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Destinations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Flights/Create.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Flights/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Flights/Delete.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Flights/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Flights/Details.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Flights/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Flights/Edit.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Flights/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Flights/Index.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Flights/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmxpZ2h0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Home/Index.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Home/Privacy.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Shared/Error.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Shared/_LoginPartial.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/tickets/Create.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/tickets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGlja2V0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/tickets/Delete.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/tickets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGlja2V0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/tickets/Details.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/tickets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/tickets/Edit.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/tickets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGlja2V0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/tickets/Index.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/tickets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGlja2V0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Travels/Create.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Travels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Travels/Delete.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Travels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Travels/Details.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Travels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Travels/Edit.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Travels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Travels/Index.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Travels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdmVsc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/_ViewImports.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/_ViewStart.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/709016/source/repos/Holiday/Holiday/Views/Shared/_Layout.cshtml]
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/Holiday/Holiday/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rovrgc8y4x

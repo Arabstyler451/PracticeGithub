@@ -6,7 +6,7 @@
     font-weight: 500;
     text-decoration: none;
     transition: all 0.25s ease; /* Smooth changes */
-    margin: 0 1rem; /* Space between them */
+    margin: 0 0.5rem; /* Space between them */
     border: 1px solid transparent; /* For smooth hover transitions */
 }
 
@@ -28,7 +28,7 @@
 /* Register button: starts with your color */
 .custom-register {
     background-color: #BE6A21; /* Your specified orange */
-    color: #ffffff; /* White text */
+    color: #ffffff !important; /* White text */
     border: 1px solid #a55c1c; /* Slightly darker border */
     border-radius: 2rem; /* Soft rounded corners */
 }
@@ -36,7 +36,6 @@
     .custom-register:hover,
     .custom-register:focus {
         background-color: #a55c1c; /* Darker orange on hover (derived from #BE6A21) */
-        color: #ffffff;
+        color: #ffffff !important;
         transform: translateY(0px);
-
     }

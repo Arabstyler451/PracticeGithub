@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\tokafitness\\tokafitness\\controllers\\gymcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|solutionrelative:tokafitness\\controllers\\gymcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\tokafitness\\tokafitness\\controllers\\gympassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|solutionrelative:tokafitness\\controllers\\gympassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\tokafitness\\tokafitness\\models\\gymcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|solutionrelative:tokafitness\\models\\gymcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\tokafitness\\tokafitness\\controllers\\gymcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE941A85-BEFB-46B5-A491-2FE92D510267}|ToKaFitness\\ToKaFitness.csproj|solutionrelative:tokafitness\\controllers\\gymcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GymPassesController.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
-              "RelativeDocumentMoniker": "ToKaFitness\\Controllers\\GymPassesController.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
-              "RelativeToolTip": "ToKaFitness\\Controllers\\GymPassesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T23:02:24.167Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -56,32 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GymPassesController.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
+              "RelativeDocumentMoniker": "ToKaFitness\\Controllers\\GymPassesController.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymPassesController.cs",
+              "RelativeToolTip": "ToKaFitness\\Controllers\\GymPassesController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T23:02:24.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GymCustomersController.cs",
               "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymCustomersController.cs",
               "RelativeDocumentMoniker": "ToKaFitness\\Controllers\\GymCustomersController.cs",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Controllers\\GymCustomersController.cs",
               "RelativeToolTip": "ToKaFitness\\Controllers\\GymCustomersController.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T23:01:51.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T23:01:51.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GymPass.cs",
               "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymPass.cs",
               "RelativeDocumentMoniker": "ToKaFitness\\Models\\GymPass.cs",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymPass.cs",
               "RelativeToolTip": "ToKaFitness\\Models\\GymPass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T23:01:27.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GymCustomer.cs",
               "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ToKaFitness\\ToKaFitness\\Models\\GymCustomer.cs",
               "RelativeDocumentMoniker": "ToKaFitness\\Models\\GymCustomer.cs",

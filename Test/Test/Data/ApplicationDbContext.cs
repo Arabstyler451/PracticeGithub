@@ -14,5 +14,6 @@ namespace Test.Data
         public DbSet<Test.Models.AccountInformation> AccountInformation { get; set; } = default!;
         public DbSet<Test.Models.Booking> Booking { get; set; } = default!;
         public DbSet<Test.Models.Room> Room { get; set; } = default!;
+        public DbSet<Test.Models.Staff> Staff { get; set; } = default!;
     }
 }

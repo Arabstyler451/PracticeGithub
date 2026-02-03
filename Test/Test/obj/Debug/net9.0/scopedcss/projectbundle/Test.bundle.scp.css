@@ -1,4 +1,4 @@
-/* _content/Test/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* /Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 .navbar-brand[b-zz1b99kxi4] {
@@ -53,7 +53,7 @@ button.accept-policy[b-zz1b99kxi4] {
   line-height: inherit;
 }
 
-.footer[b-zz1b99kxi4] {
+/*.footer {
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -62,9 +62,8 @@ button.accept-policy[b-zz1b99kxi4] {
     background-color: #1C1917;
 }
 
-    .footer.text-muted[b-zz1b99kxi4],
-    .footer.text-muted a:hover[b-zz1b99kxi4] {
+    .footer.text-muted,
+    .footer.text-muted a:hover {
         color: #A8A29E !important; /* White text + override for links */
-        font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
+        /*font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
     }
-

@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
 using Test.Data;
 using Test.Models;
 
@@ -20,32 +22,31 @@ namespace Test.Controllers
         }
 
         // GET: Bookings
+        [Authorize]
         public async Task<IActionResult> Index()
         {
-            var applicationDbContext = _context.Booking.Include(b => b.Room);
-            return View(await applicationDbContext.ToListAsync());
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var userBookingData = await _context.Booking.Where(h => h.UserId == userId).ToListAsync();
+
+            return View(userBookingData);
         }
 
         // GET: Bookings/Details/5
+        [Authorize]
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var BookingData = await _context.Booking.FirstOrDefaultAsync(r => r.BookingId == id && r.UserId == UserId);
+            if (BookingData == null)
             {
-                return NotFound();
+                return Unauthorized();
             }
-
-            var booking = await _context.Booking
-                .Include(b => b.Room)
-                .FirstOrDefaultAsync(m => m.BookingId == id);
-            if (booking == null)
-            {
-                return NotFound();
-            }
-
-            return View(booking);
+            return View(BookingData);
         }
 
         // GET: Bookings/Create
+        [Authorize]
         public IActionResult Create(int roomId)
         {
             ViewBag.RoomId = roomId;
@@ -55,10 +56,31 @@ namespace Test.Controllers
         // POST: Bookings/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("BookingId,RoomId,UserId,BookingDate,StartTime,EndTime,Status")] Booking booking)
+        public async Task<IActionResult> Create([Bind("BookingId,BookingDate,StartTime,EndTime,Status")] Booking booking)
         {
+            var RoomId = await _context.Room.FindAsync(booking.RoomId);
+
+            if (RoomId == null)
+            {
+                return NotFound();
+            }
+            booking.Room = RoomId;
+            ModelState.Remove("Room");
+
+            var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (UserId == null)
+            {
+                return NotFound();
+            }
+
+            booking.UserId = UserId;
+            ModelState.Remove("UserId");
+
+
             var TheRoom = await _context.Room.FindAsync(booking.RoomId);
             if (TheRoom == null)
             {
@@ -66,7 +88,7 @@ namespace Test.Controllers
             }
             booking.Room = TheRoom;
 
-            ModelState.Remove("HotelRoom");
+            ModelState.Remove("Room");
 
             if (ModelState.IsValid)
             {
@@ -79,29 +101,45 @@ namespace Test.Controllers
         }
 
         // GET: Bookings/Edit/5
+        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var BookingData = await _context.Booking.FirstOrDefaultAsync(r => r.BookingId == id && r.UserId == UserId);
+            if (BookingData == null)
             {
-                return NotFound();
+                return Unauthorized();
             }
-
-            var booking = await _context.Booking.FindAsync(id);
-            if (booking == null)
-            {
-                return NotFound();
-            }
-            ViewData["RoomId"] = new SelectList(_context.Set<Room>(), "RoomId", "RoomId", booking.RoomId);
-            return View(booking);
+            return View(BookingData);
         }
 
         // POST: Bookings/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("BookingId,RoomId,UserId,BookingDate,StartTime,EndTime,Status")] Booking booking)
+        public async Task<IActionResult> Edit(int id, [Bind("BookingId,BookingDate,StartTime,EndTime,Status")] Booking booking)
         {
+            var room = await _context.Room.FindAsync(booking.RoomId);
+
+            if (room == null)
+            {
+                return NotFound();
+            }
+            booking.Room = room;
+            ModelState.Remove("Room");
+
+            var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            if (UserId == null)
+            {
+                return NotFound();
+            }
+
+            booking.UserId = UserId;
+            ModelState.Remove("UserId");
+
             if (id != booking.BookingId)
             {
                 return NotFound();
@@ -132,6 +170,7 @@ namespace Test.Controllers
         }
 
         // GET: Bookings/Delete/5
+        [Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -151,6 +190,7 @@ namespace Test.Controllers
         }
 
         // POST: Bookings/Delete/5
+        [Authorize]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -165,6 +205,7 @@ namespace Test.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [Authorize]
         private bool BookingExists(int id)
         {
             return _context.Booking.Any(e => e.BookingId == id);

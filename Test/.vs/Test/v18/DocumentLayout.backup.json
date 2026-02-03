@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Data\\Migrations\\20260203223932_Greg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Test\\Data\\Migrations\\20260203223932_Greg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260203223932_Greg.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Data\\Migrations\\20260203223932_Greg.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Migrations\\20260203223932_Greg.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Data\\Migrations\\20260203223932_Greg.cs",
+              "RelativeToolTip": "Test\\Data\\Migrations\\20260203223932_Greg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T22:39:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T22:29:16.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\SeedData.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Data\\SeedData.cs",
+              "RelativeToolTip": "Test\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T21:49:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T21:35:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\BookingsController.cs",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Test\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T20:22:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T20:11:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAkwKMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-02T22:11:47.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
