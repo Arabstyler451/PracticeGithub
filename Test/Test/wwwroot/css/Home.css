@@ -1,0 +1,382 @@
+﻿/* Hero Section - Updated for side-by-side layout */
+.hero {
+    min-height: 100vh !important;
+    background: none !important; /* Remove background image */
+    background-color: #ffffff !important; /* White background */
+    position: relative !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 0 !important;
+    padding: 60px 0 !important;
+}
+
+.hero-overlay {
+    display: none !important; /* Hide overlay since no background image */
+}
+
+.hero-container {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 60px !important;
+    max-width: 1200px !important;
+    width: 100% !important;
+    padding: 0 40px !important;
+    margin: 0 auto !important;
+    align-items: center !important;
+}
+
+/* Left side - Text Content */
+.hero-content {
+    position: relative !important;
+    z-index: 2 !important;
+    color: #333333 !important; /* Dark text color for light background */
+    text-align: left !important;
+    padding-right: 40px !important;
+}
+
+.hero-text {
+    max-width: 500px !important;
+    margin: 0 !important;
+}
+
+.hero-tagline {
+    margin-bottom: 20px !important;
+}
+
+    .hero-tagline span {
+        background-color: #BE6A21 !important; /* Your orange color */
+        color: white !important;
+        padding: 8px 20px !important;
+        border-radius: 30px !important;
+        font-size: 16px !important;
+        font-weight: 600 !important;
+        letter-spacing: 1px !important;
+        text-transform: uppercase !important;
+        display: inline-block !important;
+    }
+
+.hero-title {
+    font-size: 48px !important;
+    font-weight: 700 !important;
+    line-height: 1.2 !important;
+    margin-bottom: 25px !important;
+    color: #333333 !important; /* Dark text color */
+}
+
+    .hero-title .highlight {
+        color: #BE6A21 !important; /* Your orange color */
+    }
+
+.hero-description {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+    margin-bottom: 40px !important;
+    color: #666666 !important; /* Medium gray for description */
+}
+
+/* Hero Buttons - Fixed */
+.hero-buttons {
+    display: flex !important;
+    gap: 20px !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    flex-wrap: wrap !important;
+}
+
+    .hero-buttons li {
+        margin: 0 !important;
+        list-style: none !important;
+        display: block !important;
+    }
+
+/* Base reset for both buttons */
+.browse-room-btn,
+.make-booking-btn {
+    display: inline-block !important;
+    padding: 0.75rem 2rem !important; /* Slightly larger for prominence */
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    transition: all 0.25s ease !important;
+    margin: 0 !important;
+    border: 1px solid transparent !important;
+    font-size: 1rem !important;
+    text-align: center !important;
+    cursor: pointer !important;
+    min-width: 160px !important;
+    border-radius: 2rem !important;
+}
+
+/* Browse Rooms button - Matches custom-register style */
+.browse-room-btn {
+    background-color: #BE6A21 !important;
+    color: #ffffff !important;
+    border: 1px solid #a55c1c !important;
+}
+
+    .browse-room-btn:hover,
+    .browse-room-btn:focus {
+        background-color: #a55c1c !important;
+        color: #ffffff !important;
+        transform: translateY(0px) !important;
+        text-decoration: none !important;
+    }
+
+/* Make Booking button - Matches custom-login style */
+.make-booking-btn {
+    background-color: #ffffff !important;
+    color: #BE6A21 !important;
+    border: 1px solid #BE6A21 !important;
+}
+
+    .make-booking-btn:hover,
+    .make-booking-btn:focus {
+        background-color: #BE6A21 !important;
+        color: #ffffff !important;
+        transform: translateY(0px) !important;
+        text-decoration: none !important;
+        border-color: #BE6A21 !important;
+    }
+
+/* Right side - Image Grid */
+.hero-images {
+    position: relative !important;
+}
+
+.image-grid {
+    display: grid !important;
+    grid-template-rows: 1fr 1fr !important;
+    gap: 20px !important;
+    height: 500px !important; /* Adjust based on your needs */
+}
+
+.image-row {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 20px !important;
+}
+
+.image-item {
+    position: relative !important;
+    overflow: hidden !important;
+    border-radius: 12px !important;
+}
+
+    .image-item:hover {
+        transform: translateY(-5px) !important;
+    }
+
+    .image-item img {
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+        display: block !important;
+        transition: transform 0.5s ease !important;
+    }
+
+    .image-item:hover img {
+        transform: scale(1.05) !important;
+    }
+
+.image-overlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: linear-gradient(to bottom, transparent 70%, rgba(0, 0, 0, 0.2) 100%) !important;
+    pointer-events: none !important;
+}
+
+/* Focus states for accessibility */
+.browse-room-btn:focus,
+.make-booking-btn:focus {
+    outline: 2px solid rgba(190, 106, 33, 0.5) !important;
+    outline-offset: 2px !important;
+}
+
+/* Override Bootstrap button defaults */
+a.browse-room-btn,
+a.make-booking-btn {
+    text-decoration: none !important;
+    display: inline-block !important;
+}
+
+/* Override Bootstrap list styling */
+ul.hero-buttons,
+ol.hero-buttons {
+    list-style-type: none !important;
+    -webkit-padding-start: 0 !important;
+    -moz-padding-start: 0 !important;
+    padding-inline-start: 0 !important;
+}
+
+/* Make sure Bootstrap doesn't add its own margins */
+.hero-buttons > li {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .hero-container {
+        grid-template-columns: 1fr !important;
+        gap: 40px !important;
+        padding: 0 30px !important;
+    }
+
+    .hero-content {
+        padding-right: 0 !important;
+        text-align: center !important;
+    }
+
+    .hero-text {
+        max-width: 600px !important;
+        margin: 0 auto !important;
+    }
+
+    .image-grid {
+        height: 400px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero {
+        padding: 40px 0 !important;
+        min-height: auto !important;
+    }
+
+    .hero-container {
+        padding: 0 20px !important;
+        gap: 30px !important;
+    }
+
+    .hero-title {
+        font-size: 36px !important;
+    }
+
+    .hero-description {
+        font-size: 16px !important;
+    }
+
+    .image-grid {
+        height: 350px !important;
+        gap: 15px !important;
+    }
+
+    .image-row {
+        gap: 15px !important;
+    }
+
+    .browse-room-btn,
+    .make-booking-btn {
+        padding: 0.65rem 1.5rem !important;
+        min-width: 140px !important;
+        font-size: 0.95rem !important;
+    }
+
+    .hero-buttons {
+        justify-content: center !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 28px !important;
+    }
+
+    .hero-tagline span {
+        font-size: 14px !important;
+        padding: 6px 15px !important;
+    }
+
+    .hero-description {
+        font-size: 15px !important;
+    }
+
+    .image-grid {
+        height: 300px !important;
+        gap: 10px !important;
+    }
+
+    .image-row {
+        gap: 10px !important;
+    }
+
+    .browse-room-btn,
+    .make-booking-btn {
+        padding: 0.6rem 1.2rem !important;
+        min-width: 130px !important;
+        font-size: 0.9rem !important;
+    }
+
+    .hero-buttons {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 15px !important;
+    }
+}
+
+/* Optional: Animation for buttons on page load */
+@keyframes buttonFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.hero-buttons li {
+    animation: buttonFadeIn 0.6s ease 0.4s both;
+}
+
+    .hero-buttons li:nth-child(2) {
+        animation-delay: 0.6s !important;
+    }
+
+
+/* Reposition the navbar-brand next to Home */
+#primary-header .container-fluid {
+    position: relative !important;
+}
+
+#primary-header .navbar-brand {
+    position: absolute !important;
+    left: 15px !important;
+    font-family: 'Bacasime Antique', serif !important;
+    font-size: 2.5rem !important;
+    font-weight: 550 !important;
+    color: #000 !important;
+    text-decoration: none !important;
+    transition: color 0.05s ease !important; /* Fast transition on both hover and unhover */
+}
+
+/* Very fast orange hover effect for the brand */
+#primary-header .navbar-brand:hover {
+    color: #BE6A21 !important;
+}
+
+/* Adjust nav items to make space for the brand */
+#primary-header .navbar-nav {
+    margin-left: 120px !important;
+}
+
+/* For mobile view */
+@media (max-width: 991px) {
+    #primary-header .navbar-brand {
+        position: static !important;
+        left: auto !important;
+        margin-left: 0 !important;
+        transition: color 0.05s ease !important; /* Keep fast transition on mobile too */
+    }
+
+    #primary-header .navbar-nav {
+        margin-left: 0 !important;
+    }
+}

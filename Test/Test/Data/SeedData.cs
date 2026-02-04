@@ -15,35 +15,35 @@ namespace Test.Data
                     new Models.Staff
                     {
                         FirstName = "John",
-                        StaffEmail = "johnCityPoint@gmail.com",
+                        StaffEmail = "johncitypoint@gmail.com",
                         StaffPhoneNumber = "0712358721",
                         Role = "Manager"
                     },
                     new Models.Staff
                     {
                         FirstName = "Jane",
-                        StaffEmail = "janeCityPoint@gmail.com",
+                        StaffEmail = "janecitypoint@gmail.com",
                         StaffPhoneNumber = "0711190901",
                         Role = "Co-Executive"
                     },
                     new Models.Staff
                     {
                         FirstName = "Greg",
-                        StaffEmail = "GregCityPoint@gmail.com",
+                        StaffEmail = "gregcitypoint@gmail.com",
                         StaffPhoneNumber = "0743834333",
                         Role = "Customer Support"
                     },
                     new Models.Staff
                     {
                         FirstName = "Emily",
-                        StaffEmail = "emilyCityPoint@gmail.com",
+                        StaffEmail = "emilycitypoint@gmail.com",
                         StaffPhoneNumber = "0723188123",
                         Role = "Customer Support"
                     },
                     new Models.Staff
                     {
                         FirstName = "Adam",
-                        StaffEmail = "AdamCityPoint@gmail.com",
+                        StaffEmail = "adamcitypoint@gmail.com",
                         StaffPhoneNumber = "0754647484",
                         Role = "Receptionist"
                     },
@@ -110,7 +110,7 @@ namespace Test.Data
                         StarRating = 3,
                         GuestRating = 4.0,
                         NumberOfRooms = 4,
-                        IsAvailable = true
+                        IsAvailable = false
                         },
 
                     new Room
@@ -124,7 +124,7 @@ namespace Test.Data
                         StarRating = 5,
                         GuestRating = 4.7,
                         NumberOfRooms = 2,
-                        IsAvailable = true
+                        IsAvailable = false
                     },
 
                     new Room
@@ -164,7 +164,7 @@ namespace Test.Data
                         StarRating = 4,
                         GuestRating = 4.2,
                         NumberOfRooms = 2,
-                        IsAvailable = true
+                        IsAvailable = false
                     },
 
                     new Room
@@ -190,7 +190,7 @@ namespace Test.Data
                         StarRating = 5,
                         GuestRating = 4.9,
                         NumberOfRooms = 2,
-                        IsAvailable = true
+                        IsAvailable = false
                     }
 
                     

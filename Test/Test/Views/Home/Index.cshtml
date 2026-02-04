@@ -1,1 +1,36 @@
-﻿
+﻿<link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+        <div class="hero-text">
+            <div class="hero-tagline">
+                <span>Premium Venue</span>
+            </div>
+
+            <h1 class="hero-title">
+                Hire in the Heart<br>
+                <span class="highlight">of the City</span>
+            </h1>
+
+            <p class="hero-description">
+                Professional meeting rooms and conference spaces designed<br>
+                for productivity and success. Book your perfect space today.
+            </p>
+
+            <ul class="hero-buttons">
+                <li class="browse-Rooms">
+                    <a class="browse-room-btn" asp-area="" asp-controller="Rooms" asp-action="Index">Browse Rooms</a>
+                </li>
+                <li class="make-booking">
+                    <a class="make-booking-btn" asp-area="" asp-controller="Bookings" asp-action="Index">Make a Booking</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- JavaScript -->
+<script src="HomeScript.js"></script>

@@ -158,5 +158,92 @@ namespace Test.Controllers
             var FilteredRooms = await _context.Room.Where(r => r.NumberOfRooms == rooms).ToListAsync();
             return View("Index", FilteredRooms);
         }
+        public async Task<IActionResult> AvailableRooms(int rooms)
+        {
+            var AvailableRooms = await _context.Room.Where(r => r.IsAvailable == true).ToListAsync();
+            return View("Index", AvailableRooms);
+        }
+
+        public async Task<IActionResult> SortByGuestRating(bool ascending)
+        {
+            if (ascending == true)
+            {
+                var SortedRooms = await _context.Room.OrderBy(a => a.GuestRating).ToListAsync();
+                return View("Index", SortedRooms);
+            }
+            else if (ascending == false)
+            {
+                var SortedRooms = await _context.Room.OrderByDescending(d => d.GuestRating).ToListAsync();
+                return View("Index", SortedRooms);
+            }
+            return View("Index");
+        }
+        public async Task<IActionResult> FilterByPrice(float? minPrice, float? maxPrice)
+        {
+            IQueryable<Room> query = _context.Room;
+
+            if (minPrice.HasValue && maxPrice.HasValue)
+            {
+                // Both values provided - range filter
+                query = query.Where(r => r.PricePerHour >= minPrice.Value &&
+                                        r.PricePerHour <= maxPrice.Value);
+            }
+            else if (minPrice.HasValue && !maxPrice.HasValue)
+            {
+                // Only min provided - get rooms with price >= minPrice
+                query = query.Where(r => r.PricePerHour >= minPrice.Value);
+            }
+            else if (!minPrice.HasValue && maxPrice.HasValue)
+            {
+                // Only max provided - get rooms with price <= maxPrice
+                query = query.Where(r => r.PricePerHour <= maxPrice.Value);
+            }
+            // else: neither provided - return all rooms
+
+            var filteredRooms = await query.ToListAsync();
+            return View("Index", filteredRooms);
+        }
+        public async Task<IActionResult> SortByStarRating(bool ascending)
+        {
+            if (ascending == true)
+            {
+                var SortedRooms = await _context.Room.OrderBy(a => a.StarRating).ToListAsync();
+                return View("Index", SortedRooms);
+            }
+            else if (ascending == false)
+            {
+                var SortedRooms = await _context.Room.OrderByDescending(d => d.StarRating).ToListAsync();
+                return View("Index", SortedRooms);
+            }
+            return View("Index");
+        }
+
+        public async Task<IActionResult> FilterByCapacity(int? minCapacity, int? maxCapacity)
+        {
+            IQueryable<Room> query = _context.Room;
+
+            if (minCapacity.HasValue && maxCapacity.HasValue)
+            {
+                // Both values provided - range filter
+                query = query.Where(r => r.Capacity >= minCapacity.Value &&
+                                        r.Capacity <= maxCapacity.Value);
+            }
+            else if (minCapacity.HasValue && !maxCapacity.HasValue)
+            {
+                // Only min provided - get rooms with price >= minCapacity
+                query = query.Where(r => r.Capacity >= minCapacity.Value);
+            }
+            else if (!minCapacity.HasValue && maxCapacity.HasValue)
+            {
+                // Only max provided - get rooms with price <= maxCapacity
+                query = query.Where(r => r.Capacity <= maxCapacity.Value);
+            }
+            // else: neither provided - return all rooms
+
+            var filteredRooms = await query.ToListAsync();
+            return View("Index", filteredRooms);
+        }
+
+
     }
 }

@@ -9,6 +9,9 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+<form asp-action="Index">
+    <button type="submit">View all rooms</button>
+</form>
 
 <form asp-action="FilterByRooms" method="get">
     <div>
@@ -22,6 +25,32 @@
         </select>
     </div>
     <button type="submit">Filter Number of Rooms</button>
+</form>
+
+<form asp-action="AvailableRooms">
+    <button type="submit">Only display available rooms</button>
+</form>
+
+<a asp-action="SortByGuestRating" asp-route-ascending="true">Sort by Guest Rating (Ascending)</a>
+<a asp-action="SortByGuestRating" asp-route-ascending="false">Sort by Guest Rating (Descending)</a>
+
+<a asp-action="SortByStarRating" asp-route-ascending="true">Sort by Star Rating (Ascending)</a>
+<a asp-action="SortByStarRating" asp-route-ascending="false">Sort by Star Rating (Descending)</a>
+
+<form method="get" asp-action="FilterByPrice">
+    <label>Min Price:</label>
+    <input type="number" name="minPrice" step="10"/>
+    <label>Max Price:</label>
+    <input type="number" name="maxPrice" step="10" />
+    <button type="submit">Filter</button>
+</form>
+
+<form method="get" asp-action="FilterByCapacity">
+    <label>Min Capacity:</label>
+    <input type="number" name="minCapacity" step="1" />
+    <label>Max Capacity:</label>
+    <input type="number" name="maxCapacity" step="1" />
+    <button type="submit">Filter</button>
 </form>
 
 <table class="table">

@@ -59,17 +59,8 @@ namespace Test.Controllers
         [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("BookingId,BookingDate,StartTime,EndTime,Status")] Booking booking)
+        public async Task<IActionResult> Create([Bind("BookingId,RoomId,BookingDate,StartTime,EndTime,Status")] Booking booking)
         {
-            var RoomId = await _context.Room.FindAsync(booking.RoomId);
-
-            if (RoomId == null)
-            {
-                return NotFound();
-            }
-            booking.Room = RoomId;
-            ModelState.Remove("Room");
-
             var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
 
             if (UserId == null)
@@ -87,6 +78,18 @@ namespace Test.Controllers
                 return View(booking);
             }
             booking.Room = TheRoom;
+
+            // DATE VALIDATION: Check if booking date is in the past
+            if (booking.BookingDate < DateTime.Today)
+            {
+                ModelState.AddModelError("BookingDate", "Booking date cannot be in the past.");
+            }
+
+            // TIME VALIDATION: Check if end time is after start time
+            if (booking.EndTime <= booking.StartTime)
+            {
+                ModelState.AddModelError("EndTime", "End time must be after start time.");
+            }
 
             ModelState.Remove("Room");
 
