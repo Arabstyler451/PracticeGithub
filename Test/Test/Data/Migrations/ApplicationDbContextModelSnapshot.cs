@@ -245,39 +245,6 @@ namespace Test.Data.Migrations
                     b.ToTable("Accessibility");
                 });
 
-            modelBuilder.Entity("Test.Models.AccountInformation", b =>
-                {
-                    b.Property<int>("AccountInformationId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AccountInformationId"));
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("FullName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Password")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("PhoneNumber")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserId")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("AccountInformationId");
-
-                    b.ToTable("AccountInformation");
-                });
-
             modelBuilder.Entity("Test.Models.Booking", b =>
                 {
                     b.Property<int>("BookingId")

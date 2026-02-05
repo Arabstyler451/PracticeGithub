@@ -1,6 +1,7 @@
 ﻿using Test.Models;
 using Microsoft.EntityFrameworkCore;
 using Test.Data.Migrations;
+using Microsoft.AspNetCore.Identity;
 
 namespace Test.Data
 {
@@ -193,13 +194,38 @@ namespace Test.Data
                         IsAvailable = false
                     }
 
-                    
+
                 };
                 await context.Room.AddRangeAsync(rooms);
                 await context.SaveChangesAsync();
-              
+
             }
-             
+
+        }
+        public static async Task SeedRoles(IServiceProvider serviceProvider, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
+        {
+            string[] roleNames = { "Admin", "Manager", "User" };
+            foreach (var roleName in roleNames)
+            {
+                var roleExist = await roleManager.RoleExistsAsync(roleName);
+                if (!roleExist)
+                {
+                    var role = new IdentityRole(roleName);
+                    await roleManager.CreateAsync(role);
+                }
+            }
+
+            var adminUser = await userManager.FindByEmailAsync("admin@example.com");
+            if (adminUser == null)
+            {
+                adminUser = new IdentityUser { UserName = "admin@example.com", Email = "admin@example.com", EmailConfirmed = true }; //Admin Email
+                await userManager.CreateAsync(adminUser, "Admin@123"); //Admin Password
+            }
+
+            if (!await userManager.IsInRoleAsync(adminUser, "Admin"))
+            {
+                await userManager.AddToRoleAsync(adminUser, "Admin");
+            }
         }
     }
 }

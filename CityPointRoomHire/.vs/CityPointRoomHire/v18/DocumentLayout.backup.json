@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\citypointroomhire\\citypointroomhire\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|solutionrelative:citypointroomhire\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\citypointroomhire\\citypointroomhire\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|solutionrelative:citypointroomhire\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\citypointroomhire\\citypointroomhire\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6450C354-96E2-498C-B85C-07C67952A840}|CityPointRoomHire\\CityPointRoomHire.csproj|solutionrelative:citypointroomhire\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T17:18:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "CityPointRoomHire\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T17:15:54.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CityPointRoomHire\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityPointRoomHire\\CityPointRoomHire\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CityPointRoomHire\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-05T17:15:33.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,7 +11,7 @@ using Test.Data;
 using Test.Models;
 
 namespace Test.Controllers
-{
+{   
     public class BookingsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -122,16 +122,29 @@ namespace Test.Controllers
         [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("BookingId,BookingDate,StartTime,EndTime,Status")] Booking booking)
+        public async Task<IActionResult> Edit(int id, [Bind("BookingId,RoomId,BookingDate,StartTime,EndTime,Status")] Booking booking)
         {
-            var room = await _context.Room.FindAsync(booking.RoomId);
-
-            if (room == null)
+            var TheRoom = await _context.Room.FindAsync(booking.RoomId);
+            if (TheRoom == null)
             {
-                return NotFound();
+                return View(booking);
             }
-            booking.Room = room;
+            booking.Room = TheRoom;
+
+            // DATE VALIDATION: Check if booking date is in the past
+            if (booking.BookingDate < DateTime.Today)
+            {
+                ModelState.AddModelError("BookingDate", "Booking date cannot be in the past.");
+            }
+
+            // TIME VALIDATION: Check if end time is after start time
+            if (booking.EndTime <= booking.StartTime)
+            {
+                ModelState.AddModelError("EndTime", "End time must be after start time.");
+            }
+
             ModelState.Remove("Room");
+
 
             var UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
 
@@ -173,7 +186,7 @@ namespace Test.Controllers
         }
 
         // GET: Bookings/Delete/5
-        [Authorize]
+        [Authorize(Roles="Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -193,7 +206,7 @@ namespace Test.Controllers
         }
 
         // POST: Bookings/Delete/5
-        [Authorize]
+        [Authorize(Roles = "Admin")]
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

@@ -884,3 +884,10 @@ iconify-icon.quote {
         background-color: transparent;
         box-shadow: none;
     }
+
+.copyright {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
