@@ -1,323 +1,2039 @@
 {
   "Files": [
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Test.bundle.scp.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Test.bundle.scp.css",
       "PackagePath": "staticwebassets\\Test.pyu597wwb2.bundle.scp.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage1.jpg",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\AboutUsImage.jpg",
+      "PackagePath": "staticwebassets\\Images\\AboutUsImage.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage1.jpg",
       "PackagePath": "staticwebassets\\Images\\HomePageImage1.jpg"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage2.jpg",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage2.jpg",
       "PackagePath": "staticwebassets\\Images\\HomePageImage2.jpg"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage3.jpg",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage3.jpg",
       "PackagePath": "staticwebassets\\Images\\HomePageImage3.jpg"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage4.jpg",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\Images\\HomePageImage4.jpg",
       "PackagePath": "staticwebassets\\Images\\HomePageImage4.jpg"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Footer.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\LICENSE",
+      "PackagePath": "staticwebassets\\admin"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\README.md",
+      "PackagePath": "staticwebassets\\admin\\README.md"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\demo.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css.map"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\kaiadmin.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\kaiadmin.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\kaiadmin.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\kaiadmin.css.map"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\kaiadmin.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\kaiadmin.min.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\plugins.css.map",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\plugins.css.map"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\css\\plugins.min.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\plugins.min.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\fonts\\summernote\\summernote.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\fonts\\summernote\\summernote.woff2"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\arashmil.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\bg-404.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\bg-404.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\blogpost.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\blogpost.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\chadengle.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\chadengle.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example1-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example1-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example1.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example1.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example10-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example10-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example10.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example10.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example11-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example11-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example11.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example11.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example12-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example12-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example12.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example12.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example2-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example2-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example2.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example2.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example3-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example3-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example3.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example3.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example4-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example4-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example4.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example4.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example5-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example5-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example5.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example5.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example6-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example6-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example6.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example6.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example7-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example7-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example7.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example7.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example8-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example8-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example8.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example8.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example9-300x300.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example9-300x300.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\example9.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\example9.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\logo.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\logo1.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\logo1.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\logo2.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\logo2.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\logoinvoice.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\logoinvoice.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product1.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product10.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product10.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product11.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product11.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product12.jpeg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product12.jpeg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product2.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product3.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product4.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product5.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product6.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product6.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product7.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\examples\\product8.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\examples\\product8.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ad.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ae.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\af.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\af.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ag.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ai.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\al.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\al.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\am.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\am.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\an.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\an.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ao.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ar.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\as.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\as.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\at.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\at.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\au.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\au.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\aw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ax.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\az.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\az.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ba.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bb.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bd.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\be.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\be.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bi.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bj.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bo.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bs.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\by.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\by.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\bz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ca.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\catalonia.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\catalonia.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cd.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ch.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ci.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ck.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\co.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\co.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cs.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cx.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cy.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\cz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\dj.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\dk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\dm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\do.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\do.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\dz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ec.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ee.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\eg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\eh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\england.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\england.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\er.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\er.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\et.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\et.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\europeanunion.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\europeanunion.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fam.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fi.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fj.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fo.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\fr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ga.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gb.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gd.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ge.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gi.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gp.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gq.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gs.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\gy.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\hm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ht.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\hu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\id.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\id.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ie.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\il.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\il.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\in.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\in.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\io.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\io.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\iq.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ir.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\is.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\is.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\it.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\it.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\jm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\jo.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\jp.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ke.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ki.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\km.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\km.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kp.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ky.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\kz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\la.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\la.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lb.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\li.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\li.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ls.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\lv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ly.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ma.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\md.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\md.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\me.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\me.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ml.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mo.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mp.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mq.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ms.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mx.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\my.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\my.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\mz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\na.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\na.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ne.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ng.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ni.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\no.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\no.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\np.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\np.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\nz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\om.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\om.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pa.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pe.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ph.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ps.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\pw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\py.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\py.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\qa.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\re.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\re.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\readme.txt",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\readme.txt"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ro.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\rs.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\rs.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ru.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\rw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sa.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sb.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\scotland.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sd.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\se.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\se.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sh.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\si.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\si.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sj.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sj.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\so.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\so.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\st.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\st.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sy.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\sz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\td.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\td.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\th.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\th.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tj.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tk.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tl.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\to.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\to.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tr.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tv.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\tz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ua.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ug.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\um.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\um.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\uy.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\uz.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\va.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\va.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vc.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ve.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vg.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vi.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vn.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\vu.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\wales.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\wf.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ws.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\ye.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\yt.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\za.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\za.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\zm.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\flags\\zw.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\img-shadow.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\img-shadow.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\jm_denis.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\jm_denis.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo1.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo2.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo2.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo3.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo3.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo4.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo4.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo5.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo6.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo7.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo8.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo8.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\demo9.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\demo9.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\favicon.ico"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\favicon.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\favicon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\favicon.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\icon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\icon.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\icon.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\icon.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\logo_dark.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\logo_dark.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\logo_dark.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\logo_dark.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\logo_documentation.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\logo_documentation.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\logo_light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\logo_light.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\kaiadmin\\logo_light.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\kaiadmin\\logo_light.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\logoproduct.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logoproduct.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\logoproduct2.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logoproduct2.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\logoproduct3.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\logoproduct3.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\mlane.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\mlane.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\sauro.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\sauro.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\talha.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\talha.jpg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\undraw\\undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\undraw\\undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\img\\visa.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\visa.svg"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\core\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\kaiadmin.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\kaiadmin.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\kaiadmin.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\kaiadmin.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\datepicker\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jquery.magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jquery.validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jsvectormap\\jsvectormap.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\jsvectormap\\world.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\jsvectormap\\world.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\list.js\\list.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\list.js\\list.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\moment\\moment.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\owl-carousel\\ajax-loader.gif"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\owl-carousel\\owl.video.play.png"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\select2\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\select2\\select2.full.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\sortable\\sortable.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\sortable\\sortable.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\sticky-sidebar\\sticky-sidebar.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\plugin\\webfont\\webfont.min.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\plugin\\webfont\\webfont.min.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\setting-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\setting-demo.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\assets\\js\\setting-demo2.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\charts\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\charts.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\charts\\sparkline.html",
+      "PackagePath": "staticwebassets\\admin\\charts\\sparkline.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\avatars.html",
+      "PackagePath": "staticwebassets\\admin\\components\\avatars.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\components\\buttons.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\font-awesome-icons.html",
+      "PackagePath": "staticwebassets\\admin\\components\\font-awesome-icons.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\gridsystem.html",
+      "PackagePath": "staticwebassets\\admin\\components\\gridsystem.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\notifications.html",
+      "PackagePath": "staticwebassets\\admin\\components\\notifications.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\panels.html",
+      "PackagePath": "staticwebassets\\admin\\components\\panels.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\simple-line-icons.html",
+      "PackagePath": "staticwebassets\\admin\\components\\simple-line-icons.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\sweetalert.html",
+      "PackagePath": "staticwebassets\\admin\\components\\sweetalert.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\components\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\components\\typography.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\forms\\forms.html",
+      "PackagePath": "staticwebassets\\admin\\forms\\forms.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\icon-menu.html",
+      "PackagePath": "staticwebassets\\admin\\icon-menu.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\maps\\googlemaps.html",
+      "PackagePath": "staticwebassets\\admin\\maps\\googlemaps.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\maps\\jsvectormap.html",
+      "PackagePath": "staticwebassets\\admin\\maps\\jsvectormap.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\sidebar-style-2.html",
+      "PackagePath": "staticwebassets\\admin\\sidebar-style-2.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\starter-template.html",
+      "PackagePath": "staticwebassets\\admin\\starter-template.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\tables\\datatables.html",
+      "PackagePath": "staticwebassets\\admin\\tables\\datatables.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\tables\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables\\tables.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\admin\\widgets.html",
+      "PackagePath": "staticwebassets\\admin\\widgets.html"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\AboutUs.css",
+      "PackagePath": "staticwebassets\\css\\AboutUs.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Footer.css",
       "PackagePath": "staticwebassets\\css\\Footer.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
       "PackagePath": "staticwebassets\\css\\Home.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\LoginPartials.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\LoginPartials.css",
       "PackagePath": "staticwebassets\\css\\LoginPartials.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\ajax-loader.gif",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Rooms.css",
+      "PackagePath": "staticwebassets\\css\\Rooms.css"
+    },
+    {
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\vendor.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\vendor.css",
       "PackagePath": "staticwebassets\\css\\vendor.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\favicon.ico",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\HomeScript.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\HomeScript.js",
       "PackagePath": "staticwebassets\\js\\HomeScript.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\ajax-loader.gif",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\js\\ajax-loader.gif"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\jquery-1.11.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\plugins.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\script.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\site.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

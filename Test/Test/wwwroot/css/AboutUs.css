@@ -1,0 +1,222 @@
+﻿/* =========================
+   BASE & RESET
+========================= */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bacasime Antique', serif;
+    color: #1a1a1a;
+    width: 100%;
+    overflow-x: hidden; /* Prevents horizontal scroll */
+}
+
+/* =========================
+   FULL WIDTH CONTAINERS
+========================= */
+
+.full-width-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* =========================
+   ABOUT HERO
+========================= */
+
+.about-hero {
+    padding: 120px 0;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.about-container {
+    display: grid;
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: 64px;
+    align-items: start;
+    max-width: 1400px; /* Or remove for full width */
+    margin: 0 auto;
+    padding: 0 48px;
+    width: 100%;
+}
+
+.about-text h1 {
+    font-size: 42px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.about-text p {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #6b6b6b;
+    margin-bottom: 18px;
+}
+
+/* Add to your existing CSS */
+.about-image {
+    height: 500px; /* Adjust as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    .about-image img {
+        width: 100%;
+        height: 100%;
+        border-radius: 3px;
+        object-fit: cover;
+        object-position: center;
+        max-height: 490px; /* Makes it more square */
+    }
+
+/* =========================
+   STATS - FULL WIDTH
+========================= */
+
+.about-stats {
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+    padding: 48px 0;
+    margin-top: 80px;
+    width: 100%;
+}
+
+.stats-container {
+    max-width: 1400px; /* Or remove for full width */
+    margin: 0 auto;
+    padding: 0 48px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    width: 100%;
+}
+
+.stat h3 {
+    font-size: 28px;
+    font-weight: 600;
+    color: #BE6A21;
+    margin-bottom: 6px;
+}
+
+.stat span {
+    font-size: 13px;
+    color: #777777;
+}
+
+/* =========================
+   VALUES - FULL WIDTH
+========================= */
+
+.values-section {
+    padding: 120px 0;
+    background-color: #fafafa;
+    width: 100%;
+}
+
+.values-header {
+    text-align: center;
+    margin-bottom: 64px;
+    max-width: 1400px; /* Or remove for full width */
+    margin: 0 auto 64px;
+    padding: 0 48px;
+}
+
+    .values-header h2 {
+        font-size: 36px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+
+    .values-header p {
+        font-size: 15px;
+        color: #777777;
+    }
+
+.values-grid {
+    max-width: 1400px; /* Or remove for full width */
+    margin: 0 auto;
+    padding: 0 48px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 32px;
+}
+
+.value-card {
+    background-color: #ffffff;
+    border: 1px solid #eeeeee;
+    border-radius: 12px;
+    padding: 28px;
+}
+
+    .value-card .icon {
+        font-size: 18px;
+        color: #BE6A21;
+        display: inline-block;
+        margin-bottom: 14px;
+    }
+
+    .value-card h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .value-card p {
+        font-size: 14px;
+        line-height: 1.6;
+        color: #6b6b6b;
+    }
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 900px) {
+    .about-container {
+        grid-template-columns: 1fr;
+        padding: 0 24px;
+    }
+
+    .stats-container {
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 32px;
+        padding: 0 24px;
+    }
+
+    .values-grid {
+        grid-template-columns: 1fr;
+        padding: 0 24px;
+    }
+
+    .values-header {
+        padding: 0 24px;
+    }
+
+    /* Adjust padding for mobile */
+    .about-hero {
+        padding: 80px 0;
+    }
+
+    .values-section {
+        padding: 80px 0;
+    }
+}
+
+/* For truly edge-to-edge design on all screens */
+@media (min-width: 1400px) {
+    .about-container,
+    .stats-container,
+    .values-grid,
+    .values-header {
+        max-width: 100%;
+        padding: 0 60px; /* Larger padding for very wide screens */
+    }
+}

@@ -2,35 +2,76 @@
 
 <!-- Hero Section -->
 <section class="hero">
-    <div class="hero-overlay"></div>
+    <div class="hero-container">
 
-    <div class="hero-content">
-        <div class="hero-text">
-            <div class="hero-tagline">
-                <span>Premium Venue</span>
+        <!-- LEFT: Text -->
+        <div class="hero-content">
+            <div class="hero-text">
+                <div class="hero-tagline">
+                    <span>Premium Venue</span>
+                </div>
+
+                <h1 class="hero-title">
+                    Hire in the Heart<br />
+                    <span class="highlight">of the City</span>
+                </h1>
+
+                <p class="hero-description">
+                    Professional meeting rooms and conference spaces designed<br />
+                    for productivity and success. Book your perfect space today.
+                </p>
+
+                <ul class="hero-buttons">
+                    <li>
+                        <a class="browse-room-btn"
+                           asp-controller="Rooms"
+                           asp-action="Index">
+                            Browse Rooms
+                        </a>
+                    </li>
+                    <li>
+                        <a class="make-booking-btn"
+                           asp-controller="Bookings"
+                           asp-action="Index">
+                            Make a Booking
+                        </a>
+                    </li>
+                </ul>
             </div>
-
-            <h1 class="hero-title">
-                Hire in the Heart<br>
-                <span class="highlight">of the City</span>
-            </h1>
-
-            <p class="hero-description">
-                Professional meeting rooms and conference spaces designed<br>
-                for productivity and success. Book your perfect space today.
-            </p>
-
-            <ul class="hero-buttons">
-                <li class="browse-Rooms">
-                    <a class="browse-room-btn" asp-area="" asp-controller="Rooms" asp-action="Index">Browse Rooms</a>
-                </li>
-                <li class="make-booking">
-                    <a class="make-booking-btn" asp-area="" asp-controller="Bookings" asp-action="Index">Make a Booking</a>
-                </li>
-            </ul>
         </div>
+
+        <!-- RIGHT: Image Grid -->
+        <div class="hero-images">
+            <div class="image-grid">
+
+                <!-- Top Row -->
+                <div class="image-row">
+                    <div class="image-item">
+                        <img src="~/images/HomePageImage1.jpg" alt="Meeting Room" />
+                        <div class="image-overlay"></div>
+                    </div>
+                    <div class="image-item">
+                        <img src="~/images/HomePageImage2.jpg" alt="Venue Hallway" />
+                        <div class="image-overlay"></div>
+                    </div>
+                </div>
+
+                <!-- Bottom Row -->
+                <div class="image-row">
+                    <div class="image-item">
+                        <img src="~/images/HomePageImage3.jpg" alt="Team Meeting" />
+                        <div class="image-overlay"></div>
+                    </div>
+                    <div class="image-item">
+                        <img src="~/images/HomePageImage4.jpg" alt="Boardroom" />
+                        <div class="image-overlay"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
     </div>
 </section>
 
-<!-- JavaScript -->
-<script src="HomeScript.js"></script>
+<script src="~/js/HomeScript.js"></script>

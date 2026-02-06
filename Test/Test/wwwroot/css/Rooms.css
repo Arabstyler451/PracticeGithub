@@ -1,0 +1,239 @@
+﻿/* =========================
+   BASE
+========================= */
+
+.rooms-section {
+    padding: 120px 0;
+    background-color: #ffffff;
+    font-family: 'Bacasime Antique', serif !important;
+}
+
+.rooms-header {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 80px;
+}
+
+    .rooms-header h1 {
+        font-size: 42px;
+        font-weight: 500;
+        margin-bottom: 14px;
+    }
+
+    .rooms-header p {
+        font-size: 16px;
+        line-height: 1.6;
+        color: #6b6b6b;
+    }
+
+/* =========================
+   GRID
+========================= */
+
+.rooms-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 36px;
+}
+
+/* =========================
+   CARD
+========================= */
+
+.room-card {
+    background-color: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid #eeeeee;
+    transition: transform 0.25s ease;
+}
+
+    .room-card:hover {
+        transform: translateY(-4px);
+    }
+
+.room-image {
+    position: relative;
+    height: 210px;
+}
+
+    .room-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+.price-badge {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    background-color: #ffffff;
+    color: #BE6A21;
+    font-size: 13px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-weight: 600;
+}
+
+/* =========================
+   CONTENT
+========================= */
+
+.room-content {
+    padding: 22px;
+}
+
+    .room-content h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .room-content p {
+        font-size: 14px;
+        line-height: 1.6;
+        color: #6b6b6b;
+        margin-bottom: 18px;
+    }
+
+.room-meta {
+    font-size: 14px;
+    color: #8a8a8a;
+    margin-bottom: 18px;
+}
+
+.room-link {
+    font-size: 14px;
+    font-weight: 600;
+    color: #BE6A21;
+    text-decoration: none;
+}
+
+    .room-link:hover {
+        text-decoration: underline;
+    }
+
+/* =========================
+   CTA
+========================= */
+
+.rooms-cta {
+    margin-top: 140px;
+    text-align: center;
+}
+
+    .rooms-cta h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+
+    .rooms-cta p {
+        font-size: 15px;
+        color: #6b6b6b;
+        margin-bottom: 26px;
+    }
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.cta-filled,
+.cta-outline {
+    padding: 10px 26px;
+    border-radius: 999px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.cta-filled {
+    background-color: #BE6A21;
+    color: #ffffff;
+}
+
+.cta-outline {
+    border: 1px solid #BE6A21;
+    color: #BE6A21;
+}
+
+.cta-filled :hover {
+    background-color: #a55c1c !important;
+    color: #ffffff !important;
+    transform: translateY(0px) !important;
+    text-decoration: none !important;
+}
+
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 1024px) {
+    .rooms-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 640px) {
+    .rooms-grid {
+        grid-template-columns: 1fr;
+        padding: 0 24px;
+    }
+}
+
+
+/* =========================
+   CARD ACTIONS
+========================= */
+
+.room-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* 👈 key line */
+    width: 100%;
+    margin-top: 14px;
+}
+
+
+.room-link {
+    font-size: 14px;
+    font-weight: 600;
+    color: #BE6A21;
+    text-decoration: none;
+}
+
+    .room-link:hover {
+        text-decoration: underline;
+    }
+
+/* Book Now button */
+.book-now-btn {
+    display: inline-block !important;
+    padding: 0.3rem 0.6rem !important; /* Slightly larger for prominence */
+    font-weight: 500 !important;
+    text-decoration: none !important;
+    transition: all 0.25s ease !important;
+    margin: 0 !important;
+    border: 1px solid transparent !important;
+    font-size: 1rem !important;
+    text-align: center !important;
+    cursor: pointer !important;
+    min-width: 100px !important;
+    border-radius: 2rem !important;
+}
+
+.book-now-btn {
+    background-color: #BE6A21 !important;
+    color: #ffffff !important;
+    border: 1px solid #a55c1c !important;
+}
+
+    .book-now-btn:hover {
+    background-color: #a55c1c !important;
+    color: #ffffff !important;
+    transform: translateY(0px) !important;
+    text-decoration: none !important;
+}

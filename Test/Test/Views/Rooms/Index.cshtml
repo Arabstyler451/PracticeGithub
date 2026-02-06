@@ -1,123 +1,122 @@
 ﻿@model IEnumerable<Test.Models.Room>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Our Rooms";
 }
 
-<h1>Rooms</h1>
+<link rel="stylesheet" href="~/css/Rooms.css" asp-append-version="true" />
 
-<form asp-action="Index">
-    <button type="submit">View all rooms</button>
-</form>
+<section class="rooms-section">
 
-<form asp-action="FilterByRooms" method="get">
-    <div>
-        <label for="rooms">Number of Rooms</label>
-        <select id="rooms" name="rooms">
-            <option value="1">1 Room</option>
-            <option value="2">2 Rooms</option>
-            <option value="3">3 Rooms</option>
-            <option value="4">4 Rooms</option>
-            <option value="5">5 Rooms</option>
-        </select>
+    @if (User.IsInRole("Admin"))
+    {
+        <div class="admin-floating-btn">
+            <a asp-area="" asp-controller="Rooms" asp-action="Create" class="btn-add-room">
+                <i class="fas fa-plus-circle"></i>
+                <span>Add New Room</span>
+            </a>
+        </div>
+    }
+
+    <style>
+        .admin-floating-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 1000;
+        }
+
+        .btn-add-room {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 14px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            transition: all 0.3s ease;
+            border: none;
+        }
+
+            .btn-add-room:hover {
+                transform: translateY(-3px);
+                box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+                color: white;
+                text-decoration: none;
+            }
+
+            .btn-add-room i {
+                font-size: 20px;
+            }
+    </style>
+
+    <!-- Header -->
+    <div class="rooms-header">
+        <h1>Our Rooms</h1>
+        <p>
+            Discover the perfect space for your meeting, conference, or event.
+            All rooms come equipped with modern amenities and professional service.
+        </p>
     </div>
-    <button type="submit">Filter Number of Rooms</button>
-</form>
 
-<form asp-action="AvailableRooms">
-    <button type="submit">Only display available rooms</button>
-</form>
+    <!-- Rooms Grid -->
+    <div class="rooms-grid">
+        @foreach (var room in Model)
+        {
+            <div class="room-card">
 
-<a asp-action="SortByGuestRating" asp-route-ascending="true">Sort by Guest Rating (Ascending)</a>
-<a asp-action="SortByGuestRating" asp-route-ascending="false">Sort by Guest Rating (Descending)</a>
+                <div class="room-image">
+                    <img src="~/images/HomePageImage1.jpg" alt="@room.Name" />
+                    <span class="price-badge">
+                        £@room.PricePerHour / hour
+                    </span>
+                </div>
 
-<a asp-action="SortByStarRating" asp-route-ascending="true">Sort by Star Rating (Ascending)</a>
-<a asp-action="SortByStarRating" asp-route-ascending="false">Sort by Star Rating (Descending)</a>
+                <div class="room-content">
+                    <h3>@room.Name</h3>
+                    <p>@room.Description</p>
 
-<form method="get" asp-action="FilterByPrice">
-    <label>Min Price:</label>
-    <input type="number" name="minPrice" step="10"/>
-    <label>Max Price:</label>
-    <input type="number" name="maxPrice" step="10" />
-    <button type="submit">Filter</button>
-</form>
+                    <div class="room-meta">
+                        <span>👥 Up to @room.Capacity people</span>
+                    </div>
 
-<form method="get" asp-action="FilterByCapacity">
-    <label>Min Capacity:</label>
-    <input type="number" name="minCapacity" step="1" />
-    <label>Max Capacity:</label>
-    <input type="number" name="maxCapacity" step="1" />
-    <button type="submit">Filter</button>
-</form>
+                    <div class="room-actions">
+                        <a asp-action="Details"
+                           asp-route-id="@room.RoomId"
+                           class="room-link">
+                            View Details →
+                        </a>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Capacity)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Equipment)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PricePerHour)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.StarRating)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.GuestRating)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NumberOfRooms)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IsAvailable)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Capacity)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Equipment)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.PricePerHour)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.StarRating)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.GuestRating)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NumberOfRooms)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IsAvailable)
-            </td>
-            <td>
-                <a asp-controller="Bookings" asp-action="Create" asp-route-RoomId="@item.RoomId">Book Now</a> |
-                <a asp-action="Details" asp-route-id="@item.RoomId">Details</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+                        <a asp-controller="Bookings"
+                           asp-action="Create"
+                           asp-route-RoomId="@room.RoomId"
+                           class="book-now-btn">
+                            Book Now
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        }
+    </div>
+
+</section>
+
+<!-- CTA SECTION -->
+<section class="rooms-cta">
+    <h2>Can't Find What You Need?</h2>
+    <p>Contact our team for custom arrangements and special requirements</p>
+
+    <div class="cta-buttons">
+        <a asp-controller="Home" asp-action="ContactUs" class="cta-outline">
+            Contact Us
+        </a>
+        <a asp-controller="Bookings" asp-action="Create" class="cta-filled">
+            Make a Booking
+        </a>
+    </div>
+</section>

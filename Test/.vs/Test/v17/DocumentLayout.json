@@ -1,39 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\",
+  "WorkspaceRootPath": "H:\\GitHub\\PracticeGithub\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\wwwroot\\css\\loginpartials.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\wwwroot\\css\\rooms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\wwwroot\\css\\rooms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\wwwroot\\css\\aboutus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\wwwroot\\css\\aboutus.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\wwwroot\\js\\homescript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|h:\\github\\practicegithub\\test\\test\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,149 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\BookingsController.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "Test\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:06:42.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPartials.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\LoginPartials.css",
-              "RelativeDocumentMoniker": "Test\\wwwroot\\css\\LoginPartials.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\LoginPartials.css",
-              "RelativeToolTip": "Test\\wwwroot\\css\\LoginPartials.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-04T14:49:28.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.css",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
-              "RelativeDocumentMoniker": "Test\\wwwroot\\css\\Home.css",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
-              "RelativeToolTip": "Test\\wwwroot\\css\\Home.css",
-              "ViewState": "AgIAAF0BAAAAAAAAAAAqwH0BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-04T14:33:49.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAAH8BAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T14:24:38.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Test\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-04T14:44:00.261Z",
+              "WhenOpened": "2026-02-06T10:57:34.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeScript.js",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\HomeScript.js",
-              "RelativeDocumentMoniker": "Test\\wwwroot\\js\\HomeScript.js",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\js\\HomeScript.js",
-              "RelativeToolTip": "Test\\wwwroot\\js\\HomeScript.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwBgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-04T14:33:18.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Room.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\Room.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Models\\Room.cs",
-              "RelativeToolTip": "Test\\Models\\Room.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T14:04:54.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "Test\\Data\\SeedData.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Data\\SeedData.cs",
-              "RelativeToolTip": "Test\\Data\\SeedData.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAowMAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T13:14:42.611Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAuwKMAAAAAAAAAAAAAAA==",
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T10:26:26.95Z",
+              "WhenOpened": "2026-02-06T10:19:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutUs.css",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\AboutUs.css",
+              "RelativeDocumentMoniker": "Test\\wwwroot\\css\\AboutUs.css",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\AboutUs.css",
+              "RelativeToolTip": "Test\\wwwroot\\css\\AboutUs.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-06T10:25:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T10:18:50.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rooms.css",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Rooms.css",
+              "RelativeDocumentMoniker": "Test\\wwwroot\\css\\Rooms.css",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Rooms.css",
+              "RelativeToolTip": "Test\\wwwroot\\css\\Rooms.css",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-06T09:50:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T09:46:50.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Rooms\\Index.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
-              "RelativeToolTip": "Test\\Views\\Rooms\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Title": "Home.css",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "Test\\wwwroot\\css\\Home.css",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "Test\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-06T09:12:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T10:12:51.891Z",
+              "WhenOpened": "2026-02-06T09:17:04.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "RoomsController.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\RoomsController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\RoomsController.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\RoomsController.cs",
-              "RelativeToolTip": "Test\\Controllers\\RoomsController.cs",
-              "ViewState": "AgIAANYAAAAAAAAAAAAUwOMAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:11:56.055Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T09:10:53.449Z",
               "EditorCaption": ""
             }
           ]
