@@ -1,5 +1,9 @@
+wwwroot\css\Footer.css
+wwwroot\css\LoginPartials.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Images\AccountIcon.png
+wwwroot\Images\AccountIcon.svg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -63,7 +67,6 @@ wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\css\site.css
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\favicon.ico
-D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\js\site.js
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -123,3 +126,7 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\lib\jquery\LICENSE.txt
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\js\site.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\css\Footer.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\css\LoginPartials.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\wwwroot\Images\AccountIcon.svg

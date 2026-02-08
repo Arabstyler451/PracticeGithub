@@ -1,68 +1,139 @@
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 .navbar-brand[b-zz1b99kxi4] {
-    font-family: "Bacasime Antique", serif !important; /* Optional enhancements for better look/feel */
-    font-size: 1.75rem !important; /* Slightly larger if desired – adjust as needed */
-    font-weight: normal !important; /* Georgia looks elegant at regular weight */
-    letter-spacing: 0.5px !important; /* Subtle spacing for polish */
+    font-family: "Bacasime Antique", serif !important;
+    font-size: 1.75rem !important;
+    font-weight: normal !important;
+    letter-spacing: 0.5px !important;
 }
 
-/* Optional: Make it bolder or italic on hover/focus */
+    /* Optional: Make it bolder or italic on hover/focus */
     .navbar-brand:hover[b-zz1b99kxi4],
     .navbar-brand:focus[b-zz1b99kxi4] {
-        color: #BE6A21 !important; /* Match your orange theme from earlier buttons? */
+        color: #BE6A21 !important;
         text-decoration: none !important;
     }
+
 a.navbar-brand[b-zz1b99kxi4] {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
-  color: white;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    color: white;
 }
 
 a[b-zz1b99kxi4] {
-  color: #0077cc;
+    color: #0077cc;
 }
 
 .btn-primary[b-zz1b99kxi4] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
 }
 
 .nav-pills .nav-link.active[b-zz1b99kxi4], .nav-pills .show > .nav-link[b-zz1b99kxi4] {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
 }
 
 .border-top[b-zz1b99kxi4] {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
 }
+
 .border-bottom[b-zz1b99kxi4] {
-  border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
 }
 
 .box-shadow[b-zz1b99kxi4] {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
 button.accept-policy[b-zz1b99kxi4] {
-  font-size: 1rem;
-  line-height: inherit;
+    font-size: 1rem;
+    line-height: inherit;
 }
 
-/*.footer {
+/* Navbar Centering */
+#primary-header .container-fluid[b-zz1b99kxi4] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-center[b-zz1b99kxi4] {
     position: absolute;
-    bottom: 0;
-    width: 100%;
-    white-space: nowrap;
-    line-height: 60px;
-    background-color: #1C1917;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
-    .footer.text-muted,
-    .footer.text-muted a:hover {
-        color: #A8A29E !important; /* White text + override for links */
-        /*font-family: 'Montserrat', sans-serif !important; /* !important overrides any Bootstrap defaults if needed */
+.nav-right[b-zz1b99kxi4] {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    white-space: nowrap;
+}
+
+    /* Force all login partial elements to be inline */
+    .nav-right form[b-zz1b99kxi4],
+    .nav-right a[b-zz1b99kxi4],
+    .nav-right button[b-zz1b99kxi4],
+    .nav-right div[b-zz1b99kxi4],
+    .nav-right li[b-zz1b99kxi4] {
+        display: inline-block !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        vertical-align: middle !important;
     }
+
+/* Navigation Links Styling */
+.navbar-nav.d-flex[b-zz1b99kxi4] {
+    gap: 1.5rem;
+}
+
+.nav-link[b-zz1b99kxi4] {
+    font-weight: 500;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+    .nav-link:hover[b-zz1b99kxi4],
+    .nav-link.active[b-zz1b99kxi4] {
+        color: #007bff;
+    }
+
+/* CSS-only hamburger icon */
+.hamburger-icon[b-zz1b99kxi4] {
+    width: 30px;
+    height: 20px;
+    position: relative;
+    transform: rotate(0deg);
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
+    .hamburger-icon span[b-zz1b99kxi4] {
+        display: block;
+        position: absolute;
+        height: 3px;
+        width: 100%;
+        background: #000;
+        border-radius: 3px;
+        opacity: 1;
+        left: 0;
+        transform: rotate(0deg);
+        transition: .25s ease-in-out;
+    }
+
+        .hamburger-icon span:nth-child(1)[b-zz1b99kxi4] {
+            top: 0px;
+        }
+
+        .hamburger-icon span:nth-child(2)[b-zz1b99kxi4] {
+            top: 8px;
+        }
+
+        .hamburger-icon span:nth-child(3)[b-zz1b99kxi4] {
+            top: 16px;
+        }

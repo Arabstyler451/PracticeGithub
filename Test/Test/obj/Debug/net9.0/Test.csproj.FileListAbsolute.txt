@@ -816,16 +816,12 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\Test.pdb
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\ref\Test.dll
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\8oq24varpt-{0}-m11qfk6or9-m11qfk6or9.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\wg9yyj7dvj-{0}-2omjt04a4f-2omjt04a4f.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ljk8vhk2ug-{0}-vk81rehhpd-vk81rehhpd.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hrhdktt3b1-{0}-uyj48ijtkf-uyj48ijtkf.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\7ddtw8r8jk-{0}-l9qilsbqfk-l9qilsbqfk.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\n2e975ve3f-{0}-vr5wse9bwx-vr5wse9bwx.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\xhjlr13r6e-{0}-vr5wse9bwx-vr5wse9bwx.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qjwi4eqh4p-{0}-ktkj6bz9j4-ktkj6bz9j4.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dr8fimfove-{0}-306oe97j55-306oe97j55.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qeq3scvepk-{0}-y7q3p8nzll-y7q3p8nzll.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5338nyzxdi-{0}-b30ixwpg62-b30ixwpg62.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\xz04bklqd1-c1dadu9zpl.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\zx72ktcl29-o670qhqrbc.gz
@@ -841,7 +837,6 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\97d1gyp0oo-pyu597wwb2.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\wgm2db3su2-kt19k031y9.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ajiczu1vdj-uh0ew1fokk.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ucg6godq7k-{0}-mu2a59x1af-mu2a59x1af.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5lxbdgg80s-{0}-kt19k031y9-kt19k031y9.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -880,7 +875,6 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\kswgc47qtg-{0}-ytkzst8lei-ytkzst8lei.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\9m8d1pkdwz-{0}-zzelxgebap-zzelxgebap.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\9zu1mkwgcp-{0}-ab904hc51g-ab904hc51g.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nmkzdy06rf-{0}-06dr3qsvgn-06dr3qsvgn.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\haeq1nch23-{0}-x4rexo7k82-x4rexo7k82.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4mk4ftnp13-{0}-a0b70n93cs-a0b70n93cs.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\kjrcca4yg7-{0}-0af8z5ggyv-0af8z5ggyv.gz
@@ -1527,3 +1521,10 @@ H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ajiczu1vdj-628v31
 H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\gx7thmgf07-hd5ifsarep.gz
 H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\8n19zi6lzv-b208tfyfsy.gz
 H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\uwngyow6vb-3gk6k0g962.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nmkzdy06rf-{0}-3gk6k0g962-3gk6k0g962.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ucg6godq7k-{0}-628v314f9a-628v314f9a.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sdywosqco6-{0}-hd5ifsarep-hd5ifsarep.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\jebgyy870y-{0}-sh4iyqpe77-sh4iyqpe77.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\n2e975ve3f-{0}-t3hgwtkv0d-t3hgwtkv0d.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\xhjlr13r6e-{0}-t3hgwtkv0d-t3hgwtkv0d.gz

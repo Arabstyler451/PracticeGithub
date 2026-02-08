@@ -5,122 +5,66 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] CityPoint Room Hire</title>
     <script type="importmap"></script>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/Home.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Test.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/Footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <!--Bootstrap ================================================== -->
-    <link rel="stylesheet" href="~/css/bootstrap.min.css" asp-append-version="true" />
+    <!-- <link rel="stylesheet" href="~/css/bootstrap.min.css" asp-append-version="true" />
 
     <!--vendor css ================================================== -->
-    <link rel="stylesheet" href="~/css/vendor.css" asp-append-version="true" />
+    <!--<link rel="stylesheet" href="~/css/vendor.css" asp-append-version="true" />
 
     <!--Link Swiper's CSS ================================================== -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 
     <!--Link AOS's CSS ================================================== -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
     <!-- Style Sheet ================================================== -->
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <!--<link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
 
     <!-- Google Fonts ================================================== -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
 </head>
 <body>
     <header id="header">
-        <nav id="primary-header" class="navbar navbar-expand-lg py-4">
-            <div class="container-fluid padding-side">
-                <div class="d-flex justify-content-between align-items-center w-100">
-                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">City Point</a>
-                    <button class="navbar-toggler border-0 d-flex d-lg-none order-3 p-2 shadow-none" type="button"
-                            data-bs-toggle="offcanvas" data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false">
-                        <svg class="navbar-icon" width="60" height="60">
-                            <use xlink:href="#navbar-icon"></use>
-                        </svg>
-                    </button>
-                    <div class="header-bottom offcanvas offcanvas-end " id="bdNavbar" aria-labelledby="bdNavbarOffcanvasLabel">
-                        <div class="offcanvas-header px-4 pb-0">
-                            <button type="button" class="btn-close btn-close-black mt-2" data-bs-dismiss="offcanvas"
-                                    aria-label="Close" data-bs-target="#bdNavbar"></button>
-                        </div>
-                        <div class="offcanvas-body align-items-center justify-content-center">
-                            <div class="search d-block d-lg-none m-5">
-                                <form class=" position-relative">
-                                    <input type="text" class="form-control bg-secondary border-0 rounded-5 px-4 py-2"
-                                           placeholder="Search...">
-                                    <a href="#" class="position-absolute top-50 end-0 translate-middle-y p-1 me-3">
-                                        <svg class="" width="20" height="20">
-                                            <use xlink:href="#search"></use>
-                                        </svg>
-                                    </a>
-                                </form>
-                            </div>
-                            <ul class="navbar-nav align-items-center mb-2 mb-lg-0">
-                                <li class="nav-item px-3">
-                                    <a class="nav-link active p-0" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                                </li>
-                                <li class="nav-item px-3">
-                                    <a class="nav-link active p-0" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
-                                </li>
-                                <li class="nav-item px-3">
-                                    <a class="nav-link active p-0" asp-area="" asp-controller="Rooms" asp-action="Index">Rooms</a>
-                                </li>
-                                <li class="nav-item px-3">
-                                    <a class="nav-link active p-0" asp-area="" asp-controller="Bookings" asp-action="Index">Bookings</a>
-                                </li>
-                                <li class="nav-item px-3">
-                                    <a class="nav-link active p-0" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
-                                </li>
-                                <!--</><li class="nav-item px-3 dropdown">
-                                    <a class="nav-link p-0 dropdown-toggle text-center " data-bs-toggle="dropdown" href="#" role="button"
-                                       aria-expanded="false">Pages</a>
-                                    <ul class="dropdown-menu dropdown-menu-end animate slide mt-3 border-0 shadow">
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">About </a>
-                                        </li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">Room </a>
-                                        </li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item">
-                                                Room-Details
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">Blog </a>
-                                        </li>
-                                        <li><a href="index.html" class="dropdown-item ">Blog-Single </a></li>
-                                        <li><a href="index.html" class="dropdown-item ">Services </a></li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">
-                                                Service-Details
-                                            </a>
-                                        </li>
-                                        <li><a href="index.html" class="dropdown-item ">Booking </a></li>
-                                        <li><a href="index.html" class="dropdown-item ">Gallery </a></li>
-                                        <li><a href="index.html" class="dropdown-item ">Contact </a></li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">Team </a>
-                                        </li>
-                                        <li><a href="index.html" class="dropdown-item ">Reviews </a></li>
-                                        <li>
-                                            <a href="index.html" class="dropdown-item ">FAQs </a>
-                                        </li>
-                                    </ul>
-                                </li>-->
-                            </ul>
-                            <partial name="_LoginPartial" />
-                        </div>
-                    </div>
+        <nav id="primary-header" class="navbar py-4">
+            <div class="container-fluid px-5">
+                <!-- Left: Logo -->
+                <a class="navbar-brand me-5" asp-area="" asp-controller="Home" asp-action="Index">City Point</a>
+
+                <!-- Center: Navigation Links -->
+                <div class="nav-center mx-auto">
+                    <ul class="navbar-nav d-flex flex-row">
+                        <li class="nav-item mx-3">
+                            <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item mx-3">
+                            <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                        </li>
+                        <li class="nav-item mx-3">
+                            <a class="nav-link active" asp-area="" asp-controller="Rooms" asp-action="Index">Rooms</a>
+                        </li>
+                        <li class="nav-item mx-3">
+                            <a class="nav-link active" asp-area="" asp-controller="Bookings" asp-action="Index">Bookings</a>
+                        </li>
+                        <li class="nav-item mx-3">
+                            <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Right: Login/Register -->
+                <div class="nav-right">
+                    <partial name="_LoginPartial" />
                 </div>
             </div>
         </nav>
@@ -132,49 +76,98 @@
         </main>
     </div>
 
-    <section id="footer">
-        <hr class="text-black">
-        <div class="container-fluid padding-side padding-small" data-aos="fade-up">
-            <footer class="row">
-                <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
-                    <h4 class="display-6 fw-normal">Quick links</h4>
-                    <ul class="nav flex-column">
-                        <li class="nav-item"><a class="p-0" asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                        <li class="nav-item"><a class="p-0" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a></li>
-                        <li class="nav-item"><a class="p-0" asp-area="" asp-controller="Rooms" asp-action="Index">Room</a></li>
-                        <li class="nav-item"><a class="p-0" asp-area="" asp-controller="Bookings" asp-action="Index">Booking</a></li>
-                        <li class="nav-item"><a class="p-0" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> Support </a></li>
-                    </ul>
+    <!-- Footer Start -->
+    <div class="container-fluid footer" style="background-color: #1B1917; color: white; padding: 3rem 0;">
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap; margin: 0 -15px;">
+                <!-- Column 1: CityPoint -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div style="max-width: 200px;">
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 2.0rem; font-family: 'Bacasime Antique', serif; font: 400;">CityPoint</h4>
+                        <p style="color: #CFCDCB; margin: 0; line-height: 1.8; font-size: 0.9rem; word-wrap: break-word; font-family: 'Poppins', sans-serif;">
+                            Premium venue hire for your business<br> needs.
+                            Professional spaces designed<br> for success.
+                        </p>
+                    </div>
                 </div>
-                <div class="col-md-6 col-lg-3 offset-lg-1 mb-4 mb-lg-0">
-                    <h4 class="display-6 fw-normal">Services</h4>
-                    <!--<ul class="nav flex-column">
-                        <li class="nav-item"><a href="#" class="p-0 "> Spa </a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> Pool </a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> Yoga </a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> Gym</a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> News </a></li>
-                        <li class="nav-item"><a href="#" class="p-0 "> Terms & Conditions </a></li>
-                    </ul>-->
+
+                <!-- Column 2: Quick Links -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem; ">Quick Links</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <a href="/" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Home</a>
+                            <a href="/Rooms" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Our Rooms</a>
+                            <a href="/Bookings" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'MontsePoppinsrrat', sans-serif; transition: color 0.3s ease;">Make a Booking</a>
+                            <a href="/Home/AboutUs" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">About Us</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md-6 col-lg-3 offset-lg-1 mb-4 mb-lg-0">
-                    <p class="m-0">All Rights Reserved © Copyright 2026 CityPoint Room Hire</p>
+
+                <!-- Column 3: Services -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem;">Services</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Conference Rooms</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Meeting Spaces</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Training Rooms</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Event Spaces</a>
+                        </div>
+                    </div>
                 </div>
-            </footer>
+
+                <!-- Column 4: Contact -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem;">Contact</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <div style="color: #CFCDCB; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-map-marker-alt" style="margin-right: 0.7rem; margin-top: 0.45rem; font-size: 0.8rem;"></i>
+                                <span>123 Business District, City Point, CP 12345</span>
+                            </div>
+                            <a style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-phone" style="margin-right: 0.7rem; margin-top: 0.4rem; font-size: 0.8rem;"></i>
+                                <span>+1 (555) 123-4567</span>
+                            </a>
+                            <a style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-envelope" style="margin-right: 0.7rem; margin-top: 0.55rem; font-size: 0.8rem;"></i>
+                                <span>info@citypoint.com</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Copyright -->
+            <div style="border-top: 1px solid rgba(255, 255, 255, 0.1); margin-top: 2rem; padding-top: 1rem; text-align: center;">
+                <p style="color: #CFCDCB; margin: 0; font-size: 0.9rem; font-family: 'Poppins', sans-serif;">
+                    © 2025 CityPoint Room Hire. All rights reserved.
+                </p>
+            </div>
         </div>
-    </section>
+    </div>
+    <!-- Footer End -->
+
+    <style>
+        /* Hover effect for Quick Links and Services */
+        .col-lg-3:nth-child(2) a:hover,
+        .col-lg-3:nth-child(3) a:hover {
+            color: #A4642B !important;
+        }
+    </style>
+
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="js/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="js/plugins.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
-    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <!--<script src="js/jquery-1.11.0.min.js"></script>-->
+    <!--<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>-->
+     <!--<script type="text/javascript" src="js/plugins.js"></script>-->
+    <!--<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>-->
+    <!--<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>-->
+         <!--<script type="text/javascript" src="js/script.js"></script>-->
+    <!-- <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>-->
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

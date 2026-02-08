@@ -1,0 +1,327 @@
+﻿/* Base reset for both buttons in navbar */
+.nav-link.custom-login {
+    display: inline-block;
+    padding: 0.5rem 1.2rem; /* Button height and width */
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.25s ease; /* Smooth changes */
+    margin: 0 0.5rem; /* Space between them */
+    border: 1px solid transparent; /* For smooth hover transitions */
+}
+
+.nav-link.custom-register {
+    display: inline-block;
+    padding: 0.5rem 1.8rem !important; /* Button height and width */
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.25s ease; /* Smooth changes */
+    margin: 0 0.5rem; /* Space between them */
+    border: 1px solid transparent; /* For smooth hover transitions */
+    width: auto !important;
+}
+
+/* Login button: starts white */
+.custom-login {
+    background-color: #ffffff; /* Pure white background */
+    color: #333333; /* Dark gray text for readability */
+    border: 1px solid #cccccc; /* Light border so it stands out on light navbar */
+    min-width: 2rem !important; /* same value for symmetry */
+}
+
+    .custom-login:hover,
+    .custom-login:focus {
+        background-color: #FFF7ED; /* Fills with your orange on hover */
+        color: #BE6A21; /* orange text on hover */
+        transform: translateY(0px); /* Subtle lift */
+    }
+
+/* Register button: starts with your color */
+.custom-register {
+    background-color: #BE6A21; /* Your specified orange */
+    color: #ffffff !important; /* White text */
+    border: 1px solid #a55c1c; /* Slightly darker border */
+    border-radius: 2rem; /* Soft rounded corners */
+}
+
+    .custom-register:hover,
+    .custom-register:focus {
+        background-color: #a55c1c; /* Darker orange on hover (derived from #BE6A21) */
+        color: #ffffff !important;
+        transform: translateY(0px);
+    }
+
+
+/* Account icon styling - NO transition for instant color change */
+.account-icon-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.icon-svg {
+    width: 24px;
+    height: 24px;
+}
+
+.icon-path {
+    stroke: #000000; /* BLACK initially */
+    stroke-width: 1.5;
+    /* REMOVED transition for instant color change */
+}
+
+/* Instant color change on hover - no transition */
+.account-icon-link:hover .icon-path {
+    stroke: #AF6A2D; /* Your hover color */
+}
+
+
+/* Optional: Add a slight shadow for more "pop" */
+.account-icon-link:hover .icon-svg {
+    filter: drop-shadow(0 0 2px rgba(175, 106, 45, 0.3));
+}
+
+/* CityPoint logo in navbar */
+.citypoint-logo {
+    color: #000000; /* Or whatever your current color is */
+    text-decoration: none;
+
+}
+
+    .citypoint-logo:hover {
+        color: #AF6A2D !important; /* Your specified color */
+    }
+
+/* ===== ACCOUNT DROPDOWN - PROFESSIONAL STYLING ===== */
+
+/* Account icon container */
+.account-icon-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+}
+
+    .account-icon-link:hover {
+        background-color: rgba(0, 0, 0, 0.04);
+    }
+
+/* Icon styling */
+.icon-svg {
+    width: 20px;
+    height: 20px;
+}
+
+.icon-path {
+    stroke: #333333;
+    stroke-width: 1.75;
+    transition: stroke 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.account-icon-link:hover .icon-path {
+    stroke: #AF6A2D;
+}
+
+/* Dropdown arrow indicator */
+.account-icon-link.dropdown-toggle::after {
+    display: none; /* Hide default Bootstrap arrow */
+}
+
+/* Professional dropdown menu */
+.account-dropdown {
+    min-width: 280px !important;
+    padding: 0.5rem 0;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08), 0 1px 2px rgba(0, 0, 0, 0.04);
+    margin-top: 0.75rem !important;
+    animation: dropdownFadeIn 0.15s ease-out;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.98);
+}
+
+@keyframes dropdownFadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* User info header - more refined */
+.dropdown-header {
+    padding: 0.75rem 1rem 0.5rem;
+    background: transparent !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+    .dropdown-header .user-email {
+        font-size: 0.8125rem;
+        color: #666;
+        font-weight: 400;
+        letter-spacing: 0.01em;
+    }
+
+    .dropdown-header .user-name {
+        font-size: 0.9375rem;
+        color: #333;
+        font-weight: 500;
+        margin-top: 0.125rem;
+        line-height: 1.3;
+    }
+
+/* Dropdown items - professional spacing and styling */
+.dropdown-item {
+    padding: 0.625rem 1rem !important;
+    font-size: 0.875rem;
+    color: #333;
+    border-radius: 4px;
+    margin: 0.125rem 0.5rem;
+    width: calc(100% - 1rem);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+    .dropdown-item:hover {
+        background-color: #f8f8f8;
+        color: #000;
+        transform: translateX(2px);
+    }
+
+    .dropdown-item:active {
+        background-color: #f0f0f0;
+        transform: translateX(1px);
+    }
+
+    /* Dropdown item icons */
+    .dropdown-item svg {
+        width: 16px;
+        height: 16px;
+        stroke: #666;
+        stroke-width: 2;
+        flex-shrink: 0;
+        transition: stroke 0.2s ease;
+    }
+
+    .dropdown-item:hover svg {
+        stroke: #AF6A2D;
+    }
+
+/* Divider - subtle */
+.dropdown-divider {
+    margin: 0.375rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    opacity: 0.5;
+}
+
+/* Logout item - professional destructive action styling */
+.logout-item {
+    margin-top: 0.25rem;
+}
+
+    .logout-item button {
+        color: #d32f2f !important;
+        font-weight: 500;
+        width: 100%;
+        text-align: left;
+        padding: 0;
+        border: none;
+        background: none;
+        cursor: pointer;
+    }
+
+    .logout-item svg {
+        stroke: #d32f2f;
+    }
+
+    .logout-item:hover {
+        background-color: rgba(211, 47, 47, 0.08) !important;
+    }
+
+        .logout-item:hover button {
+            color: #b71c1c !important;
+        }
+
+        .logout-item:hover svg {
+            stroke: #b71c1c;
+        }
+
+/* Active state indicator */
+.dropdown-item.active {
+    background-color: rgba(175, 106, 45, 0.1) !important;
+    color: #AF6A2D;
+    font-weight: 500;
+}
+
+    .dropdown-item.active svg {
+        stroke: #AF6A2D;
+    }
+
+/* Badge for notifications/updates (optional) */
+.badge-update {
+    margin-left: auto;
+    background: #AF6A2D;
+    color: white;
+    font-size: 0.6875rem;
+    padding: 0.125rem 0.375rem;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+/* Mobile adjustments */
+@media (max-width: 991.98px) {
+    .account-dropdown {
+        min-width: 260px !important;
+        margin-left: -1rem;
+        border-radius: 0 8px 8px 8px;
+    }
+
+    .account-icon-link {
+        padding: 0.5rem;
+    }
+}
+
+/* Focus states for accessibility */
+.dropdown-item:focus-visible {
+    outline: 2px solid #AF6A2D;
+    outline-offset: -2px;
+    background-color: #f8f8f8;
+}
+
+/* Loading state (optional) */
+.dropdown-item.loading {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+
+    .dropdown-item.loading::after {
+        content: "";
+        width: 16px;
+        height: 16px;
+        border: 2px solid rgba(0, 0, 0, 0.1);
+        border-top: 2px solid #AF6A2D;
+        border-radius: 50%;
+        animation: spin 1s linear infinite;
+        margin-left: auto;
+    }
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}

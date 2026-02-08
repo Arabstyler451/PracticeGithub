@@ -46,3 +46,47 @@ button.accept-policy[b-9k3uley78p] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+
+
+
+
+
+
+
+
+:root[b-9k3uley78p] {
+    --navbar-blur-intensity: 10px;
+    --navbar-opacity: 0.9;
+    --navbar-scroll-threshold: 100px;
+}
+
+body[b-9k3uley78p] {
+    padding-top: 80px;
+}
+
+#mainNavbar[b-9k3uley78p] {
+    background-color: rgba(255, 255, 255, 1);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); /* Smooth cubic-bezier transition */
+}
+
+    #mainNavbar.scrolled[b-9k3uley78p] {
+        background-color: rgba(255, 255, 255, var(--navbar-opacity));
+        backdrop-filter: blur(var(--navbar-blur-intensity));
+        -webkit-backdrop-filter: blur(var(--navbar-blur-intensity));
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    }
+
+        /* Optional: Add a subtle border when scrolled */
+        #mainNavbar.scrolled[b-9k3uley78p]::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent 0%, rgba(0, 0, 0, 0.1) 20%, rgba(0, 0, 0, 0.1) 80%, transparent 100%);
+        }

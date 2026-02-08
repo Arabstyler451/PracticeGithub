@@ -29,3 +29,9 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+/* Main content starts below navbar */
+main {
+    min-height: calc(100vh - 85px);
+    padding-top: 20px;
+}
+

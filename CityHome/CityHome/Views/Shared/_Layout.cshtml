@@ -7,42 +7,246 @@
     <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Footer.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/CityHome.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Navbar styling - remove shadow and add border */
+        .navbar, #mainNavbar, .navbar-light {
+            box-shadow: none !important;
+        }
+
+        #mainNavbar {
+            border-bottom: 1px solid #e0e0e0; /* Light grey border */
+            padding-top: 1.2rem;
+            padding-bottom: 0.8rem;
+            min-height: 85px;
+            background-color: white;
+        }
+
+        /* CityPoint logo hover effect */
+        .citypoint-logo {
+            transition: color 0.25s ease;
+        }
+
+            .citypoint-logo:hover {
+                color: #AF6A2D !important;
+            }
+
+        /* NAV LINKS HOVER EFFECT - TURN ORANGE */
+        .navbar-nav .nav-link {
+            color: #000000; /* Ensure nav links are black by default */
+            transition: color 0.25s ease;
+            position: relative;
+        }
+
+            .navbar-nav .nav-link:hover {
+                color: #AF6A2D !important; /* Your orange color on hover */
+            }
+
+            /* Optional: Add underline effect on hover */
+            .navbar-nav .nav-link::after {
+                content: '';
+                position: absolute;
+                width: 0;
+                height: 2px;
+                bottom: -5px;
+                left: 0;
+                background-color: #AF6A2D;
+                transition: width 0.3s ease;
+            }
+
+            .navbar-nav .nav-link:hover::after {
+                width: 100%;
+            }
+
+        /* Alternative: Instant color change with pop effect */
+        /*
+        .navbar-nav .nav-link:hover {
+            color: #AF6A2D !important;
+            transform: translateY(-2px);
+        }
+        */
+
+        /* The rest of your existing navbar styles... */
+
+        /* Adjust navbar brand size for bigger navbar */
+        .navbar-brand.fs-3 {
+            font-size: 2rem !important;
+        }
+
+        /* Ensure navbar items are vertically centered */
+        .navbar-nav .nav-item {
+            display: flex;
+            align-items: center;
+        }
+
+        /* Custom alignment for left column - CityPoint aligned right */
+        .navbar-left-column {
+            display: flex;
+            justify-content: flex-end;
+            padding-right: 2rem; /* Add some spacing from the edge */
+        }
+
+        /* Custom alignment for right column - buttons aligned left */
+        .navbar-right-column {
+            display: flex;
+            justify-content: flex-start;
+            padding-left: 2rem; /* Add some spacing from the edge */
+        }
+
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav id="mainNavbar" class="navbar navbar-expand-lg navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">CityHome</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                <!-- Mobile hamburger menu -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                    <partial name="_LoginPartial" />
+
+                <!-- Three column layout -->
+                <div class="collapse navbar-collapse" id="navbarContent">
+                    <div class="container-fluid px-0">
+                        <div class="row w-100 mx-0 align-items-center">
+                            <!-- Left Column: Title CityPoint (ALIGNED RIGHT WITHIN COLUMN) -->
+                            <div class="col-lg-4 col-md-4 mb-2 mb-lg-0 mb-md-0">
+                                <div class="navbar-left-column">
+                                    <a class="navbar-brand fs-3 citypoint-logo" style="font-family: 'Cormorant Upright'; font-weight: 500;"
+                                       asp-area="" asp-controller="Home" asp-action="Index">
+                                        CityPoint
+                                    </a>
+                                </div>
+                            </div>
+
+                            <!-- Middle Column: Navigation Items -->
+                            <div class="col-lg-4 col-md-4 text-center mb-2 mb-lg-0 mb-md-0">
+                                <ul class="navbar-nav justify-content-center">
+                                    <li class="nav-item mx-2">
+                                        <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                    </li>
+                                    <li class="nav-item mx-2">
+                                        <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                                    </li>
+                                    <li class="nav-item mx-2">
+                                        <a class="nav-link active" asp-area="" asp-controller="Rooms" asp-action="Index">Rooms</a>
+                                    </li>
+                                    <li class="nav-item mx-2">
+                                        <a class="nav-link active" asp-area="" asp-controller="Bookings" asp-action="Index">Bookings</a>
+                                    </li>
+                                    <li class="nav-item mx-2">
+                                        <a class="nav-link active" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <!-- Right Column: Login/Register Buttons (ALIGNED LEFT WITHIN COLUMN) -->
+                            <div class="col-lg-4 col-md-4">
+                                <div class="navbar-right-column">
+                                    <div class="d-inline-flex">
+                                        <partial name="_LoginPartial" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <!-- Footer Start -->
+    <div class="container-fluid footer" style="background-color: #1B1917; color: white; padding: 3rem 0;">
         <div class="container">
-            &copy; 2026 - CityHome - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="row" style="display: flex; flex-wrap: wrap; margin: 0 -15px;">
+                <!-- Column 1: CityPoint -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div style="max-width: 200px;">
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 2.0rem; font-family: 'Bacasime Antique', serif; font: 400;">CityPoint</h4>
+                        <p style="color: #CFCDCB; margin: 0; line-height: 1.8; font-size: 0.9rem; word-wrap: break-word; font-family: 'Poppins', sans-serif;">
+                            Premium venue hire for your business<br> needs.
+                            Professional spaces designed<br> for success.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Column 2: Quick Links -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem; ">Quick Links</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <a href="/" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Home</a>
+                            <a href="/Rooms" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Our Rooms</a>
+                            <a href="/Bookings" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'MontsePoppinsrrat', sans-serif; transition: color 0.3s ease;">Make a Booking</a>
+                            <a href="/Home/AboutUs" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">About Us</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Column 3: Services -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem;">Services</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Conference Rooms</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Meeting Spaces</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Training Rooms</a>
+                            <a href="#" style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 1.6; font-family: 'Poppins', sans-serif; transition: color 0.3s ease;">Event Spaces</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Column 4: Contact -->
+                <div class="col-lg-3" style="padding: 0 15px; margin-bottom: 1rem;">
+                    <div>
+                        <h4 style="color: white; margin: 0 0 1rem 0; font-size: 1.1rem;">Contact</h4>
+                        <div style="display: flex; flex-direction: column;">
+                            <div style="color: #CFCDCB; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-map-marker-alt" style="margin-right: 0.7rem; margin-top: 0.45rem; font-size: 0.8rem;"></i>
+                                <span>123 Business District, City Point, CP 12345</span>
+                            </div>
+                            <a style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-phone" style="margin-right: 0.7rem; margin-top: 0.4rem; font-size: 0.8rem;"></i>
+                                <span>+1 (555) 123-4567</span>
+                            </a>
+                            <a style="color: #CFCDCB; text-decoration: none; margin-bottom: 0.25rem; font-size: 0.9rem; line-height: 2; display: flex; align-items: flex-start; font-family: 'Montserrat', sans-serif;">
+                                <i class="fas fa-envelope" style="margin-right: 0.7rem; margin-top: 0.55rem; font-size: 0.8rem;"></i>
+                                <span>info@citypoint.com</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Copyright -->
+            <div style="border-top: 1px solid rgba(255, 255, 255, 0.1); margin-top: 2rem; padding-top: 1rem; text-align: center;">
+                <p style="color: #CFCDCB; margin: 0; font-size: 0.9rem; font-family: 'Poppins', sans-serif;">
+                    © 2025 CityPoint Room Hire. All rights reserved.
+                </p>
+            </div>
         </div>
-    </footer>
+    </div>
+    <!-- Footer End -->
+
+    <style>
+        /* Hover effect for Quick Links and Services */
+        .col-lg-3:nth-child(2) a:hover,
+        .col-lg-3:nth-child(3) a:hover {
+            color: #A4642B !important;
+        }
+    </style>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

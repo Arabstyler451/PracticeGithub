@@ -340,9 +340,7 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debu
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\s100xoar77-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\71lpyqth88-{0}-61n19gt1b8-61n19gt1b8.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\3cxhc70flp-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\j79lh4tpkp-{0}-bqjiyaj88i-bqjiyaj88i.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\9ohsce0s2p-{0}-c2jlpeoesf-c2jlpeoesf.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\yc9dw7i7zm-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -402,8 +400,6 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debu
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\vvqtdgb5di-{0}-muycvpuwrr-muycvpuwrr.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\oyg1tjvsw2-{0}-87fc7y1x7t-87fc7y1x7t.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\358hnoklqf-{0}-mlv21k5csn-mlv21k5csn.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\4sdge4h1us-{0}-dle8526hme-dle8526hme.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\exguk4561o-{0}-dle8526hme-dle8526hme.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\staticwebassets.build.json
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\staticwebassets.development.json
@@ -416,3 +412,10 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debu
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\CityHome.pdb
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\CityHome.genruntimeconfig.cache
 D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\ref\CityHome.dll
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\ldevm99nm5-{0}-3r8b2a0bt1-3r8b2a0bt1.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\4sdge4h1us-{0}-6gwtfxd6u2-6gwtfxd6u2.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\exguk4561o-{0}-6gwtfxd6u2-6gwtfxd6u2.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\3cxhc70flp-{0}-3r8b2a0bt1-3r8b2a0bt1.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\iriomablxi-{0}-7zsdxh5cae-7zsdxh5cae.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\s100xoar77-{0}-4rcqawvlwp-4rcqawvlwp.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\CityHome\CityHome\obj\Debug\net9.0\compressed\4pga2uxshr-{0}-hewpeay96i-hewpeay96i.gz
