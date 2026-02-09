@@ -1,4 +1,0 @@
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\wwwroot\css\ajax-loader.gif
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\wwwroot\css\bootstrap.min.css
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\wwwroot\css\style.css
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\wwwroot\css\vendor.css
