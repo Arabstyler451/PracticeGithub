@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = ChakdeLife
+build_property.RootNamespace = ChakdeLife
+build_property.ProjectDir = D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroupMembers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3VwTWVtYmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroupMembers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3VwTWVtYmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroupMembers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3VwTWVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroupMembers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3VwTWVtYmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroupMembers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3VwTWVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3Vwc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3Vwc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3Vwc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3Vwc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/WalkingGroups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2Fsa2luZ0dyb3Vwc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/T Level Material/Visual Studio 2026/PracticeGithub/ChakdeLife/ChakdeLife/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-90nryeqced
