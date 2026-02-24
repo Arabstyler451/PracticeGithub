@@ -1,51 +1,243 @@
 ﻿@model Test.Models.Booking
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Make a Booking";
 }
 
-<h1>Create</h1>
+<div class="container">
+    <h1>CityPoint</h1>
 
-<h4>Booking</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <h2>Make a Booking</h2>
+    <p>Fill out the form below to request a booking. Our team will confirm availability and get back to you within 24 hours.</p>
+
+    <hr />
+
+    <form asp-action="Create" method="post">
+        @Html.AntiForgeryToken()
+        <div class="booking-form">
+            <h3>Booking Details</h3>
+
             <div class="form-group">
-                <input type="hidden" asp-for="RoomId" value="@ViewBag.RoomId" />
+                <label><strong>Select Room</strong></label>
+                <select asp-for="RoomId" class="form-control" required>
+                    <option value="">-- Select a Room --</option>
+                    @if (ViewBag.RoomsList != null)
+                    {
+                        foreach (var room in ViewBag.RoomsList)
+                        {
+                            <option value="@room.RoomId">@room.Name</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="RoomId" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="BookingDate" class="control-label"></label>
-                <input asp-for="BookingDate" class="form-control" />
-                <span asp-validation-for="BookingDate" class="text-danger"></span>
+                <label><strong>Date & Time</strong></label>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Start Time</th>
+                            <th>End Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input asp-for="BookingDate" type="date" class="form-control" required
+                                       value="@DateTime.Today.ToString("yyyy-MM-dd")"
+                                       min="@DateTime.Today.ToString("yyyy-MM-dd")" />
+                                <span asp-validation-for="BookingDate" class="text-danger"></span>
+                            </td>
+                            <td>
+                                <input asp-for="StartTime" type="time" class="form-control" required
+                                       value="09:00" />
+                                <span asp-validation-for="StartTime" class="text-danger"></span>
+                            </td>
+                            <td>
+                                <input asp-for="EndTime" type="time" class="form-control" required
+                                       value="10:00" />
+                                <span asp-validation-for="EndTime" class="text-danger"></span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
+            <input type="hidden" asp-for="Status" value="Pending" />
+
+
             <div class="form-group">
-                <label asp-for="StartTime" class="control-label"></label>
-                <input asp-for="StartTime" class="form-control" />
-                <span asp-validation-for="StartTime" class="text-danger"></span>
+                <input type="submit" value="Submit Booking Request" class="btn btn-primary btn-lg" />
+                <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
             </div>
-            <div class="form-group">
-                <label asp-for="EndTime" class="control-label"></label>
-                <input asp-for="EndTime" class="form-control" />
-                <span asp-validation-for="EndTime" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Status" class="control-label"></label>
-                <input asp-for="Status" class="form-control" />
-                <span asp-validation-for="Status" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
+    </form>
+
+    <hr />
+
+    <div class="booking-policies">
+        <h3>Booking Policies</h3>
+
+        <div class="policy-section">
+            <h4>Booking Requirements</h4>
+            <p>All bookings must be made at least 24 hours in advance. A valid contact number and email address are required for confirmation.</p>
+        </div>
+
+        <div class="policy-section">
+            <h4>Cancellation Policy</h4>
+            <p>Cancellations made 48 hours before the booking are fully refundable. Cancellations within 24 hours will incur a 50% charge. No refunds for same-day cancellations.</p>
+        </div>
+
+        <div class="policy-section">
+            <h4>Payment Terms</h4>
+            <p>Payment is required at the time of booking. We accept all major credit cards and bank transfers.</p>
+        </div>
+
+        <div class="policy-section">
+            <h4>Room Setup</h4>
+            <p>Standard room setups are included in the rental price. Custom arrangements can be requested 48 hours in advance and may incur additional charges.</p>
+        </div>
+
+        <div class="policy-section">
+            <h4>Catering Services</h4>
+            <p>External catering is permitted with prior approval. We also offer in-house catering services at competitive rates. Contact us for catering packages.</p>
+        </div>
+
+        <div class="policy-section">
+            <h4>Equipment & Technology</h4>
+            <p>All rooms include basic AV equipment. Additional equipment requires separate purchase. All rooms are equipped with a sound system.</p>
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="help-section">
+        <h3>Need Help?</h3>
+        <p>Contact our booking team for assistance or custom arrangements.</p>
+        <p>
+            <strong>+1 (555) 123-4567</strong><br />
+            <strong>bookings@citypoint.com</strong>
+        </p>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+<style>
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        color: #666;
+        margin-top: 30px;
+        margin-bottom: 10px;
+    }
+
+    h3 {
+        color: #333;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    h4 {
+        color: #444;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    hr {
+        margin: 30px 0;
+        border: none;
+        border-top: 1px solid #ddd;
+    }
+
+    .booking-form .form-group {
+        margin-bottom: 20px;
+    }
+
+    .booking-form label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 8px 12px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        font-size: 16px;
+    }
+
+    .table {
+        width: 100%;
+        margin-bottom: 1rem;
+        color: #212529;
+    }
+
+    .table-bordered {
+        border: 1px solid #dee2e6;
+    }
+
+        .table-bordered th,
+        .table-bordered td {
+            border: 1px solid #dee2e6;
+            padding: 0.75rem;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: white;
+        padding: 12px 24px;
+        font-size: 18px;
+        border-radius: 4px;
+        cursor: pointer;
+        border: none;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .btn-lg {
+        padding: 12px 24px;
+        font-size: 18px;
+    }
+
+    .booking-policies .policy-section {
+        margin-bottom: 20px;
+    }
+
+    .help-section {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 4px;
+        margin-bottom: 30px;
+    }
+
+    strong {
+        font-weight: bold;
+    }
+
+    .text-danger {
+        color: #dc3545;
+        font-size: 0.875em;
+        margin-top: 0.25rem;
+    }
+</style>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

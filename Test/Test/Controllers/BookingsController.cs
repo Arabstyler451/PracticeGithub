@@ -49,6 +49,10 @@ namespace Test.Controllers
         [Authorize]
         public IActionResult Create(int roomId)
         {
+            // Load rooms for dropdown
+            var rooms = _context.Room.ToList();
+            ViewBag.RoomsList = rooms;  // Use different name to avoid conflict
+
             ViewBag.RoomId = roomId;
             return View();
         }
@@ -93,13 +97,20 @@ namespace Test.Controllers
 
             ModelState.Remove("Room");
 
+
+            if (!ModelState.IsValid)
+            {
+                // Reload rooms for dropdown
+                ViewBag.RoomsList = await _context.Room.ToListAsync();
+                return View(booking);
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(booking);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["RoomId"] = new SelectList(_context.Set<Room>(), "RoomId", "RoomId", booking.RoomId);
             return View(booking);
         }
 
@@ -226,5 +237,4 @@ namespace Test.Controllers
         {
             return _context.Booking.Any(e => e.BookingId == id);
         }
-    }
-}
+

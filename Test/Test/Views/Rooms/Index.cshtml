@@ -5,6 +5,7 @@
 }
 
 <link rel="stylesheet" href="~/css/Rooms.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
 <section class="rooms-section">
 
@@ -61,82 +62,196 @@
             All rooms come equipped with modern amenities and professional service.
         </p>
     </div>
-    <form asp-action="Index">
-        <button type="submit">View all rooms</button>
-    </form>
 
-    <form asp-action="FilterByRooms" method="get">
-            <button type="submit">Filter Number of Rooms</button>
-    </form>
+    <!-- Filtering Section -->
+    <div class="filters-section">
+        <div class="filters-header">
+            <h2><i class="fas fa-filter"></i> Filter & Sort</h2>
+            <p>Refine your search to find the perfect room</p>
+        </div>
 
-    <form asp-action="AvailableRooms">
-        <button type="submit">Only display available rooms</button>
-    </form>
+        <div class="filters-container">
+            <!-- Reset/View All -->
+            <div class="filter-card">
+                <div class="filter-header">
+                    <i class="fas fa-eye"></i>
+                    <h3>View Options</h3>
+                </div>
+                <div class="filter-actions">
+                    <form asp-action="Index" class="inline-form">
+                        <button type="submit" class="btn-filter">
+                            <i class="fas fa-list"></i> View All Rooms
+                        </button>
+                    </form>
+                    <form asp-action="AvailableRooms" class="inline-form">
+                        <button type="submit" class="btn-filter">
+                            <i class="fas fa-check-circle"></i> Available Only
+                        </button>
+                    </form>
+                </div>
+            </div>
 
-    <a asp-action="SortByGuestRating" asp-route-ascending="true">Sort by Guest Rating (Ascending)</a>
-    <a asp-action="SortByGuestRating" asp-route-ascending="false">Sort by Guest Rating (Descending)</a>
+            <!-- Price Range -->
+            <div class="filter-card">
+                <div class="filter-header">
+                    <i class="fas fa-tag"></i>
+                    <h3>Price Range</h3>
+                </div>
+                <form method="get" asp-action="FilterByPrice" class="range-form">
+                    <div class="range-inputs">
+                        <div class="input-group">
+                            <label><i class="fas fa-pound-sign"></i> Min</label>
+                            <input type="number" name="minPrice" placeholder="Min" step="10" min="0" />
+                        </div>
+                        <div class="range-divider">to</div>
+                        <div class="input-group">
+                            <label><i class="fas fa-pound-sign"></i> Max</label>
+                            <input type="number" name="maxPrice" placeholder="Max" step="10" min="0" />
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-filter-submit">
+                        <i class="fas fa-search"></i> Filter Price
+                    </button>
+                </form>
+            </div>
 
-    <a asp-action="SortByStarRating" asp-route-ascending="true">Sort by Star Rating (Ascending)</a>
-    <a asp-action="SortByStarRating" asp-route-ascending="false">Sort by Star Rating (Descending)</a>
+            <!-- Capacity -->
+            <div class="filter-card">
+                <div class="filter-header">
+                    <i class="fas fa-users"></i>
+                    <h3>Capacity</h3>
+                </div>
+                <form method="get" asp-action="FilterByCapacity" class="range-form">
+                    <div class="range-inputs">
+                        <div class="input-group">
+                            <label><i class="fas fa-user"></i> Min</label>
+                            <input type="number" name="minCapacity" placeholder="Min" step="1" min="1" />
+                        </div>
+                        <div class="range-divider">to</div>
+                        <div class="input-group">
+                            <label><i class="fas fa-user-friends"></i> Max</label>
+                            <input type="number" name="maxCapacity" placeholder="Max" step="1" min="1" />
+                        </div>
+                    </div>
+                    <button type="submit" class="btn-filter-submit">
+                        <i class="fas fa-search"></i> Filter Capacity
+                    </button>
+                </form>
+            </div>
 
-    <form method="get" asp-action="FilterByPrice">
-        <label>Min Price:</label>
-        <input type="number" name="minPrice" step="10" />
-        <label>Max Price:</label>
-        <input type="number" name="maxPrice" step="10" />
-        <button type="submit">Filter</button>
-    </form>
+            <!-- Sorting -->
+            <div class="filter-card">
+                <div class="filter-header">
+                    <i class="fas fa-sort"></i>
+                    <h3>Sort By</h3>
+                </div>
+                <div class="sort-options">
+                    <div class="sort-group">
+                        <h4><i class="fas fa-star"></i> Star Rating</h4>
+                        <div class="sort-buttons">
+                            <a asp-action="SortByStarRating" asp-route-ascending="true" class="btn-sort">
+                                <i class="fas fa-arrow-up"></i> Low to High
+                            </a>
+                            <a asp-action="SortByStarRating" asp-route-ascending="false" class="btn-sort">
+                                <i class="fas fa-arrow-down"></i> High to Low
+                            </a>
+                        </div>
+                    </div>
+                    <div class="sort-group">
+                        <h4><i class="fas fa-user-check"></i> Guest Rating</h4>
+                        <div class="sort-buttons">
+                            <a asp-action="SortByGuestRating" asp-route-ascending="true" class="btn-sort">
+                                <i class="fas fa-arrow-up"></i> Low to High
+                            </a>
+                            <a asp-action="SortByGuestRating" asp-route-ascending="false" class="btn-sort">
+                                <i class="fas fa-arrow-down"></i> High to Low
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    <form method="get" asp-action="FilterByCapacity">
-        <label>Min Capacity:</label>
-        <input type="number" name="minCapacity" step="1" />
-        <label>Max Capacity:</label>
-        <input type="number" name="maxCapacity" step="1" />
-        <button type="submit">Filter</button>
-    </form>
-
+            <!-- Quick Filter: Number of Rooms -->
+            <div class="filter-card">
+                <div class="filter-header">
+                    <i class="fas fa-door-closed"></i>
+                    <h3>Room Count</h3>
+                </div>
+                <form asp-action="FilterByRooms" method="get" class="range-form">
+                    <div class="input-group">
+                        <label><i class="fas fa-hashtag"></i> Number of Rooms</label>
+                        <input type="number" name="rooms" placeholder="Enter room count" step="1" min="1" />
+                    </div>
+                    <button type="submit" class="btn-filter-submit">
+                        <i class="fas fa-filter"></i> Filter by Room Count
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
 
     <!-- Rooms Grid -->
-    <div class="rooms-grid">
+    <div class="rooms-grid" id="roomsGrid">
         @foreach (var room in Model)
         {
             <div class="room-card">
-
                 <div class="room-image">
                     <img src="~/images/HomePageImage1.jpg" alt="@room.Name" />
                     <span class="price-badge">
                         £@room.PricePerHour / hour
                     </span>
+                    @if (!room.IsAvailable)
+                    {
+                        <span class="unavailable-badge">
+                            <i class="fas fa-clock"></i> Unavailable
+                        </span>
+                    }
                 </div>
-
                 <div class="room-content">
                     <h3>@room.Name</h3>
                     <p>@room.Description</p>
-
                     <div class="room-meta">
-                        <span>👥 Up to @room.Capacity people</span>
+                        <span><i class="fas fa-users"></i> Up to @room.Capacity people</span>
                     </div>
-
                     <div class="room-actions">
                         <a asp-action="Details"
                            asp-route-id="@room.RoomId"
                            class="room-link">
-                            View Details →
+                            <i class="fas fa-info-circle"></i> View Details
                         </a>
-
-                        <a asp-controller="Bookings"
-                           asp-action="Create"
-                           asp-route-RoomId="@room.RoomId"
-                           class="book-now-btn">
-                            Book Now
-                        </a>
+                        @if (room.IsAvailable)
+                        {
+                            <a asp-controller="Bookings"
+                               asp-action="Create"
+                               asp-route-RoomId="@room.RoomId"
+                               class="book-now-btn">
+                                <i class="fas fa-calendar-check"></i> Book Now
+                            </a>
+                        }
+                        else
+                        {
+                            <span class="book-now-btn disabled">
+                                <i class="fas fa-calendar-times"></i> Unavailable
+                            </span>
+                        }
                     </div>
-
                 </div>
-
             </div>
         }
     </div>
+
+    <!-- No Results Message -->
+    @if (!Model.Any())
+    {
+        <div class="no-results">
+            <i class="fas fa-search fa-3x"></i>
+            <h3>No Rooms Found</h3>
+            <p>Try adjusting your filters or search criteria</p>
+            <a asp-action="Index" class="btn-filter">
+                <i class="fas fa-redo"></i> Reset All Filters
+            </a>
+        </div>
+    }
 
 </section>
 
@@ -144,13 +259,13 @@
 <section class="rooms-cta">
     <h2>Can't Find What You Need?</h2>
     <p>Contact our team for custom arrangements and special requirements</p>
-
     <div class="cta-buttons">
         <a asp-controller="Home" asp-action="ContactUs" class="cta-outline">
-            Contact Us
+            <i class="fas fa-envelope"></i> Contact Us
         </a>
         <a asp-controller="Bookings" asp-action="Create" class="cta-filled">
-            Make a Booking
+            <i class="fas fa-calendar-alt"></i> Make a Booking
         </a>
     </div>
 </section>
+
