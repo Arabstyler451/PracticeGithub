@@ -745,65 +745,30 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\3om3alwwon-{0}-61n19gt1b8-61n19gt1b8.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\l9ff6ga8i0-{0}-t1cqhe9u97-t1cqhe9u97.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\zw0txd139p-{0}-c2jlpeoesf-c2jlpeoesf.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\0usv8cs557-{0}-sejl45xvog-sejl45xvog.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\lw93g4dl3b-{0}-aexeepp0ev-aexeepp0ev.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\al7iavpzx9-{0}-xvp3kq03qx-xvp3kq03qx.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4tvephrwhc-{0}-ausgxo2sd3-ausgxo2sd3.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\d2cotq4f55-{0}-22vffe00uq-22vffe00uq.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\enm0f8fbau-{0}-cosvhxvwiu-cosvhxvwiu.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\car86l7gk9-{0}-qesaa3a1fm-qesaa3a1fm.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\fdapdbqddl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\oagbm4wzcx-{0}-tmc1g35s3z-tmc1g35s3z.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\x0mckydr9a-{0}-fsbi9cje9m-fsbi9cje9m.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nz2bzz2s2u-{0}-rxsg74s51o-rxsg74s51o.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\41ichqf0ph-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4vphstu322-{0}-q9ht133ko3-q9ht133ko3.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\m74gulnils-{0}-jd9uben2k1-jd9uben2k1.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bbtydix2py-{0}-gye83jo8yx-gye83jo8yx.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\h4rh4rh994-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qu0mypjxho-{0}-wl58j5mj3v-wl58j5mj3v.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\emejty2fry-{0}-c2oey78nd0-c2oey78nd0.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mkou2c3v7q-{0}-d4r6k3f320-d4r6k3f320.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5sq9hrg4v7-{0}-j5mq2jizvt-j5mq2jizvt.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\3sza0xhhys-{0}-keugtjm085-keugtjm085.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ppfg7bjfef-{0}-nvvlpmu67g-nvvlpmu67g.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\aln2u2cmhf-{0}-zub09dkrxp-zub09dkrxp.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\6omwitayn7-{0}-pj5nd1wqec-pj5nd1wqec.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nvt6kn2274-{0}-43atpzeawx-43atpzeawx.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sd2vaq1pha-{0}-v0zj4ognzu-v0zj4ognzu.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ksrdjqthkb-{0}-ynyaa8k90p-ynyaa8k90p.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\s3ksdf39bc-{0}-hrwsygsryq-hrwsygsryq.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\7epknghls4-{0}-c63t5i9ira-c63t5i9ira.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\zbgb84qmhy-{0}-ft3s53vfgj-ft3s53vfgj.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hcvq9x14cp-{0}-4094rpi4f9-4094rpi4f9.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\1w48un1umb-{0}-6pdc2jztkx-6pdc2jztkx.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bbrjc4pj7k-{0}-hd3gran6i8-hd3gran6i8.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hr5ffkp93y-{0}-iovd86k7lj-iovd86k7lj.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mqjmuj9ng0-{0}-ltid2c489k-ltid2c489k.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5v3x1ikaod-{0}-kbrnm935zg-kbrnm935zg.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bh5r4mle0a-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\o1l4qcy6eb-{0}-y7v9cxd14o-y7v9cxd14o.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\l82u7vdnxr-{0}-u9q1upor1n-u9q1upor1n.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\v7i5ojs03q-{0}-h1s4sie4z3-h1s4sie4z3.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mj7v0rd0zk-{0}-4d85u1mtcx-4d85u1mtcx.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4zldh6pyri-{0}-0j3bgjxly4-0j3bgjxly4.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ibvue9qki1-{0}-03hjc8e09r-03hjc8e09r.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4xk5njmu44-{0}-48y08845bh-48y08845bh.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\losxf4vnoi-{0}-356vix0kms-356vix0kms.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\0o1tkyug2e-{0}-83jwlth58m-83jwlth58m.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\fzo94l4nv8-{0}-mrlpezrjn3-mrlpezrjn3.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dy3kvd3m5e-{0}-worgj0nhwm-worgj0nhwm.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\af4zidp4dj-{0}-gk0pw8i4co-gk0pw8i4co.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\abut4ce6cl-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mjgp1onsby-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\af982hj7nl-{0}-m9qm4tazc0-m9qm4tazc0.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\tyha76g2lm-{0}-ttgo8qnofa-ttgo8qnofa.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sfoigitga2-{0}-jjsuc0puko-jjsuc0puko.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\6spq4ww78b-{0}-9vr69e8ynj-9vr69e8ynj.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ekyvrwihks-{0}-87fc7y1x7t-87fc7y1x7t.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ze41dzvoct-{0}-mlv21k5csn-mlv21k5csn.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\staticwebassets.build.json
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\staticwebassets.development.json
@@ -817,19 +782,12 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\ref\Test.dll
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\wg9yyj7dvj-{0}-2omjt04a4f-2omjt04a4f.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ljk8vhk2ug-{0}-vk81rehhpd-vk81rehhpd.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hrhdktt3b1-{0}-uyj48ijtkf-uyj48ijtkf.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\7ddtw8r8jk-{0}-l9qilsbqfk-l9qilsbqfk.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qjwi4eqh4p-{0}-ktkj6bz9j4-ktkj6bz9j4.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dr8fimfove-{0}-306oe97j55-306oe97j55.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5338nyzxdi-{0}-b30ixwpg62-b30ixwpg62.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\61m1vhim1n-ktkj6bz9j4.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dcf4k9olui-4kxxa0wni9.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mk4ttf18aq-vk81rehhpd.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\41rnpuam96-uyj48ijtkf.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qyb1slh1bi-l9qilsbqfk.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ojyoasusly-b30ixwpg62.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5lxbdgg80s-{0}-kt19k031y9-kt19k031y9.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
@@ -957,7 +915,6 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\9ob00yarhy-{0}-5cymex36ff-5cymex36ff.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\h5h073iql7-{0}-6urbw9w34n-6urbw9w34n.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\3pihbe9v1c-{0}-fwy5kuddop-fwy5kuddop.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\9i0aihztgk-{0}-oa2jrhpxkz-oa2jrhpxkz.gz
 H:\GitHub\PracticeGithub\Test\Test\bin\Debug\net9.0\appsettings.Development.json
 H:\GitHub\PracticeGithub\Test\Test\bin\Debug\net9.0\appsettings.json
 H:\GitHub\PracticeGithub\Test\Test\bin\Debug\net9.0\Test.staticwebassets.runtime.json
@@ -1514,10 +1471,6 @@ H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\gx7thmgf07-hd5ifs
 H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\8n19zi6lzv-b208tfyfsy.gz
 H:\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\uwngyow6vb-3gk6k0g962.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Google.dll
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nmkzdy06rf-{0}-3gk6k0g962-3gk6k0g962.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ucg6godq7k-{0}-628v314f9a-628v314f9a.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sdywosqco6-{0}-hd5ifsarep-hd5ifsarep.gz
-D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\jebgyy870y-{0}-sh4iyqpe77-sh4iyqpe77.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\n2e975ve3f-{0}-t3hgwtkv0d-t3hgwtkv0d.gz
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\xhjlr13r6e-{0}-t3hgwtkv0d-t3hgwtkv0d.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Google.dll
@@ -1659,3 +1612,604 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\y45srp9dkd-iduza68fv6.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\8w4tswimiv-rlmsp3tdis.gz
 \\dom.sandwell.ac.uk\Student\HomeEven\709016\GitHub\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\wgm2db3su2-3r8b2a0bt1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\appsettings.Development.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\appsettings.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.staticwebassets.runtime.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.staticwebassets.endpoints.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.exe
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.deps.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.runtimeconfig.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Test.pdb
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Azure.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Azure.Identity.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Humanizer.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Build.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Build.Tasks.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Build.Utilities.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Common.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.ClientModel.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.CodeDom.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Memory.Data.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Resources.Extensions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.csproj.AssemblyReference.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.AssemblyInfoInputs.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.AssemblyInfo.cs
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.csproj.CoreCompileInputs.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.MvcApplicationPartsAssemblyInfo.cs
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.MvcApplicationPartsAssemblyInfo.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.RazorAssemblyInfo.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.RazorAssemblyInfo.cs
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\scopedcss\bundle\Test.styles.css
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\scopedcss\projectbundle\Test.bundle.scp.css
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ofa40bqe71-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\j9swiz3yzq-{0}-90yqlj465b-90yqlj465b.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\vltxs1u3vm-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\14ipv7q33s-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\rh65p086id-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\eb27mqwgz2-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9glsckmvxo-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hh8ihyobdx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bww8ud00yd-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\edcrak57d7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sf8kf2lula-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3tzsqhslk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\oxk5o6czdw-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\k8b25g0zwc-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\8axix7wldr-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\d5z9sfpxbi-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\u8428c4e9i-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\tg53r17ghy-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nlrl0f3xs3-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\1fc4q00scq-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\8xykfy6qmd-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\vsrbd71spn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\cynp17w084-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7o8oyvng68-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\h9vwtoirpy-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\o5k23vqhrk-{0}-06098lyss8-06098lyss8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\iznc766avz-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ns4583i71s-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\47012z8l2l-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4vzefxwp2m-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bh4v3mdph9-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\l186vlgaag-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\rsc7qacj1u-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\z408qb6q7a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\qfr28sqcy1-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0k1i85ntyh-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\xa379ftczi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\lr5hmrr0j7-{0}-493y06b0oq-493y06b0oq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ivy2s9gwh5-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\higufxz8op-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\s3tglgz8hr-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\vw9sls9bhj-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ym8tkpcl2i-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\zzna4nrm5w-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\igscs4x0yk-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\zap00c0tb5-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\pogzkicjpz-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\j3hwsq15kh-{0}-47otxtyo56-47otxtyo56.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\q3naettu8c-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ldxy2n3w6q-{0}-356vix0kms-356vix0kms.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ypthv7q62w-{0}-83jwlth58m-83jwlth58m.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\t6e3b82hrf-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\uocis9wxbx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\2tikzqlmtu-{0}-ag7o75518u-ag7o75518u.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9muusbdg0a-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\tpsq5dibur-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\t0qo7o574p-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\b9lhb08218-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\a3ygkwa5zy-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nezrqnk58p-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\v0zgfp0y55-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\yfc7ypekbg-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nn05m8xilp-{0}-kb3out9fl2-kb3out9fl2.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\oic90tu75h-{0}-097a5k7pm2-097a5k7pm2.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\kswgc47qtg-{0}-ytkzst8lei-ytkzst8lei.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9m8d1pkdwz-{0}-zzelxgebap-zzelxgebap.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9zu1mkwgcp-{0}-ab904hc51g-ab904hc51g.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nmkzdy06rf-{0}-1nvx61qzhb-1nvx61qzhb.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\haeq1nch23-{0}-x4rexo7k82-x4rexo7k82.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4mk4ftnp13-{0}-a0b70n93cs-a0b70n93cs.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\kjrcca4yg7-{0}-0af8z5ggyv-0af8z5ggyv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\cuvsh6i3g5-{0}-l30hzbe0pu-l30hzbe0pu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\k5fuz4ey8q-{0}-v1hc4hzpmp-v1hc4hzpmp.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6467o1j5t3-{0}-a2dbb9x29j-a2dbb9x29j.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9ol6lnw3x3-{0}-thgv8runu5-thgv8runu5.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\78teqb9h3q-{0}-bfafo1tmnz-bfafo1tmnz.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\zf0c369baj-{0}-h4ntji30jv-h4ntji30jv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\k9l8lhpw0j-{0}-t0hrx0iz2i-t0hrx0iz2i.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\c6s20seffz-{0}-6r77ag75i5-6r77ag75i5.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\k0leeftf23-{0}-clns3ame9m-clns3ame9m.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hqxpn1o5fn-{0}-p33xvwih9q-p33xvwih9q.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ukac5cw8u6-{0}-zfwo0h4d8e-zfwo0h4d8e.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7qzlelteno-{0}-qf4arm7m9q-qf4arm7m9q.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\heb55ax22z-{0}-hn0tbruu9v-hn0tbruu9v.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\jzsdl91raz-{0}-lvh8mywier-lvh8mywier.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\mg3a8f90bg-{0}-m9ynwh8xt1-m9ynwh8xt1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\2omo6wuduf-{0}-cpunr2sike-cpunr2sike.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\x1cdiuufte-{0}-go4rbw5vli-go4rbw5vli.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\02tpnescpc-{0}-a81e4zkeh7-a81e4zkeh7.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9kk9scquua-{0}-hk2w1w3d9y-hk2w1w3d9y.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7nlgxbk6sa-{0}-rksbuy5qn4-rksbuy5qn4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\r7q1436teo-{0}-u1xjrydd8p-u1xjrydd8p.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\i5fn9p7c2x-{0}-v5dqa5j133-v5dqa5j133.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ax4gycpl2d-{0}-14afk7jea0-14afk7jea0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sefzyb071f-{0}-bown59fzjl-bown59fzjl.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\y8wj19wa53-{0}-lovhra9r6c-lovhra9r6c.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6dzvjqnfap-{0}-1x9a5hpdcu-1x9a5hpdcu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ikz62ac3n9-{0}-8iy6xrsqqu-8iy6xrsqqu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\l08fhxif4o-{0}-aieem7jyiu-aieem7jyiu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\38uuness1x-{0}-8xdc56hgmt-8xdc56hgmt.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\wak9veh1br-{0}-djlf810sa7-djlf810sa7.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ir9dmsfb1z-{0}-nmdp7nqve0-nmdp7nqve0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6rnpibs8d2-{0}-yf5m37m0mz-yf5m37m0mz.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\t6dj55j0it-{0}-8ixfnatrue-8ixfnatrue.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\8e31r7d7bp-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\fg8sg4m35a-{0}-inr9tztuh6-inr9tztuh6.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0yed7kmov1-{0}-z6emo0ieah-z6emo0ieah.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\c8808zi5zg-{0}-cmfamyz0vu-cmfamyz0vu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bycik8amvj-{0}-88ayljc3y9-88ayljc3y9.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sduhn8fmg6-{0}-zzhbizqlk9-zzhbizqlk9.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\06q72d3wf5-{0}-84g50xniwd-84g50xniwd.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\d5bsvxajxq-{0}-tn8x2ci1s4-tn8x2ci1s4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\72gm7kd0c7-{0}-3n6ep3jmzo-3n6ep3jmzo.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ev1wsn5r16-{0}-gwndjpfll5-gwndjpfll5.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\yc8yoitahi-{0}-sz6990sd63-sz6990sd63.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7pt4f6ys6s-{0}-7ub7l7u5y6-7ub7l7u5y6.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\389yppdfbk-{0}-d5tc9bphfz-d5tc9bphfz.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\66x48q2tzf-{0}-goiki0k27y-goiki0k27y.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3w4l3ncfzh-{0}-8m9trw2zc0-8m9trw2zc0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\x9tmwtfqld-{0}-o4p01wfodq-o4p01wfodq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\n78nmyt405-{0}-9ugm0d1n88-9ugm0d1n88.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\pk0n7z94sf-{0}-u76qalwz83-u76qalwz83.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\gfsvmuhn0x-{0}-6ipdnegl6t-6ipdnegl6t.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hlg41ope9i-{0}-udl76tydnh-udl76tydnh.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\wpt2laj6zi-{0}-8jbdq0rmwb-8jbdq0rmwb.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\pqzg29ip5o-{0}-igx4hwr9mg-igx4hwr9mg.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\gfkay31r0b-{0}-ipglhweb5e-ipglhweb5e.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\2bss8edymw-{0}-3ajr5l1ur1-3ajr5l1ur1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\pathj27gnu-{0}-plfii9xsjz-plfii9xsjz.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nkm5kn13u8-{0}-80oebio2b4-80oebio2b4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6jmgi1wa1r-{0}-vm6amm7x7h-vm6amm7x7h.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7wbllb2yo2-{0}-421brr8qwd-421brr8qwd.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\scvl0m1f3h-{0}-dqqfs0d2l4-dqqfs0d2l4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\f7az00src8-{0}-8hn3gfsrsx-8hn3gfsrsx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0egocy9r7y-{0}-p3vlq0e0uj-p3vlq0e0uj.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\775w5tnh6v-{0}-gdvxgon1od-gdvxgon1od.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7k22n9w0ov-{0}-sth2pomeod-sth2pomeod.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0y1luc8sgy-{0}-gwhig2ov09-gwhig2ov09.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ckhs8knvkr-{0}-eiebste0t7-eiebste0t7.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\v7blc165th-{0}-imisfskvwo-imisfskvwo.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\m1fejr440w-{0}-5k6y9cq4cp-5k6y9cq4cp.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\m5ervt3f0a-{0}-n3rhiw73et-n3rhiw73et.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7h5zbse6rz-{0}-8gfe2nbwrp-8gfe2nbwrp.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hojw605frx-{0}-1zubysmx5k-1zubysmx5k.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\te3zsg37qi-{0}-hhximkxmcm-hhximkxmcm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\21olkzpfwl-{0}-4ol17b0lim-4ol17b0lim.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ae0topblku-{0}-sadi9dnpmy-sadi9dnpmy.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\aoeksv4fgb-{0}-xn1lutnfis-xn1lutnfis.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\i6uw8i30u2-{0}-gcd8i733l8-gcd8i733l8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3y7j5x0fu9-{0}-6ublnzmi72-6ublnzmi72.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\z0776f9laa-{0}-gsc6b56uy8-gsc6b56uy8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\c1rfic6d0j-{0}-iluik26yva-iluik26yva.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sx542qbpdn-{0}-2rrmplenj9-2rrmplenj9.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\96hwxozc23-{0}-jobyvb7ufv-jobyvb7ufv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6cpysgcabj-{0}-xshyj4bsuc-xshyj4bsuc.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9ob00yarhy-{0}-5cymex36ff-5cymex36ff.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\h5h073iql7-{0}-6urbw9w34n-6urbw9w34n.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3pihbe9v1c-{0}-fwy5kuddop-fwy5kuddop.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\jebgyy870y-{0}-7r87m9jnyh-7r87m9jnyh.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\t1gl2vi91z-{0}-nm6qngftz6-nm6qngftz6.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\9i0aihztgk-{0}-04eyve7dcv-04eyve7dcv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ucg6godq7k-{0}-9hlb0ss4pq-9hlb0ss4pq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\dr8fimfove-{0}-zj56hyo3qd-zj56hyo3qd.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sdywosqco6-{0}-wn4ckwrgls-wn4ckwrgls.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\qjwi4eqh4p-{0}-fd7ph3ps93-fd7ph3ps93.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3om3alwwon-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\wg9yyj7dvj-{0}-2omjt04a4f-2omjt04a4f.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\5lxbdgg80s-{0}-3r8b2a0bt1-3r8b2a0bt1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ljk8vhk2ug-{0}-ehuuqbhkrp-ehuuqbhkrp.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hrhdktt3b1-{0}-p4nqi2za6b-p4nqi2za6b.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\tuopizoh19-{0}-3n32a4z0ue-3n32a4z0ue.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7ddtw8r8jk-{0}-szyl84u7o3-szyl84u7o3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\5338nyzxdi-{0}-kuv7u8n163-kuv7u8n163.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\l9ff6ga8i0-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\zw0txd139p-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0usv8cs557-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\lw93g4dl3b-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\al7iavpzx9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4tvephrwhc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\d2cotq4f55-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\enm0f8fbau-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\car86l7gk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\fdapdbqddl-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\oagbm4wzcx-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\x0mckydr9a-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nz2bzz2s2u-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\41ichqf0ph-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4vphstu322-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\m74gulnils-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bbtydix2py-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\h4rh4rh994-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\qu0mypjxho-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\emejty2fry-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\mkou2c3v7q-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\5sq9hrg4v7-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\3sza0xhhys-{0}-06098lyss8-06098lyss8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ppfg7bjfef-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\aln2u2cmhf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6omwitayn7-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\nvt6kn2274-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sd2vaq1pha-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ksrdjqthkb-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\s3ksdf39bc-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\7epknghls4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\zbgb84qmhy-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hcvq9x14cp-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\1w48un1umb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bbrjc4pj7k-{0}-493y06b0oq-493y06b0oq.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\hr5ffkp93y-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\mqjmuj9ng0-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\5v3x1ikaod-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\bh5r4mle0a-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\o1l4qcy6eb-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\l82u7vdnxr-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\v7i5ojs03q-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\mj7v0rd0zk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4zldh6pyri-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ibvue9qki1-{0}-47otxtyo56-47otxtyo56.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\4xk5njmu44-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\losxf4vnoi-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\0o1tkyug2e-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\fzo94l4nv8-{0}-qlccset4i1-qlccset4i1.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\dy3kvd3m5e-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\af4zidp4dj-{0}-ag7o75518u-ag7o75518u.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\abut4ce6cl-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\mjgp1onsby-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\af982hj7nl-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\tyha76g2lm-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\sfoigitga2-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\6spq4ww78b-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ekyvrwihks-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\ze41dzvoct-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\n2e975ve3f-{0}-t3hgwtkv0d-t3hgwtkv0d.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\compressed\xhjlr13r6e-{0}-t3hgwtkv0d-t3hgwtkv0d.gz
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\staticwebassets.build.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\staticwebassets.development.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\swae.build.ex.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.csproj.Up2Date
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\refint\Test.dll
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.pdb
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
+D:\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\PracticeGithub-67e660cbc56945d016c4d1545677fa70b9d4559d\Test\Test\obj\Debug\net9.0\ref\Test.dll
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nmkzdy06rf-{0}-1nvx61qzhb-1nvx61qzhb.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\jebgyy870y-{0}-7r87m9jnyh-7r87m9jnyh.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\t1gl2vi91z-{0}-nm6qngftz6-nm6qngftz6.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\9i0aihztgk-{0}-04eyve7dcv-04eyve7dcv.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ucg6godq7k-{0}-9hlb0ss4pq-9hlb0ss4pq.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dr8fimfove-{0}-zj56hyo3qd-zj56hyo3qd.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sdywosqco6-{0}-wn4ckwrgls-wn4ckwrgls.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qjwi4eqh4p-{0}-fd7ph3ps93-fd7ph3ps93.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5lxbdgg80s-{0}-3r8b2a0bt1-3r8b2a0bt1.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ljk8vhk2ug-{0}-ehuuqbhkrp-ehuuqbhkrp.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hrhdktt3b1-{0}-p4nqi2za6b-p4nqi2za6b.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\tuopizoh19-{0}-3n32a4z0ue-3n32a4z0ue.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\7ddtw8r8jk-{0}-szyl84u7o3-szyl84u7o3.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\5338nyzxdi-{0}-kuv7u8n163-kuv7u8n163.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\l9ff6ga8i0-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\0usv8cs557-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\al7iavpzx9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\d2cotq4f55-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\car86l7gk9-{0}-ub07r2b239-ub07r2b239.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\oagbm4wzcx-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nz2bzz2s2u-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4vphstu322-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bbtydix2py-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qu0mypjxho-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mkou2c3v7q-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\3sza0xhhys-{0}-06098lyss8-06098lyss8.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\aln2u2cmhf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\nvt6kn2274-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ksrdjqthkb-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\7epknghls4-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\hcvq9x14cp-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bbrjc4pj7k-{0}-493y06b0oq-493y06b0oq.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mqjmuj9ng0-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\bh5r4mle0a-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\l82u7vdnxr-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mj7v0rd0zk-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ibvue9qki1-{0}-47otxtyo56-47otxtyo56.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\4xk5njmu44-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\losxf4vnoi-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\0o1tkyug2e-{0}-ilo7uva0vt-ilo7uva0vt.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\fzo94l4nv8-{0}-qlccset4i1-qlccset4i1.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dy3kvd3m5e-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\af4zidp4dj-{0}-ag7o75518u-ag7o75518u.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\abut4ce6cl-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\mjgp1onsby-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\af982hj7nl-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\sfoigitga2-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\6spq4ww78b-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ze41dzvoct-{0}-jfsiqqwiad-jfsiqqwiad.gz

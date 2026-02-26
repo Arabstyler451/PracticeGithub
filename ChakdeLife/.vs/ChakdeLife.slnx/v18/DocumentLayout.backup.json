@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D9E0C4D6-CE34-412C-BBCA-1036927D5A10}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9E0C4D6-CE34-412C-BBCA-1036927D5A10}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\walkinggroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\walkinggroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\models\\walkinggroupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64368CEE-F0D0-4CBD-97C3-B903E6ED4954}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\models\\walkinggroupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9E0C4D6-CE34-412C-BBCA-1036927D5A10}|ChakdeLife\\ChakdeLife.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\chakdelife\\chakdelife\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9E0C4D6-CE34-412C-BBCA-1036927D5A10}|ChakdeLife\\ChakdeLife.csproj|solutionrelative:chakdelife\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\Order.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Order.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:40:47.776Z",
-              "IsPinned": true,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChakdeLife\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChakdeLife\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T13:43:17.533Z",
               "EditorCaption": ""
             },
             {
@@ -62,75 +41,9 @@
               "RelativeDocumentMoniker": "ChakdeLife\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ChakdeLife\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-24T13:38:24.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WalkingGroupMember.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\WalkingGroupMember.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\WalkingGroupMember.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\WalkingGroupMember.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\WalkingGroupMember.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:11:25.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WalkingGroup.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\WalkingGroup.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\WalkingGroup.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\WalkingGroup.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\WalkingGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:41:17.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogPost.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\BlogPost.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\BlogPost.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\BlogPost.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\BlogPost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:46:41.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\Category.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Category.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T12:40:35.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ChakdeLife\\Models\\Product.cs",
-              "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\ChakdeLife\\ChakdeLife\\Models\\Product.cs",
-              "RelativeToolTip": "ChakdeLife\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "ChakdeLife\\Models",
-              "WhenOpened": "2026-02-24T12:34:24.694Z",
               "EditorCaption": ""
             }
           ]

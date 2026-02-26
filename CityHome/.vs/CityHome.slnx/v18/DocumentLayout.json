@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "CityHome\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\CityHome\\CityHome\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CityHome\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwGIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAPsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-06T20:59:22.636Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "CityHome\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-08T14:15:29.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T14:15:29.162Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "CityHome\\wwwroot\\css\\LoginPartials.css",
               "ViewState": "AgIAAAsBAAAAAAAAAAAkwEYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-08T13:58:25.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T13:58:25.944Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "CityHome\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAEcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-08T13:57:26.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-08T13:57:26.391Z"
             },
             {
               "$type": "Document",

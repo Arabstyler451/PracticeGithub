@@ -1,0 +1,243 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ChakdeLifeLTD</title>
+
+    <!-- Bootstrap and site CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ChakdeLife.styles.css" asp-append-version="true" />
+
+    <!-- Template CSS (already includes vendor.css and style.css) -->
+    <link rel="stylesheet" href="~/Theme/css/normalize.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Theme/css/swiper-bundle.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Theme/css/vendor.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Theme/style.css" asp-append-version="true" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Marcellus&display=swap" rel="stylesheet">
+</head>
+<body class="homepage">
+    <!-- SVG Icons from template (keep this) -->
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+        <defs>
+            <!-- Include all symbol definitions from the template here -->
+            <!-- I've truncated this for brevity - copy all symbols from the template's SVG section -->
+            <symbol xmlns="http://www.w3.org/2000/svg" id="instagram" viewBox="0 0 15 15">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="facebook" viewBox="0 0 15 15">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="twitter" viewBox="0 0 15 15">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="pinterest" viewBox="0 0 15 15">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="youtube" viewBox="0 0 15 15">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="calendar" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="shopping-bag" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="gift" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="arrow-cycle" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="arrow-left" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="arrow-right" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="play" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="heart" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="cart" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="search" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="user" viewBox="0 0 24 24">...</symbol>
+            <symbol xmlns="http://www.w3.org/2000/svg" id="close" viewBox="0 0 15 15">...</symbol>
+        </defs>
+    </svg>
+
+    <!-- Search Popup (keep from template) -->
+    <div class="search-popup">
+        <div class="search-popup-container">
+            <form role="search" method="get" class="form-group" action="">
+                <input type="search" id="search-form" class="form-control border-0 border-bottom"
+                       placeholder="Type and press enter" value="" name="s" />
+                <button type="submit" class="search-submit border-0 position-absolute bg-white"
+                        style="top: 15px;right: 15px;">
+                    <svg class="search" width="24" height="24">
+                        <use xlink:href="#search"></use>
+                    </svg>
+                </button>
+            </form>
+
+            <h5 class="cat-list-title">Browse Categories</h5>
+            <ul class="cat-list">
+                <li class="cat-list-item"><a href="#" title="Jackets">Jackets</a></li>
+                <li class="cat-list-item"><a href="#" title="T-shirts">T-shirts</a></li>
+                <li class="cat-list-item"><a href="#" title="Handbags">Handbags</a></li>
+                <li class="cat-list-item"><a href="#" title="Accessories">Accessories</a></li>
+                <li class="cat-list-item"><a href="#" title="Cosmetics">Cosmetics</a></li>
+                <li class="cat-list-item"><a href="#" title="Dresses">Dresses</a></li>
+                <li class="cat-list-item"><a href="#" title="Jumpsuits">Jumpsuits</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Cart Offcanvas (keep from template) -->
+    <div class="offcanvas offcanvas-end" data-bs-scroll="true" tabindex="-1" id="offcanvasCart" aria-labelledby="My Cart">
+        <div class="offcanvas-header justify-content-center">
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="order-md-last">
+                <h4 class="d-flex justify-content-between align-items-center mb-3">
+                    <span class="text-primary">Your cart</span>
+                    <span class="badge bg-primary rounded-pill">3</span>
+                </h4>
+                <ul class="list-group mb-3">
+                    <li class="list-group-item d-flex justify-content-between lh-sm">
+                        <div>
+                            <h6 class="my-0">Growers cider</h6>
+                            <small class="text-body-secondary">Brief description</small>
+                        </div>
+                        <span class="text-body-secondary">$12</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between lh-sm">
+                        <div>
+                            <h6 class="my-0">Fresh grapes</h6>
+                            <small class="text-body-secondary">Brief description</small>
+                        </div>
+                        <span class="text-body-secondary">$8</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between lh-sm">
+                        <div>
+                            <h6 class="my-0">Heinz tomato ketchup</h6>
+                            <small class="text-body-secondary">Brief description</small>
+                        </div>
+                        <span class="text-body-secondary">$5</span>
+                    </li>
+                    <li class="list-group-item d-flex justify-content-between">
+                        <span>Total (USD)</span>
+                        <strong>$20</strong>
+                    </li>
+                </ul>
+                <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to Checkout</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header/Navbar - Keep your existing navbar (already has ASP.NET tag helpers) -->
+    <header>
+        <nav class="navbar navbar-expand-lg bg-light text-uppercase fs-6 p-3 border-bottom align-items-center">
+            <div class="container-fluid">
+                <div class="row justify-content-between align-items-center w-100">
+                    <div class="col-auto">
+                        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Chakde Life</a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+
+                    <div class="col-auto">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+                                aria-controls="offcanvasNavbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                            <div class="offcanvas-header">
+                                <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
+                                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                            </div>
+
+                            <div class="offcanvas-body">
+                                <ul class="navbar-nav justify-content-end flex-grow-1 gap-1 gap-md-5 pe-3">
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="WalkingGroups" asp-action="Index">Walking Groups</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-auto">
+                        <ul class="list-unstyled d-flex m-0 align-items-center">
+                            <li class="d-none d-lg-block align-self-center">
+                                <a href="#" class="text-uppercase mx-3">
+                                    Wishlist <span class="wishlist-count">(0)</span>
+                                </a>
+                            </li>
+                            <li class="d-none d-lg-block align-self-center">
+                                <a href="#" class="text-uppercase mx-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
+                                   aria-controls="offcanvasCart">
+                                    Cart <span class="cart-count">(0)</span>
+                                </a>
+                            </li>
+                            <li class="d-lg-none align-self-center">
+                                <a href="#" class="mx-2">
+                                    <svg width="24" height="24" viewBox="0 0 24 24">
+                                        <use xlink:href="#heart"></use>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li class="d-lg-none align-self-center">
+                                <a href="#" class="mx-2" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
+                                   aria-controls="offcanvasCart">
+                                    <svg width="24" height="24" viewBox="0 0 24 24">
+                                        <use xlink:href="#cart"></use>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li class="search-box mx-2 align-self-center">
+                                <a href="#search" class="search-button">
+                                    <svg width="24" height="24" viewBox="0 0 24 24">
+                                        <use xlink:href="#search"></use>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li class="d-flex align-items-center ms-2">
+                                <partial name="_LoginPartial" />
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Area - This will be replaced by view content -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer - Keep your existing footer or replace with template's enhanced footer -->
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2026 - ChakdeLife - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Template Scripts -->
+    <script src="~/Theme/js/jquery.min.js" asp-append-version="true"></script>
+    <script src="~/Theme/js/modernizr.js" asp-append-version="true"></script>
+    <script src="~/Theme/js/plugins.js" asp-append-version="true"></script>
+    <script src="~/Theme/js/script.min.js" asp-append-version="true"></script>
+    <script src="~/Theme/js/SmoothScroll.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

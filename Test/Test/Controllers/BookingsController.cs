@@ -11,7 +11,7 @@ using Test.Data;
 using Test.Models;
 
 namespace Test.Controllers
-{   
+{
     public class BookingsController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -197,7 +197,7 @@ namespace Test.Controllers
         }
 
         // GET: Bookings/Delete/5
-        [Authorize(Roles="Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -237,4 +237,5 @@ namespace Test.Controllers
         {
             return _context.Booking.Any(e => e.BookingId == id);
         }
-
+    }
+}

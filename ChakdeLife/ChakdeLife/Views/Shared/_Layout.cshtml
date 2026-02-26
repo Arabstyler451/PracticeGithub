@@ -3,165 +3,366 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - ChakdeLife</title>
-    <script type="importmap"></script>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewData["Title"] - Chakde Life</title>
+
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap CSS (optional but handy) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" />
+
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/ChakdeLife.styles.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Theme/css/normalize.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Theme/css/swiper-bundle.min.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Theme/css/vendor.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Theme/style.css" asp-append-version="true" />
 
-
-
+    @RenderSection("Styles", required: false)
 
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg bg-light text-uppercase fs-6 p-3 border-bottom align-items-center">
-            <div class="container-fluid">
-                <div class="row justify-content-between align-items-center w-100">
 
-                    <div class="col-auto">
-                            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Chakde Life</a>
-                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                                    aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-                    </div>
-
-                    <div class="col-auto">
-                        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
-                                aria-controls="offcanvasNavbar">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
-                             aria-labelledby="offcanvasNavbarLabel">
-                            <div class="offcanvas-header">
-                                <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
-                                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
-                                        aria-label="Close"></button>
-                            </div>
-
-                            <div class="offcanvas-body">
-                                <ul class="navbar-nav justify-content-end flex-grow-1 gap-1 gap-md-5 pe-3">
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="WalkingGroups" asp-action="Index">Walking Groups</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
-                                    </li>
-                                </ul>
-                                <partial name="_LoginPartial" />
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-3 col-lg-auto">
-                        <ul class="list-unstyled d-flex m-0">
-                            <li class="d-none d-lg-block">
-                                <a href="index.html" class="text-uppercase mx-3">
-                                    Wishlist <span class="wishlist-count">(0)</span>
-                                </a>
-                            </li>
-                            <li class="d-none d-lg-block">
-                                <a href="index.html" class="text-uppercase mx-3" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-                                   aria-controls="offcanvasCart">
-                                    Cart <span class="cart-count">(0)</span>
-                                </a>
-                            </li>
-                            <li class="d-lg-none">
-                                <a href="#" class="mx-2">
-                                    <svg width="24" height="24" viewBox="0 0 24 24">
-                                        <use xlink:href="#heart"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="d-lg-none">
-                                <a href="#" class="mx-2" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart"
-                                   aria-controls="offcanvasCart">
-                                    <svg width="24" height="24" viewBox="0 0 24 24">
-                                        <use xlink:href="#cart"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                            <li class="search-box" class="mx-2">
-                                <a href="#search" class="search-button">
-                                    <svg width="24" height="24" viewBox="0 0 24 24">
-                                        <use xlink:href="#search"></use>
-                                    </svg>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-
-            </div>
-        </nav>
-<!--
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ChakdeLife</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
-                        </li>
-                                                <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="WalkingGroups" asp-action="Index">Walking Groups</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="AboutUs">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ContactUs">Contact Us</a>
-                        </li>
-                    </ul>
-                    <partial name="_LoginPartial" />
-                </div>
-            </div>
-        </nav>
-                -->
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <!-- ===============================================
+         ANNOUNCEMENT / TICKER BAR
+    ================================================ -->
+    <div class="announcement-bar" aria-label="Site announcements">
+        <div class="announcement-bar__track">
+            <span>Free shipping on orders over £75</span>
+            <span>New drop every Friday</span>
+            <span>Chakde Life — Built different</span>
+            <span>You've Got This</span>
+            <span>Free shipping on orders over £75</span>
+            <span>New drop every Friday</span>
+            <span>Chakde Life — Built different</span>
+            <span>You've Got This</span>
+        </div>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2026 - ChakdeLife - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <!-- ===============================================
+         SEARCH OVERLAY
+    ================================================ -->
+    <div class="search-overlay" id="searchOverlay" role="search">
+        <input type="search" placeholder="Search products…" id="searchInput" autocomplete="off" />
+        <button class="search-overlay-close" id="searchClose" aria-label="Close search">
+            <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+        </button>
+    </div>
+
+    <!-- ===============================================
+         MOBILE DRAWER OVERLAY
+    ================================================ -->
+    <div class="drawer-overlay" id="drawerOverlay"></div>
+
+    <!-- ===============================================
+         MOBILE DRAWER
+    ================================================ -->
+    <nav class="mobile-drawer" id="mobileDrawer" aria-label="Mobile navigation">
+        <div class="drawer-header">
+            <a href="/" class="logo">CHAKDE<span>.</span></a>
+            <button class="drawer-close" id="drawerClose" aria-label="Close menu">
+                <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
+            </button>
         </div>
+        <div class="drawer-nav">
+            <div class="drawer-sub-header">Shop</div>
+            <a href="/men">Home</a>
+            <a href="/women">Products</a>
+            <a href="/collections">Collections</a>
+            <a href="/collections">Walking Groups</a>
+            <a href="/collections">Blogs</a>
+            <a href="/collections">About Us</a>
+            <a href="/collections">Contact Us</a>
+            <div class="drawer-sub-header">Account</div>
+            <a href="/account">My Account</a>
+            <a href="/wishlist">Wishlist</a>
+            <a href="/orders">Orders</a>
+        </div>
+        <div class="drawer-bottom">
+            <a href="/contact">Contact</a>
+            <a href="/faq">FAQ</a>
+            <a href="/stores">Stores</a>
+        </div>
+    </nav>
+
+    <!-- ===============================================
+         STICKY HEADER / NAVBAR
+    ================================================ -->
+    <header class="site-header" id="siteHeader">
+        <div class="navbar-inner">
+
+            <!-- Left Nav -->
+            <nav class="nav-left" aria-label="Primary navigation">
+
+                <!-- MEN dropdown -->
+                <div class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                    <div class="mega-menu">
+                        <div class="mega-col">
+                            <h4>Lightweight</h4>
+                            <ul>
+                                <li><a href="/men/t-shirts">T-Shirts</a></li>
+                                <li><a href="/men/hoodies">Vests</a></li>
+                            </ul>
+                        </div>
+                        <div class="mega-col">
+                            <h4>Layered</h4>
+                            <ul>
+                                <li><a href="/men/joggers">Hoodies</a></li>
+                            </ul>
+                        </div>
+                        <div class="mega-col">
+                            <h4>Featured</h4>
+                            <ul>
+                                <li><a href="/men/new-arrivals">New Arrivals</a></li>
+                                <li><a href="/men/best-sellers">Best Sellers</a></li>
+                                <li><a href="/men/sale">Sale</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Walking groups dropdown -->
+                <div class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="WalkingGroups" asp-action="Index">Walking Groups</a>
+                    <div class="mega-menu">
+                        <div class="mega-col">
+                            <h4>Tops</h4>
+                            <ul>
+                                <li><a href="/women/t-shirts">T-Shirts</a></li>
+                                <li><a href="/women/sports-bras">Sports Bras</a></li>
+                                <li><a href="/women/tanks">Tanks & Crops</a></li>
+                                <li><a href="/women/hoodies">Hoodies</a></li>
+                                <li><a href="/women/long-sleeve">Long Sleeve</a></li>
+                            </ul>
+                        </div>
+                        <div class="mega-col">
+                            <h4>Bottoms</h4>
+                            <ul>
+                                <li><a href="/women/leggings">Leggings</a></li>
+                                <li><a href="/women/shorts">Shorts</a></li>
+                                <li><a href="/women/joggers">Joggers</a></li>
+                                <li><a href="/women/sets">Sets</a></li>
+                            </ul>
+                        </div>
+                        <div class="mega-col">
+                            <h4>Featured</h4>
+                            <ul>
+                                <li><a href="/women/new-arrivals">New Arrivals</a></li>
+                                <li><a href="/women/best-sellers">Best Sellers</a></li>
+                                <li><a href="/women/sale">Sale</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- COLLECTIONS -->
+                <div class="nav-item">
+                    <a href="/collections" class="nav-link">Collections</a>
+                    <div class="mega-menu">
+                        <div class="mega-col">
+                            <h4>Current Season</h4>
+                            <ul>
+                                <li><a href="/collections/spring-25">Spring '25</a></li>
+                                <li><a href="/collections/essentials">Essentials</a></li>
+                                <li><a href="/collections/premium">Premium Line</a></li>
+                            </ul>
+                        </div>
+                        <div class="mega-col">
+                            <h4>Collab Drops</h4>
+                            <ul>
+                                <li><a href="/collections/all-collab">View All</a></li>
+                                <li><a href="/collections/archive">Archive</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
+                </div>
+
+                <div class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="AboutUs" asp-action="Index">About Us</a>
+                </div>
+
+                <div class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="ContactUs" asp-action="Index">Contact Us</a>
+                </div>
+            </nav>
+
+
+            <!-- Logo -->
+            <div class="nav-logo">
+                <a href="/">CHAKDE<span>.</span></a>
+            </div>
+
+            <!-- Right Icons -->
+            <div class="nav-right">
+                <!-- Search -->
+                <button class="nav-icon-btn" id="searchToggle" aria-label="Search">
+                    <svg viewBox="0 0 24 24">
+                        <circle cx="11" cy="11" r="7" />
+                        <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                    </svg>
+                </button>
+
+                <!-- Account -->
+                <a href="/account" class="nav-icon-btn" aria-label="My account">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+                        <circle cx="12" cy="7" r="4" />
+                    </svg>
+                </a>
+
+                <!-- Wishlist -->
+                <a href="/wishlist" class="nav-icon-btn" aria-label="Wishlist">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+                    </svg>
+                </a>
+
+                <!-- Cart -->
+                <a href="/cart" class="nav-icon-btn" aria-label="Shopping cart">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z" />
+                        <line x1="3" y1="6" x2="21" y2="6" />
+                        <path d="M16 10a4 4 0 0 1-8 0" />
+                    </svg>
+                    <span class="cart-count">0</span>
+                </a>
+
+                <!-- Mobile hamburger -->
+                <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- ===============================================
+         PAGE CONTENT
+    ================================================ -->
+    <main>
+        @RenderBody()
+    </main>
+
+    <!-- ===============================================
+         FOOTER
+    ================================================ -->
+    <footer class="site-footer" aria-label="Site footer">
+
+        <!-- Newsletter Strip -->
+        <div class="footer-newsletter">
+            <div class="footer-newsletter-inner">
+                <div>
+                    <h3>JOIN THE MOVEMENT</h3>
+                    <p>Subscribe for early drops, exclusive deals &amp; member-only offers.</p>
+                </div>
+                <form class="newsletter-form" onsubmit="handleNewsletter(event)">
+                    <input type="email" placeholder="Your email address" required />
+                    <button type="submit">Subscribe</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Main footer columns -->
+        <div class="footer-top">
+
+            <!-- Brand column -->
+            <div class="footer-brand">
+                <a href="/" class="footer-logo">CHAKDE<span>.</span></a>
+                <p>Built for those who move with purpose. Chakde Life is premium performance streetwear crafted for every grind — gym floor to street corner.</p>
+                <div class="footer-social">
+                    <!-- Instagram -->
+                    <a href="https://instagram.com" aria-label="Instagram" target="_blank" rel="noopener">
+                        <svg viewBox="0 0 24 24"><rect x="2" y="2" width="20" height="20" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" /><line x1="17.5" y1="6.5" x2="17.51" y2="6.5" /></svg>
+                    </a>
+                    <!-- TikTok -->
+                    <a href="https://tiktok.com" aria-label="TikTok" target="_blank" rel="noopener">
+                        <svg viewBox="0 0 24 24" stroke-linecap="round"><path d="M9 12a4 4 0 1 0 4 4V4a5 5 0 0 0 5 5" /></svg>
+                    </a>
+                    <!-- Twitter/X -->
+                    <a href="https://twitter.com" aria-label="Twitter / X" target="_blank" rel="noopener">
+                        <svg viewBox="0 0 24 24"><path d="M4 4l16 16M20 4L4 20" /></svg>
+                    </a>
+                    <!-- YouTube -->
+                    <a href="https://youtube.com" aria-label="YouTube" target="_blank" rel="noopener">
+                        <svg viewBox="0 0 24 24"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.97C18.88 4 12 4 12 4s-6.88 0-8.59.45A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58A2.78 2.78 0 0 0 3.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 0 0 1.95-1.97A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z" /><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" /></svg>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Shop column -->
+            <div class="footer-col">
+                <h5>Shop</h5>
+                <ul>
+                    <li><a href="/men">Men</a></li>
+                    <li><a href="/women">Women</a></li>
+                    <li><a href="/collections">Collections</a></li>
+                    <li><a href="/accessories">Accessories</a></li>
+                    <li><a href="/sale">Sale</a></li>
+                    <li><a href="/new-arrivals">New Arrivals</a></li>
+                    <li><a href="/best-sellers">Best Sellers</a></li>
+                </ul>
+            </div>
+
+            <!-- Help column -->
+            <div class="footer-col">
+                <h5>Help</h5>
+                <ul>
+                    <li><a href="/faq">FAQ</a></li>
+                    <li><a href="/shipping">Shipping Info</a></li>
+                    <li><a href="/returns">Returns & Exchanges</a></li>
+                    <li><a href="/size-guide">Size Guide</a></li>
+                    <li><a href="/contact">Contact Us</a></li>
+                    <li><a href="/track-order">Track My Order</a></li>
+                </ul>
+            </div>
+
+            <!-- Company column -->
+            <div class="footer-col">
+                <h5>Company</h5>
+                <ul>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/careers">Careers</a></li>
+                    <li><a href="/press">Press</a></li>
+                    <li><a href="/ambassador">Ambassador Program</a></li>
+                    <li><a href="/stores">Find a Store</a></li>
+                    <li><a href="/wholesale">Wholesale</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Bottom bar -->
+        <div class="footer-bottom">
+            <p>&copy; @DateTime.Now.Year Chakde Life Ltd. All rights reserved.</p>
+            <div class="footer-payments">
+                <span class="payment-badge">VISA</span>
+                <span class="payment-badge">MC</span>
+                <span class="payment-badge">AMEX</span>
+                <span class="payment-badge">PAYPAL</span>
+                <span class="payment-badge">KLARNA</span>
+            </div>
+            <div class="footer-bottom-links">
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Service</a>
+                <a href="/cookies">Cookie Policy</a>
+            </div>
+        </div>
+
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/SmoothScroll.js" asp-append-version="true"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/js/bootstrap.bundle.min.js"></script>
+
+
+    @RenderSection("Scripts", required: false)
+
 </body>
 </html>

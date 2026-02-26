@@ -1,0 +1,1089 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<style>
+    /* =============================================
+       GYMSHARK-STYLE HOME PAGE
+       High-contrast athletic aesthetic
+    ============================================= */
+
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    :root {
+        --black: #0a0a0a;
+        --white: #ffffff;
+        --off-white: #f5f5f0;
+        --accent: #c8f52e; /* Gymshark lime green accent */
+        --mid-grey: #1a1a1a;
+        --light-grey: #e8e8e8;
+        --text-muted: #888888;
+    }
+
+    /* ---- HERO ---- */
+    .hero {
+        position: relative;
+        height: 95vh;
+        min-height: 600px;
+        background: var(--black);
+        overflow: hidden;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .hero-bg {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(135deg, #0a0a0a 0%, #1c1c1c 40%, #0f0f0f 100%);
+    }
+
+    /* Geometric accent lines */
+    .hero-bg::before {
+        content: '';
+        position: absolute;
+        top: -10%;
+        right: -5%;
+        width: 55%;
+        height: 120%;
+        background: linear-gradient(160deg, #1e1e1e 0%, #141414 100%);
+        clip-path: polygon(15% 0%, 100% 0%, 100% 100%, 0% 100%);
+    }
+
+    .hero-bg::after {
+        content: '';
+        position: absolute;
+        top: 60%;
+        right: 20%;
+        width: 200px;
+        height: 200px;
+        background: var(--accent);
+        opacity: 0.08;
+        border-radius: 50%;
+        filter: blur(60px);
+    }
+
+    /* Placeholder image area - replace src with real model imagery */
+    .hero-image {
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 55%;
+        height: 100%;
+        background: linear-gradient(to bottom, #222 0%, #111 100%);
+        overflow: hidden;
+    }
+
+    .hero-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top center;
+        opacity: 0.85;
+        mix-blend-mode: luminosity;
+    }
+
+    /* Gradient overlay on image */
+    .hero-image::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(to right, var(--black) 0%, transparent 40%),
+                    linear-gradient(to top, var(--black) 0%, transparent 30%);
+    }
+
+    .hero-content {
+        position: relative;
+        z-index: 2;
+        padding: 0 6vw 8vh;
+        max-width: 700px;
+        animation: heroReveal 1s cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+
+    @@keyframes heroReveal {
+        from { opacity: 0; transform: translateY(40px); }
+        to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .hero-label {
+        display: inline-block;
+        font-family: 'Jost', sans-serif;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.25em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: 1.2rem;
+        background: rgba(200, 245, 46, 0.1);
+        padding: 0.4rem 0.9rem;
+        border: 1px solid rgba(200, 245, 46, 0.3);
+        border-radius: 2px;
+    }
+
+    .hero-title {
+        font-family: 'Marcellus', serif;
+        font-size: clamp(3rem, 7vw, 6rem);
+        line-height: 1;
+        color: var(--white);
+        margin-bottom: 1.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    .hero-title span {
+        display: block;
+        color: var(--accent);
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: clamp(3.5rem, 8vw, 7rem);
+        letter-spacing: -0.04em;
+        line-height: 0.9;
+    }
+
+    .hero-sub {
+        font-family: 'Jost', sans-serif;
+        font-size: 1rem;
+        color: rgba(255,255,255,0.55);
+        margin-bottom: 2.5rem;
+        max-width: 420px;
+        line-height: 1.7;
+        font-weight: 300;
+    }
+
+    .hero-cta-group {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .btn-primary-dark {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.8rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        padding: 1rem 2.5rem;
+        background: var(--accent);
+        color: var(--black);
+        border: none;
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.2s ease;
+        clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 12px 100%, 0 calc(100% - 12px));
+    }
+
+    .btn-primary-dark:hover {
+        background: var(--white);
+        color: var(--black);
+        transform: translateY(-2px);
+    }
+
+    .btn-outline-dark {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.8rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        padding: 1rem 2.5rem;
+        background: transparent;
+        color: var(--white);
+        border: 1px solid rgba(255,255,255,0.3);
+        text-decoration: none;
+        display: inline-block;
+        transition: all 0.2s ease;
+    }
+
+    .btn-outline-dark:hover {
+        border-color: var(--white);
+        background: rgba(255,255,255,0.06);
+        color: var(--white);
+    }
+
+    /* Scroll indicator */
+    .scroll-hint {
+        position: absolute;
+        bottom: 2.5rem;
+        right: 6vw;
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+        color: rgba(255,255,255,0.3);
+        font-family: 'Jost', sans-serif;
+        font-size: 0.65rem;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        z-index: 2;
+    }
+
+    .scroll-line {
+        width: 40px;
+        height: 1px;
+        background: rgba(255,255,255,0.2);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .scroll-line::after {
+        content: '';
+        position: absolute;
+        left: -100%;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background: var(--accent);
+        animation: scrollLine 1.8s ease-in-out infinite;
+    }
+
+    @@keyframes scrollLine {
+        from { left: -100%; }
+        to   { left: 100%; }
+    }
+
+    /* ---- MARQUEE STRIP ---- */
+    .marquee-strip {
+        background: var(--accent);
+        padding: 0.9rem 0;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    .marquee-track {
+        display: inline-flex;
+        animation: marquee 20s linear infinite;
+    }
+
+    .marquee-track span {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.75rem;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: var(--black);
+        padding: 0 2.5rem;
+    }
+
+    .marquee-track span.dot {
+        padding: 0;
+        color: rgba(0,0,0,0.4);
+    }
+
+    @@keyframes marquee {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-50%); }
+    }
+
+    /* ---- CATEGORY GRID ---- */
+    .category-section {
+        background: var(--off-white);
+        padding: 6rem 6vw;
+    }
+
+    .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom: 3rem;
+    }
+
+    .section-title {
+        font-family: 'Marcellus', serif;
+        font-size: clamp(2rem, 4vw, 3.5rem);
+        color: var(--black);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+    }
+
+    .section-link {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--black);
+        text-decoration: none;
+        border-bottom: 1px solid var(--black);
+        padding-bottom: 2px;
+        transition: color 0.2s, border-color 0.2s;
+        white-space: nowrap;
+        margin-left: 2rem;
+        flex-shrink: 0;
+    }
+
+    .section-link:hover {
+        color: #555;
+        border-color: #555;
+    }
+
+    .category-grid {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        grid-template-rows: auto;
+        gap: 1rem;
+    }
+
+    .cat-card {
+        position: relative;
+        overflow: hidden;
+        background: var(--black);
+        cursor: pointer;
+        display: block;
+        text-decoration: none;
+    }
+
+    .cat-card:nth-child(1) { grid-column: 1 / 6; grid-row: 1; aspect-ratio: 3/4; }
+    .cat-card:nth-child(2) { grid-column: 6 / 9; grid-row: 1; aspect-ratio: 2/3; }
+    .cat-card:nth-child(3) { grid-column: 9 / 13; grid-row: 1; aspect-ratio: 3/4; }
+
+    /* fallback colorful gradients where images would be */
+    .cat-card:nth-child(1) .cat-bg { background: linear-gradient(160deg, #1a1a1a 0%, #2d2d2d 100%); }
+    .cat-card:nth-child(2) .cat-bg { background: linear-gradient(160deg, #111 0%, #222 100%); }
+    .cat-card:nth-child(3) .cat-bg { background: linear-gradient(160deg, #181818 0%, #2a2a2a 100%); }
+
+    .cat-bg {
+        position: absolute;
+        inset: 0;
+        transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .cat-bg img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top;
+        opacity: 0.7;
+        transition: opacity 0.4s ease;
+    }
+
+    .cat-card:hover .cat-bg {
+        transform: scale(1.04);
+    }
+
+    .cat-card:hover .cat-bg img {
+        opacity: 0.5;
+    }
+
+    .cat-overlay {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, transparent 50%);
+    }
+
+    .cat-info {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 2rem;
+        z-index: 2;
+        transform: translateY(4px);
+        transition: transform 0.3s ease;
+    }
+
+    .cat-card:hover .cat-info {
+        transform: translateY(0);
+    }
+
+    .cat-label {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 0.25em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: 0.4rem;
+    }
+
+    .cat-name {
+        font-family: 'Marcellus', serif;
+        font-size: 1.6rem;
+        color: var(--white);
+        line-height: 1.1;
+        margin-bottom: 1rem;
+    }
+
+    .cat-cta {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--white);
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        opacity: 0;
+        transform: translateX(-8px);
+        transition: opacity 0.3s ease 0.05s, transform 0.3s ease 0.05s;
+    }
+
+    .cat-card:hover .cat-cta {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    .cat-cta::after {
+        content: '→';
+        font-size: 1rem;
+    }
+
+    /* ---- FULL WIDTH BANNER ---- */
+    .fw-banner {
+        position: relative;
+        height: 60vh;
+        min-height: 400px;
+        background: var(--black);
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .fw-banner-bg {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(to right, #0a0a0a 35%, #1a1a1a 100%);
+    }
+
+    .fw-banner-accent {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        width: 45%;
+        clip-path: polygon(12% 0%, 100% 0%, 100% 100%, 0% 100%);
+        background: linear-gradient(135deg, #1e1e1e, #141414);
+        overflow: hidden;
+    }
+
+    .fw-banner-accent::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: url('/images/banner-bg.jpg') center/cover no-repeat;
+        opacity: 0.25;
+        mix-blend-mode: luminosity;
+    }
+
+    .fw-banner-content {
+        position: relative;
+        z-index: 2;
+        padding: 0 6vw;
+        max-width: 650px;
+    }
+
+    .fw-banner-eyebrow {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: 1rem;
+    }
+
+    .fw-banner-title {
+        font-family: 'Marcellus', serif;
+        font-size: clamp(2.2rem, 4.5vw, 4rem);
+        color: var(--white);
+        line-height: 1.05;
+        margin-bottom: 1.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    .fw-banner-desc {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.95rem;
+        color: rgba(255,255,255,0.5);
+        font-weight: 300;
+        line-height: 1.7;
+        margin-bottom: 2rem;
+        max-width: 380px;
+    }
+
+    /* ---- FEATURED PRODUCTS ---- */
+    .products-section {
+        background: var(--white);
+        padding: 6rem 6vw;
+    }
+
+    .products-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.5rem;
+        margin-top: 3rem;
+    }
+
+    .product-card {
+        cursor: pointer;
+        text-decoration: none;
+        display: block;
+    }
+
+    .product-img-wrap {
+        position: relative;
+        aspect-ratio: 3/4;
+        background: var(--light-grey);
+        overflow: hidden;
+        margin-bottom: 1rem;
+    }
+
+    .product-img-wrap img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top;
+        transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .product-card:hover .product-img-wrap img {
+        transform: scale(1.05);
+    }
+
+    /* Placeholder gradient for products without images */
+    .product-img-placeholder {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .product-img-placeholder:nth-child(odd) {
+        background: linear-gradient(160deg, #e0e0e0, #c8c8c8);
+    }
+
+    .product-badge {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        font-family: 'Jost', sans-serif;
+        font-size: 0.6rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        padding: 0.3rem 0.6rem;
+        background: var(--accent);
+        color: var(--black);
+    }
+
+    .product-badge.sale {
+        background: #ff4444;
+        color: var(--white);
+    }
+
+    .product-quick-add {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: var(--black);
+        color: var(--white);
+        font-family: 'Jost', sans-serif;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        text-align: center;
+        padding: 0.9rem;
+        transform: translateY(100%);
+        transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+        text-decoration: none;
+    }
+
+    .product-card:hover .product-quick-add {
+        transform: translateY(0);
+    }
+
+    .product-name {
+        font-family: 'Jost', sans-serif;
+        font-weight: 500;
+        font-size: 0.9rem;
+        color: var(--black);
+        margin-bottom: 0.25rem;
+        letter-spacing: 0.01em;
+    }
+
+    .product-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .product-colors {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.75rem;
+        color: var(--text-muted);
+        font-weight: 300;
+    }
+
+    .product-price {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.9rem;
+        color: var(--black);
+    }
+
+    .product-price .original {
+        text-decoration: line-through;
+        color: var(--text-muted);
+        font-weight: 300;
+        margin-right: 0.5rem;
+    }
+
+    .product-price .sale-price {
+        color: #cc0000;
+    }
+
+    /* ---- STATS STRIP ---- */
+    .stats-strip {
+        background: var(--black);
+        padding: 5rem 6vw;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+        border-top: 1px solid #1f1f1f;
+        border-bottom: 1px solid #1f1f1f;
+    }
+
+    .stat-item {
+        text-align: center;
+        padding: 1rem;
+        border-right: 1px solid #1f1f1f;
+    }
+
+    .stat-item:last-child {
+        border-right: none;
+    }
+
+    .stat-number {
+        font-family: 'Marcellus', serif;
+        font-size: clamp(2.5rem, 4vw, 4rem);
+        color: var(--accent);
+        display: block;
+        line-height: 1;
+        margin-bottom: 0.5rem;
+    }
+
+    .stat-label {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.7rem;
+        font-weight: 700;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        color: rgba(255,255,255,0.4);
+    }
+
+    /* ---- PROMISE SECTION ---- */
+    .promise-section {
+        background: var(--off-white);
+        padding: 6rem 6vw;
+    }
+
+    .promise-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 3rem;
+        margin-top: 4rem;
+    }
+
+    .promise-item {
+        text-align: center;
+    }
+
+    .promise-icon {
+        width: 56px;
+        height: 56px;
+        border: 1.5px solid var(--black);
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1.5rem;
+        font-size: 1.3rem;
+        transition: background 0.2s, border-color 0.2s;
+    }
+
+    .promise-item:hover .promise-icon {
+        background: var(--black);
+    }
+
+    .promise-item:hover .promise-icon svg {
+        stroke: var(--white);
+    }
+
+    .promise-title {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.85rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--black);
+        margin-bottom: 0.8rem;
+    }
+
+    .promise-desc {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.9rem;
+        color: var(--text-muted);
+        font-weight: 300;
+        line-height: 1.7;
+        max-width: 240px;
+        margin: 0 auto;
+    }
+
+    /* ---- EMAIL STRIP ---- */
+    .email-strip {
+        background: var(--accent);
+        padding: 4.5rem 6vw;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 2rem;
+        flex-wrap: wrap;
+    }
+
+    .email-strip-title {
+        font-family: 'Marcellus', serif;
+        font-size: clamp(1.5rem, 3vw, 2.5rem);
+        color: var(--black);
+        max-width: 450px;
+        line-height: 1.15;
+        letter-spacing: -0.01em;
+    }
+
+    .email-form-group {
+        display: flex;
+        gap: 0;
+        flex: 0 0 auto;
+    }
+
+    .email-input {
+        font-family: 'Jost', sans-serif;
+        font-size: 0.85rem;
+        padding: 1rem 1.5rem;
+        border: 2px solid var(--black);
+        background: transparent;
+        color: var(--black);
+        outline: none;
+        width: 280px;
+        font-weight: 300;
+    }
+
+    .email-input::placeholder {
+        color: rgba(0,0,0,0.4);
+    }
+
+    .email-submit {
+        font-family: 'Jost', sans-serif;
+        font-weight: 700;
+        font-size: 0.75rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        padding: 1rem 1.8rem;
+        background: var(--black);
+        color: var(--white);
+        border: 2px solid var(--black);
+        cursor: pointer;
+        transition: background 0.2s, color 0.2s;
+    }
+
+    .email-submit:hover {
+        background: #333;
+    }
+
+    /* ---- RESPONSIVE ---- */
+    @@media (max-width: 992px) {
+        .hero-image { width: 0; }
+        .hero-bg::before { display: none; }
+
+        .category-grid {
+            grid-template-columns: 1fr 1fr;
+        }
+        .cat-card:nth-child(1) { grid-column: 1 / 2; grid-row: 1; }
+        .cat-card:nth-child(2) { grid-column: 2 / 3; grid-row: 1; }
+        .cat-card:nth-child(3) { grid-column: 1 / 3; grid-row: 2; aspect-ratio: 16/7; }
+
+        .products-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .stats-strip {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .stat-item:nth-child(2) { border-right: none; }
+        .stat-item:nth-child(4) { border-right: none; }
+        .stat-item:nth-child(3),
+        .stat-item:nth-child(4) {
+            border-top: 1px solid #1f1f1f;
+        }
+    }
+
+    @@media (max-width: 640px) {
+        .hero-content { padding: 0 5vw 8vh; }
+        .category-section { padding: 4rem 5vw; }
+        .products-section { padding: 4rem 5vw; }
+        .promise-section { padding: 4rem 5vw; }
+        .products-grid { grid-template-columns: 1fr 1fr; gap: 1rem; }
+        .promise-grid { grid-template-columns: 1fr; gap: 2rem; }
+        .stats-strip { grid-template-columns: 1fr 1fr; padding: 3rem 5vw; }
+        .email-strip { flex-direction: column; align-items: flex-start; }
+        .email-form-group { width: 100%; }
+        .email-input { flex: 1; width: auto; }
+        .section-header { flex-direction: column; align-items: flex-start; gap: 1rem; }
+        .cat-card:nth-child(3) { grid-column: 1 / 3; }
+    }
+</style>
+
+<!-- ===================== HERO ===================== -->
+<section class="hero">
+    <div class="hero-bg"></div>
+
+    <!-- Replace /images/hero-model.jpg with your actual image -->
+    <div class="hero-image">
+        <img src="/images/hero-model.jpg" alt="New Season Collection" onerror="this.style.display='none'" />
+    </div>
+
+    <div class="hero-content">
+        <span class="hero-label">New Season Drop</span>
+        <h1 class="hero-title">
+            Wear Your
+            <span>Ambition</span>
+        </h1>
+        <p class="hero-sub">
+            Engineered for performance. Designed to be seen.
+            The new collection is here — built to move with you.
+        </p>
+        <div class="hero-cta-group">
+            <a href="/Products" class="btn-primary-dark">Shop New Arrivals</a>
+            <a href="/Products" class="btn-outline-dark">Explore All</a>
+        </div>
+    </div>
+
+    <div class="scroll-hint">
+        <span class="scroll-line"></span>
+        Scroll to explore
+    </div>
+</section>
+
+<!-- ===================== MARQUEE ===================== -->
+<div class="marquee-strip">
+    <div class="marquee-track">
+        <span>Free UK Delivery Over £50</span><span class="dot">·</span>
+        <span>New Season Now Live</span><span class="dot">·</span>
+        <span>30-Day Free Returns</span><span class="dot">·</span>
+        <span>Sustainable Packaging</span><span class="dot">·</span>
+        <span>Members Get 20% Off</span><span class="dot">·</span>
+        <!-- Duplicate for seamless loop -->
+        <span>Free UK Delivery Over £50</span><span class="dot">·</span>
+        <span>New Season Now Live</span><span class="dot">·</span>
+        <span>30-Day Free Returns</span><span class="dot">·</span>
+        <span>Sustainable Packaging</span><span class="dot">·</span>
+        <span>Members Get 20% Off</span><span class="dot">·</span>
+    </div>
+</div>
+
+<!-- ===================== CATEGORIES ===================== -->
+<section class="category-section">
+    <div class="section-header">
+        <h2 class="section-title">Shop by<br>Category</h2>
+        <a href="/Products" class="section-link">View All →</a>
+    </div>
+
+    <div class="category-grid">
+        <!-- Cat 1 - Women's -->
+        <a href="/Products?gender=women" class="cat-card">
+            <div class="cat-bg">
+                <img src="/images/cat-womens.jpg" alt="Women's" onerror="this.style.display='none'" />
+            </div>
+            <div class="cat-overlay"></div>
+            <div class="cat-info">
+                <div class="cat-label">Collection</div>
+                <div class="cat-name">Women's</div>
+                <span class="cat-cta">Shop Now</span>
+            </div>
+        </a>
+
+        <!-- Cat 2 - Accessories -->
+        <a href="/Products?category=accessories" class="cat-card">
+            <div class="cat-bg">
+                <img src="/images/cat-accessories.jpg" alt="Accessories" onerror="this.style.display='none'" />
+            </div>
+            <div class="cat-overlay"></div>
+            <div class="cat-info">
+                <div class="cat-label">Complete the Look</div>
+                <div class="cat-name">Accessories</div>
+                <span class="cat-cta">Shop Now</span>
+            </div>
+        </a>
+
+        <!-- Cat 3 - Men's -->
+        <a href="/Products?gender=men" class="cat-card">
+            <div class="cat-bg">
+                <img src="/images/cat-mens.jpg" alt="Men's" onerror="this.style.display='none'" />
+            </div>
+            <div class="cat-overlay"></div>
+            <div class="cat-info">
+                <div class="cat-label">Collection</div>
+                <div class="cat-name">Men's</div>
+                <span class="cat-cta">Shop Now</span>
+            </div>
+        </a>
+    </div>
+</section>
+
+<!-- ===================== FULL WIDTH BANNER ===================== -->
+<section class="fw-banner">
+    <div class="fw-banner-bg"></div>
+    <div class="fw-banner-accent"></div>
+    <div class="fw-banner-content">
+        <div class="fw-banner-eyebrow">Limited Edition</div>
+        <h2 class="fw-banner-title">The Performance<br>Series</h2>
+        <p class="fw-banner-desc">
+            Designed for athletes who refuse to compromise.
+            Premium fabrics, precision cut, built for the grind.
+        </p>
+        <a href="/Products?collection=performance" class="btn-primary-dark">Explore the Range</a>
+    </div>
+</section>
+
+<!-- ===================== FEATURED PRODUCTS ===================== -->
+<section class="products-section">
+    <div class="section-header">
+        <h2 class="section-title">Trending<br>Right Now</h2>
+        <a href="/Products" class="section-link">All Products →</a>
+    </div>
+
+    <div class="products-grid">
+        <!-- Product cards - replace with @foreach from your model -->
+        <a href="/Products/Details/1" class="product-card">
+            <div class="product-img-wrap">
+                <div class="product-img-placeholder" style="background: linear-gradient(145deg, #e8e8e8, #d0d0d0);">
+                    <img src="/images/product-1.jpg" alt="Crest Hoodie" onerror="this.style.display='none'" />
+                </div>
+                <span class="product-badge">New</span>
+                <a href="#" class="product-quick-add">Quick Add</a>
+            </div>
+            <div class="product-name">Crest Oversized Hoodie</div>
+            <div class="product-meta">
+                <span class="product-colors">4 colours</span>
+                <span class="product-price">£55.00</span>
+            </div>
+        </a>
+
+        <a href="/Products/Details/2" class="product-card">
+            <div class="product-img-wrap">
+                <div class="product-img-placeholder" style="background: linear-gradient(145deg, #d8d8d8, #c0c0c0);">
+                    <img src="/images/product-2.jpg" alt="Vital Seamless" onerror="this.style.display='none'" />
+                </div>
+                <span class="product-badge sale">Sale</span>
+                <a href="#" class="product-quick-add">Quick Add</a>
+            </div>
+            <div class="product-name">Vital Seamless Leggings</div>
+            <div class="product-meta">
+                <span class="product-colors">6 colours</span>
+                <span class="product-price">
+                    <span class="original">£40.00</span>
+                    <span class="sale-price">£28.00</span>
+                </span>
+            </div>
+        </a>
+
+        <a href="/Products/Details/3" class="product-card">
+            <div class="product-img-wrap">
+                <div class="product-img-placeholder" style="background: linear-gradient(145deg, #e4e4e4, #cacaca);">
+                    <img src="/images/product-3.jpg" alt="Sport T-Shirt" onerror="this.style.display='none'" />
+                </div>
+                <span class="product-badge">New</span>
+                <a href="#" class="product-quick-add">Quick Add</a>
+            </div>
+            <div class="product-name">Sport Oversized T-Shirt</div>
+            <div class="product-meta">
+                <span class="product-colors">8 colours</span>
+                <span class="product-price">£32.00</span>
+            </div>
+        </a>
+
+        <a href="/Products/Details/4" class="product-card">
+            <div class="product-img-wrap">
+                <div class="product-img-placeholder" style="background: linear-gradient(145deg, #dcdcdc, #c4c4c4);">
+                    <img src="/images/product-4.jpg" alt="Rest Day Shorts" onerror="this.style.display='none'" />
+                </div>
+                <a href="#" class="product-quick-add">Quick Add</a>
+            </div>
+            <div class="product-name">Rest Day Shorts</div>
+            <div class="product-meta">
+                <span class="product-colors">5 colours</span>
+                <span class="product-price">£38.00</span>
+            </div>
+        </a>
+    </div>
+</section>
+
+<!-- ===================== STATS ===================== -->
+<div class="stats-strip">
+    <div class="stat-item">
+        <span class="stat-number">10M+</span>
+        <span class="stat-label">Customers Worldwide</span>
+    </div>
+    <div class="stat-item">
+        <span class="stat-number">200+</span>
+        <span class="stat-label">Products Available</span>
+    </div>
+    <div class="stat-item">
+        <span class="stat-number">98%</span>
+        <span class="stat-label">5-Star Reviews</span>
+    </div>
+    <div class="stat-item">
+        <span class="stat-number">30</span>
+        <span class="stat-label">Day Free Returns</span>
+    </div>
+</div>
+
+<!-- ===================== PROMISE ===================== -->
+<section class="promise-section">
+    <div class="section-header" style="justify-content: center; text-align: center; display: block; margin-bottom: 0;">
+        <h2 class="section-title">Why Chakde Life</h2>
+    </div>
+    <div class="promise-grid">
+        <div class="promise-item">
+            <div class="promise-icon">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M5 12l5 5L20 7"/>
+                </svg>
+            </div>
+            <div class="promise-title">Premium Quality</div>
+            <p class="promise-desc">Every piece engineered with performance-grade fabrics built to last — season after season.</p>
+        </div>
+        <div class="promise-item">
+            <div class="promise-icon">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="1" y="3" width="15" height="13" rx="1"/>
+                    <path d="M16 8h4l3 5v3h-7V8z"/><circle cx="5.5" cy="18.5" r="1.5"/><circle cx="18.5" cy="18.5" r="1.5"/>
+                </svg>
+            </div>
+            <div class="promise-title">Free UK Delivery</div>
+            <p class="promise-desc">Orders over £50 ship free across the UK. Express delivery available at checkout.</p>
+        </div>
+        <div class="promise-item">
+            <div class="promise-icon">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="1 4 1 10 7 10"/><polyline points="23 20 23 14 17 14"/>
+                    <path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/>
+                </svg>
+            </div>
+            <div class="promise-title">30-Day Returns</div>
+            <p class="promise-desc">Changed your mind? No problem. Free returns within 30 days — no questions asked.</p>
+        </div>
+    </div>
+</section>
+
+<!-- ===================== EMAIL SIGNUP ===================== -->
+<section class="email-strip">
+    <h2 class="email-strip-title">Get first access to new drops & exclusive offers.</h2>
+    <div class="email-form-group">
+        <input type="email" class="email-input" placeholder="Enter your email address" />
+        <button class="email-submit">Subscribe</button>
+    </div>
+</section>

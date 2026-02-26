@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|d:\\t level material\\visual studio 2026\\practicegithub\\test\\test\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Rooms\\Index.cshtml",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Rooms\\Index.cshtml",
               "RelativeToolTip": "Test\\Views\\Rooms\\Index.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwEMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-08T22:46:17.048Z",
               "EditorCaption": ""
@@ -99,16 +99,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\T Level Material\\Visual Studio 2026\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-02T22:11:47.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T22:11:47.043Z"
             },
             {
               "$type": "Document",

@@ -1,8 +1,411 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿<link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+
+
+@{
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+<!-- =============================================
+     HERO SECTION
+============================================= -->
+<section class="hero" aria-label="Hero banner">
+    <div class="hero__bg"></div>
+    <div class="hero__stripe"></div>
+    <div class="hero__fade"></div>
+
+    <div class="hero__content">
+        <p class="hero__eyebrow">Chakde Clothing</p>
+        <h1 class="hero__headline">WEAR<br>THE<br><em>MINDSET</em></h1>
+        <p class="hero__sub">Premium performance streetwear for those who never clock out. No compromises.</p>
+        <div class="hero__ctas">
+            <a href="/collections" class="hero__cta-primary">Shop the Drop</a>
+            <a href="/men" class="hero__cta-secondary">Explore Shirts</a>
+            <a href="/women" class="hero__cta-secondary">Explore Hoodies</a>
+        </div>
+    </div>
+
+    <div class="hero__scroll" aria-hidden="true">
+        <span>Scroll</span>
+        <div class="hero__scroll-line"></div>
+    </div>
+</section>
+
+<!-- =============================================
+     MARQUEE TEXT STRIP
+============================================= -->
+<div class="marquee-strip" aria-hidden="true">
+    <div class="marquee-strip__track">
+        <span class="marquee-strip__item">New Arrivals <span class="dot"></span></span>
+        <span class="marquee-strip__item">Chakde Life <span class="dot"></span></span>
+        <span class="marquee-strip__item">Built Different <span class="dot"></span></span>
+        <span class="marquee-strip__item">You've Got This <span class="dot"></span></span>
+        <span class="marquee-strip__item">Premium Gymwear <span class="dot"></span></span>
+        <span class="marquee-strip__item">Free UK Shipping £75+ <span class="dot"></span></span>
+        <span class="marquee-strip__item">New Arrivals <span class="dot"></span></span>
+        <span class="marquee-strip__item">Chakde Life <span class="dot"></span></span>
+        <span class="marquee-strip__item">Built Different <span class="dot"></span></span>
+        <span class="marquee-strip__item">You've Got This <span class="dot"></span></span>
+        <span class="marquee-strip__item">Premium Gymwear <span class="dot"></span></span>
+        <span class="marquee-strip__item">Free UK Shipping £75+ <span class="dot"></span></span>
+    </div>
 </div>
+
+<!-- =============================================
+     GENDER SPLIT
+============================================= -->
+<section class="gender-split" aria-label="Shop by gender">
+    <a href="/men" class="gender-card gender-card--men">
+        <div class="gender-card__bg">
+            <!-- Replace with: <img src="/images/men-hero.jpg" alt="Men's Collection" style="width:100%;height:100%;object-fit:cover;"> -->
+        </div>
+        <div class="gender-card__overlay"></div>
+        <div class="gender-card__content">
+            <span class="gender-card__label">MEN</span>
+            <span class="gender-card__btn">Shop Men</span>
+        </div>
+    </a>
+    <a href="/women" class="gender-card gender-card--women">
+        <div class="gender-card__bg">
+            <!-- Replace with: <img src="/images/women-hero.jpg" alt="Women's Collection" style="width:100%;height:100%;object-fit:cover;"> -->
+        </div>
+        <div class="gender-card__overlay"></div>
+        <div class="gender-card__content">
+            <span class="gender-card__label">WOMEN</span>
+            <span class="gender-card__btn">Shop Women</span>
+        </div>
+    </a>
+</section>
+
+<!-- =============================================
+     FEATURED PRODUCTS — BEST SELLERS
+============================================= -->
+<section class="section" aria-label="Best sellers">
+    <div class="section__header">
+        <div>
+            <p class="section__eyebrow">Most Wanted</p>
+            <h2 class="section__title">BEST <em>SELLERS</em></h2>
+        </div>
+        <a href="/best-sellers" class="section__view-all">View All →</a>
+    </div>
+
+    <div class="product-grid">
+
+        <!-- Product 1 -->
+        <article class="product-card">
+            <div class="product-card__img-wrap">
+                <!-- <img src="/images/products/hoodie-grey.jpg" alt="Chakde Essential Hoodie"> -->
+                <div class="product-card__placeholder-text">Product Image</div>
+                <span class="product-card__badge product-card__badge--new">New</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Essential Heavyweight Hoodie</p>
+                <p class="product-card__sub">Men's / Oversized Fit</p>
+                <p class="product-card__price">£65.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#1a1a1a;" title="Black"></span>
+                    <span class="swatch" style="background:#888;" title="Grey"></span>
+                    <span class="swatch" style="background:#d4c5b0;" title="Sand"></span>
+                </div>
+            </div>
+        </article>
+
+        <!-- Product 2 -->
+        <article class="product-card">
+            <div class="product-card__img-wrap">
+                <div class="product-card__placeholder-text">Product Image</div>
+                <span class="product-card__badge">Best Seller</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Utility Jogger</p>
+                <p class="product-card__sub">Men's / Tapered Fit</p>
+                <p class="product-card__price">
+                    <span class="was">£55.00</span>
+                    <span class="now">£38.50</span>
+                </p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#1a1a1a;" title="Black"></span>
+                    <span class="swatch" style="background:#4a4020;" title="Olive"></span>
+                </div>
+            </div>
+        </article>
+
+        <!-- Product 3 -->
+        <article class="product-card">
+            <div class="product-card__img-wrap">
+                <div class="product-card__placeholder-text">Product Image</div>
+                <span class="product-card__badge product-card__badge--new">New</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Signature Crop Tee</p>
+                <p class="product-card__sub">Women's / Relaxed</p>
+                <p class="product-card__price">£32.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#d4c5b0;" title="Sand"></span>
+                    <span class="swatch" style="background:#c8b090;" title="Tan"></span>
+                    <span class="swatch" style="background:#fff;border:1px solid #ccc;" title="White"></span>
+                    <span class="swatch" style="background:#1a1a1a;" title="Black"></span>
+                </div>
+            </div>
+        </article>
+
+        <!-- Product 4 -->
+        <article class="product-card">
+            <div class="product-card__img-wrap">
+                <div class="product-card__placeholder-text">Product Image</div>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Premium Tracksuit Set</p>
+                <p class="product-card__sub">Men's / Regular Fit</p>
+                <p class="product-card__price">£110.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#1a1a1a;" title="Black"></span>
+                    <span class="swatch" style="background:#2a2a3a;" title="Navy"></span>
+                </div>
+            </div>
+        </article>
+
+    </div>
+</section>
+
+<!-- =============================================
+     CATEGORY BANNERS
+============================================= -->
+<section class="section section--gray" aria-label="Shop categories">
+    <div class="section__header">
+        <div>
+            <p class="section__eyebrow">Categories</p>
+            <h2 class="section__title">SHOP BY<br><em>STYLE</em></h2>
+        </div>
+    </div>
+    <div class="cat-banners">
+        <a href="/men/hoodies" class="cat-banner">
+            <div class="cat-banner__bg"></div>
+            <div class="cat-banner__overlay"></div>
+            <div class="cat-banner__content">
+                <p class="cat-banner__tag">Men's</p>
+                <h3 class="cat-banner__name">Hoodies &<br>Sweats</h3>
+                <span class="cat-banner__link">Shop Now →</span>
+            </div>
+        </a>
+        <a href="/women/sets" class="cat-banner">
+            <div class="cat-banner__bg"></div>
+            <div class="cat-banner__overlay"></div>
+            <div class="cat-banner__content">
+                <p class="cat-banner__tag">Women's</p>
+                <h3 class="cat-banner__name">Matching<br>Sets</h3>
+                <span class="cat-banner__link">Shop Now →</span>
+            </div>
+        </a>
+        <a href="/accessories" class="cat-banner">
+            <div class="cat-banner__bg"></div>
+            <div class="cat-banner__overlay"></div>
+            <div class="cat-banner__content">
+                <p class="cat-banner__tag">Unisex</p>
+                <h3 class="cat-banner__name">Accessories</h3>
+                <span class="cat-banner__link">Shop Now →</span>
+            </div>
+        </a>
+    </div>
+</section>
+
+<!-- =============================================
+     EDITORIAL / LIFESTYLE SPLIT
+============================================= -->
+<section class="editorial" aria-label="Brand story">
+    <div class="editorial__visual">
+        <div class="editorial__visual-bg">
+            <!-- Replace with: <img src="/images/lifestyle.jpg" alt="Chakde Life lifestyle" style="width:100%;height:100%;object-fit:cover;position:absolute;inset:0;"> -->
+        </div>
+        <div class="editorial__visual-label">Replace with lifestyle photo</div>
+    </div>
+    <div class="editorial__copy">
+        <div class="editorial__copy-inner">
+            <p class="editorial__copy-eyebrow">Who We Are</p>
+            <h2>WEAR YOUR<br>HUSTLE</h2>
+            <p>
+                Chakde Life was built for people who move with intention. Every stitch, every silhouette, every drop is designed to push you forward — whether that's in the gym, on the streets, or living your best life between both.
+            </p>
+            <a href="/about" class="btn-chakde" style="color:var(--white);background:var(--white);color:var(--black);display:inline-block;">
+                Our Story
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- =============================================
+     NEW ARRIVALS — WOMEN
+============================================= -->
+<section class="section" aria-label="New arrivals for women">
+    <div class="section__header">
+        <div>
+            <p class="section__eyebrow">Fresh In</p>
+            <h2 class="section__title">NEW <em>ARRIVALS</em></h2>
+        </div>
+        <a href="/new-arrivals" class="section__view-all">View All →</a>
+    </div>
+
+    <div class="product-grid">
+
+        <article class="product-card">
+            <div class="product-card__img-wrap" style="background: linear-gradient(145deg, #e8ddd0, #f5f0e8);">
+                <div class="product-card__placeholder-text" style="color:rgba(0,0,0,0.2);">Product Image</div>
+                <span class="product-card__badge product-card__badge--new">New</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Ribbed Sports Bra</p>
+                <p class="product-card__sub">Women's / Supportive</p>
+                <p class="product-card__price">£28.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#d4c5b0;" title="Nude"></span>
+                    <span class="swatch" style="background:#1a1a1a;" title="Black"></span>
+                    <span class="swatch" style="background:#7a8a9a;" title="Slate"></span>
+                </div>
+            </div>
+        </article>
+
+        <article class="product-card">
+            <div class="product-card__img-wrap" style="background: linear-gradient(145deg, #333, #555);">
+                <div class="product-card__placeholder-text">Product Image</div>
+                <span class="product-card__badge product-card__badge--new">New</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">High-Waist Seamless Leggings</p>
+                <p class="product-card__sub">Women's / Compression</p>
+                <p class="product-card__price">£52.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#1a1a1a;" title="Black"></span>
+                    <span class="swatch" style="background:#c8b090;" title="Mocha"></span>
+                </div>
+            </div>
+        </article>
+
+        <article class="product-card">
+            <div class="product-card__img-wrap" style="background: linear-gradient(145deg, #c0a080, #d8c0a0);">
+                <div class="product-card__placeholder-text" style="color:rgba(0,0,0,0.2);">Product Image</div>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Oversized Quarter-Zip</p>
+                <p class="product-card__sub">Women's / Oversized</p>
+                <p class="product-card__price">£58.00</p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#c8a96e;" title="Gold"></span>
+                    <span class="swatch" style="background:#888;" title="Ash"></span>
+                    <span class="swatch" style="background:#1a1a1a;" title="Black"></span>
+                </div>
+            </div>
+        </article>
+
+        <article class="product-card">
+            <div class="product-card__img-wrap" style="background: linear-gradient(145deg, #1a1a2a, #2a2a40);">
+                <div class="product-card__placeholder-text">Product Image</div>
+                <span class="product-card__badge product-card__badge--sale">Sale</span>
+                <button class="product-card__wish" aria-label="Add to wishlist">
+                    <svg viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
+                </button>
+                <div class="product-card__quick-add">Quick Add</div>
+            </div>
+            <div class="product-card__info">
+                <p class="product-card__name">Biker Shorts</p>
+                <p class="product-card__sub">Women's / Sculpting</p>
+                <p class="product-card__price">
+                    <span class="was">£38.00</span>
+                    <span class="now">£24.00</span>
+                </p>
+                <div class="product-card__swatches">
+                    <span class="swatch active" style="background:#1a1a2a;" title="Navy"></span>
+                    <span class="swatch" style="background:#1a1a1a;" title="Black"></span>
+                </div>
+            </div>
+        </article>
+
+    </div>
+</section>
+
+<!-- =============================================
+     STATS BAND
+============================================= -->
+<div class="stats-band" aria-label="Brand stats">
+    <div class="stats-band__inner">
+        <div>
+            <p class="stat__number">50<span>K+</span></p>
+            <p class="stat__label">Orders Shipped</p>
+        </div>
+        <div>
+            <p class="stat__number">4.<span>9</span></p>
+            <p class="stat__label">Average Rating</p>
+        </div>
+        <div>
+            <p class="stat__number">30<span>+</span></p>
+            <p class="stat__label">Countries</p>
+        </div>
+        <div>
+            <p class="stat__number">100<span>%</span></p>
+            <p class="stat__label">Premium Materials</p>
+        </div>
+    </div>
+</div>
+
+<!-- =============================================
+     BRAND STATEMENT / CTA
+============================================= -->
+<section class="brand-statement" aria-label="Brand statement">
+    <div class="brand-statement__inner">
+        <h2 class="brand-statement__quote">DON'T JUST<br>DRESS — <em>DEFINE</em><br>YOURSELF</h2>
+        <p class="brand-statement__body">
+            Every piece in the Chakde Life range is crafted to move with you, last with you, and say something about who you are before you open your mouth.
+        </p>
+        <a href="/collections" class="hero__cta-primary" style="background:var(--white);color:var(--black);">
+            Explore All Collections
+        </a>
+    </div>
+</section>
+
+<!-- =============================================
+     UGC / INSTAGRAM STRIP
+============================================= -->
+<section class="ugc-strip" aria-label="Community photos">
+    <div class="ugc-strip__header">
+        <p class="ugc-strip__eyebrow">Community</p>
+        <h2 class="section__title">THE <em>CHAKDE</em> FAMILY</h2>
+        <p class="ugc-strip__handle">📸 @@chakdelife</p>
+    </div>
+    <div class="ugc-grid">
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+        <div class="ugc-cell"><div class="ugc-cell__bg"></div><div class="ugc-cell__overlay"><span class="ugc-cell__icon">View</span></div></div>
+    </div>
+</section>
+<script src="~/js/home.js" asp-append-version="true"></script>
+

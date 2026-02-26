@@ -1,6 +1,12 @@
+wwwroot\css\about.css
+wwwroot\css\contact.css
+wwwroot\css\home.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\about.js
+wwwroot\js\home.js
 wwwroot\js\site.js
+wwwroot\js\SmoothScroll.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -61,90 +67,14 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\Theme\css\ajax-loader.gif
-wwwroot\Theme\css\normalize.css
-wwwroot\Theme\css\swiper-bundle.min.css
-wwwroot\Theme\css\vendor.css
-wwwroot\Theme\images\arct-icon.png
-wwwroot\Theme\images\banner-image-1.jpg
-wwwroot\Theme\images\banner-image-2.jpg
-wwwroot\Theme\images\banner-image-3.jpg
-wwwroot\Theme\images\banner-image-4.jpg
-wwwroot\Theme\images\banner-image-5.jpg
-wwwroot\Theme\images\banner-image-6.jpg
-wwwroot\Theme\images\bg-newsletter.jpg
-wwwroot\Theme\images\cat-item1.jpg
-wwwroot\Theme\images\cat-item2.jpg
-wwwroot\Theme\images\cat-item3.jpg
-wwwroot\Theme\images\cat-large-item1.jpg
-wwwroot\Theme\images\cat-large-item2.jpg
-wwwroot\Theme\images\cat-large-item3.jpg
-wwwroot\Theme\images\cat-sm-item.jpg
-wwwroot\Theme\images\cat-sm-item2.jpg
-wwwroot\Theme\images\cat-sm-item3.jpg
-wwwroot\Theme\images\collection-banner.jpg
-wwwroot\Theme\images\dhl-logo.png
-wwwroot\Theme\images\insta-item1.jpg
-wwwroot\Theme\images\insta-item2.jpg
-wwwroot\Theme\images\insta-item3.jpg
-wwwroot\Theme\images\insta-item4.jpg
-wwwroot\Theme\images\insta-item5.jpg
-wwwroot\Theme\images\insta-item6.jpg
-wwwroot\Theme\images\light-logo.png
-wwwroot\Theme\images\logo.svg
-wwwroot\Theme\images\logo1.png
-wwwroot\Theme\images\logo2.png
-wwwroot\Theme\images\logo3.png
-wwwroot\Theme\images\logo4.png
-wwwroot\Theme\images\logo5.png
-wwwroot\Theme\images\main-logo.png
-wwwroot\Theme\images\master-card.png
-wwwroot\Theme\images\newsletter-image.jpg
-wwwroot\Theme\images\pattern-bg.png
-wwwroot\Theme\images\paypal-card.png
-wwwroot\Theme\images\post-image1.jpg
-wwwroot\Theme\images\post-image2.jpg
-wwwroot\Theme\images\post-image3.jpg
-wwwroot\Theme\images\post-image4.jpg
-wwwroot\Theme\images\post-image5.jpg
-wwwroot\Theme\images\post-image6.jpg
-wwwroot\Theme\images\post-image7.jpg
-wwwroot\Theme\images\post-image8.jpg
-wwwroot\Theme\images\post-image9.jpg
-wwwroot\Theme\images\post-large-image1.jpg
-wwwroot\Theme\images\post-large-image2.jpg
-wwwroot\Theme\images\post-large-image3.jpg
-wwwroot\Theme\images\post-large-image4.jpg
-wwwroot\Theme\images\post-small-image1.jpg
-wwwroot\Theme\images\post-small-image2.jpg
-wwwroot\Theme\images\post-small-image3.jpg
-wwwroot\Theme\images\product-item-1.jpg
-wwwroot\Theme\images\product-item-10.jpg
-wwwroot\Theme\images\product-item-2.jpg
-wwwroot\Theme\images\product-item-3.jpg
-wwwroot\Theme\images\product-item-4.jpg
-wwwroot\Theme\images\product-item-5.jpg
-wwwroot\Theme\images\product-item-6.jpg
-wwwroot\Theme\images\product-item-7.jpg
-wwwroot\Theme\images\product-item-8.jpg
-wwwroot\Theme\images\product-item-9.jpg
-wwwroot\Theme\images\single-image-2.jpg
-wwwroot\Theme\images\text-pattern.png
-wwwroot\Theme\images\video-image-2.jpg
-wwwroot\Theme\images\video-image.jpg
-wwwroot\Theme\images\visa-card.png
-wwwroot\Theme\images\wishlist-item1.jpg
-wwwroot\Theme\images\wishlist-item2.jpg
-wwwroot\Theme\images\wishlist-item3.jpg
-wwwroot\Theme\js\jquery.min.js
-wwwroot\Theme\js\modernizr.js
-wwwroot\Theme\js\plugins.js
-wwwroot\Theme\js\script.min.js
-wwwroot\Theme\js\SmoothScroll.js
-wwwroot\Theme\style.css
+wwwroot\js\contact.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\css\home.css
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\css\site.css
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\favicon.ico
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\js\about.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\js\home.js
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\js\site.js
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\js\SmoothScroll.js
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -204,13 +134,6 @@ D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwr
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\lib\jquery\LICENSE.txt
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\css\normalize.css
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\css\swiper-bundle.min.css
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\css\vendor.css
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\images\logo.svg
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\js\jquery.min.js
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\js\modernizr.js
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\js\plugins.js
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\js\script.min.js
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\js\SmoothScroll.js
-D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\Theme\style.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\css\about.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\css\contact.css
+D:\T Level Material\Visual Studio 2026\PracticeGithub\ChakdeLife\ChakdeLife\wwwroot\js\contact.js
