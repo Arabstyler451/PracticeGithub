@@ -1,100 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\github\\practicegithub\\test\\test\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Bookings\\Index.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Bookings\\Index.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Bookings\\Index.cshtml",
-              "RelativeToolTip": "Test\\Views\\Bookings\\Index.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-09T09:59:54.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Bookings\\Create.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Bookings\\Create.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Bookings\\Create.cshtml",
-              "RelativeToolTip": "Test\\Views\\Bookings\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-09T10:24:09.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\BookingsController.cs",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Controllers\\BookingsController.cs",
-              "RelativeToolTip": "Test\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAAOgAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T10:07:06.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactUs.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\ContactUs.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Home\\ContactUs.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Home\\ContactUs.cshtml",
-              "RelativeToolTip": "Test\\Views\\Home\\ContactUs.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-06T10:18:50.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHub\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-06T09:17:04.745Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
