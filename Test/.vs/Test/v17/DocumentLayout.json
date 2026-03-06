@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\",
+  "WorkspaceRootPath": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|c:\\users\\709016\\documents\\githubfolder\\practicegithub\\test\\test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\githubnew\\practicegithub\\test\\test\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|c:\\users\\709016\\documents\\githubfolder\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\githubnew\\practicegithub\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|c:\\users\\709016\\documents\\githubfolder\\practicegithub\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\githubnew\\practicegithub\\test\\test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|c:\\users\\709016\\documents\\githubfolder\\practicegithub\\test\\test\\wwwroot\\js\\accessibility.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|solutionrelative:test\\wwwroot\\js\\accessibility.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2738831F-8F37-4955-AC01-6310BBF265C7}|Test\\Test.csproj|\\\\dom.sandwell.ac.uk\\student\\homeeven\\709016\\githubnew\\practicegithub\\test\\test\\wwwroot\\js\\accessibility.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Test\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-06T10:15:22.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T10:15:22.42Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-06T09:40:08.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T09:40:08.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Test\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Test\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAQwGQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwFYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-03-06T09:13:01.286Z",
               "EditorCaption": ""
@@ -71,14 +65,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "accessibility.js",
-              "DocumentMoniker": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\js\\accessibility.js",
+              "DocumentMoniker": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\wwwroot\\js\\accessibility.js",
               "RelativeDocumentMoniker": "Test\\wwwroot\\js\\accessibility.js",
-              "ToolTip": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\js\\accessibility.js",
+              "ToolTip": "\\\\dom.sandwell.ac.uk\\Student\\HomeEven\\709016\\GitHubNew\\PracticeGithub\\Test\\Test\\wwwroot\\js\\accessibility.js",
               "RelativeToolTip": "Test\\wwwroot\\js\\accessibility.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-06T09:10:40.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T09:10:40.407Z"
             }
           ]
         }
