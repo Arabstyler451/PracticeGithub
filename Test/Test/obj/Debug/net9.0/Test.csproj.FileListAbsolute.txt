@@ -2679,9 +2679,7 @@ C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\8w4tswimiv-rlmsp3tdis.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\zx72ktcl29-oa2jrhpxkz.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\ajiczu1vdj-628v314f9a.gz
-C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\lb2rsc9dgh-eyt1x2mrwz.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\gx7thmgf07-s2tgq8zylu.gz
-C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\61m1vhim1n-ktkj6bz9j4.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\adfvanopau-61n19gt1b8.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\dcf4k9olui-4kxxa0wni9.gz
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\wgm2db3su2-3r8b2a0bt1.gz
@@ -2768,3 +2766,6 @@ C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\Test.genruntimeconfig.cache
 C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\ref\Test.dll
 D:\T Level Material\Visual Studio 2026\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\qjwi4eqh4p-{0}-xf3nvuezsj-xf3nvuezsj.gz
+C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\0k9ba17gcb-stx4oel75c.gz
+C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\lb2rsc9dgh-d92k9g49yc.gz
+C:\Users\709016\Documents\GithubFolder\PracticeGithub\Test\Test\obj\Debug\net9.0\compressed\61m1vhim1n-14yfq0ohg7.gz

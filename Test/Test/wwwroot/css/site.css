@@ -30,3 +30,114 @@ body {
   text-align: start;
 }
 
+
+/* Dark Mode */
+
+:root {
+    --background-color: white;
+    --text-color: black;
+}
+
+.dark-mode {
+    --background-color: #121212;
+    --text-color: white;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* High Contrast Mode */
+
+.high-contrast {
+    background-color: black !important;
+    color: yellow !important;
+}
+
+
+/* Accessibility Drop Down */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    position: absolute !important;
+    top: 100% !important; /* Position below the parent */
+    left: 0 !important; /* Align to the left edge of the parent */
+    right: auto !important; /* Prevent right alignment */
+    transform: none !important; /* Remove any transforms */
+    margin-top: 0.25rem !important; /* Small gap from the nav-link */
+    float: none !important; /* Prevent floating issues */
+    min-width: 200px; /* Ensure consistent width */
+    z-index: 9999 !important; /* Very high z-index to appear above everything */
+    background-color: #fff; /* Ensure solid background */
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); /* Optional: add shadow for depth */
+}
+
+/* Ensure the dropdown container is properly positioned */
+.navbar-nav .dropdown {
+    position: relative !important;
+    z-index: 100; /* Give parent a lower z-index than the dropdown */
+}
+
+/* Make dropdown items stack vertically */
+.dropdown-menu li {
+    display: block !important;
+    width: 100%;
+}
+
+.dropdown-menu .dropdown-item {
+    width: 100%;
+    text-align: left;
+    white-space: nowrap;
+    padding: 0.5rem 1rem;
+}
+
+/* Ensure dropdown items are clickable */
+.dropdown-menu .dropdown-item {
+    position: relative;
+    z-index: 10000; /* Even higher for the items themselves */
+    cursor: pointer;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 991px) {
+    .navbar-nav {
+        position: relative;
+    }
+
+    .dropdown-menu {
+        position: absolute !important;
+        z-index: 9999 !important; /* Keep high z-index on mobile */
+    }
+}
+
+/* Additional guarantee for Bootstrap modals or other high z-index elements */
+.dropdown-menu.show {
+    z-index: 9999 !important;
+}
+
+/* Ensure the dropdown backdrop doesn't block clicks */
+.dropdown-menu {
+    pointer-events: auto !important;
+}
+
+    /* Optional: Add a semi-transparent backdrop to visually separate from content */
+    .dropdown-menu.show::before {
+        display: none; /* Remove if you don't want backdrop */
+    }
+
+/* Force dropdown to be above fixed/sticky elements */
+.navbar {
+    z-index: 1000; /* Lower than dropdown */
+}
+
+/* If you have any carousels or sliders with high z-index, this ensures dropdown beats them */
+.carousel,
+.slider,
+.image-gallery,
+img {
+    z-index: 1; /* Lower than dropdown */
+}

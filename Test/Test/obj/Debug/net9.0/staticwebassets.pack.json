@@ -1769,6 +1769,10 @@
       "PackagePath": "staticwebassets\\js\\Rooms.js"
     },
     {
+      "Id": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\js\\accessibility.js",
+      "PackagePath": "staticwebassets\\js\\accessibility.js"
+    },
+    {
       "Id": "C:\\Users\\709016\\Documents\\GithubFolder\\PracticeGithub\\Test\\Test\\wwwroot\\js\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\js\\ajax-loader.gif"
     },

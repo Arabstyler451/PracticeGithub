@@ -1,4 +1,18 @@
-﻿/* Base reset for both buttons in navbar */
+﻿/* Override navbar-nav default styling */
+.navbar-nav {
+    flex-direction: row !important;
+    align-items: center !important;
+    gap: 0.5rem;
+}
+
+    /* Remove default Bootstrap navbar-nav li styling */
+    .navbar-nav .nav-item {
+        float: none !important;
+        display: flex !important;
+        align-items: center !important;
+    }
+
+/* Base reset for both buttons in navbar */
 .nav-link.custom-login,
 .nav-link.custom-register {
     display: inline-block !important;
@@ -6,28 +20,29 @@
     font-weight: 500;
     text-decoration: none;
     transition: all 0.25s ease; /* Smooth changes */
-    margin: 0 0.5rem; /* Space between them */
+    margin: 0 0.25rem; /* Space between them */
     border: 1px solid transparent; /* For smooth hover transitions */
+    white-space: nowrap; /* Prevent text wrapping */
 }
 
 /* Login button: starts white */
 .custom-login {
     background-color: #ffffff; /* Pure white background */
-    color: #333333; /* Dark gray text for readability */
+    color: #333333 !important; /* Dark gray text for readability */
     border: 1px solid #cccccc; /* Light border so it stands out on light navbar */
-    min-width: 2rem !important; /* same value for symmetry */
+    border-radius: 0.25rem; /* Slight rounded corners */
 }
 
     .custom-login:hover,
     .custom-login:focus {
-        background-color: #FFF7ED; /* Fills with your orange on hover */
-        color: #BE6A21; /* orange text on hover */
-        transform: translateY(0px); /* Subtle lift */
+        background-color: #FFF7ED !important; /* Fills with your orange on hover */
+        color: #BE6A21 !important; /* orange text on hover */
+        transform: translateY(-1px); /* Subtle lift */
     }
 
 /* Register button: starts with your color */
 .custom-register {
-    background-color: #BE6A21; /* Your specified orange */
+    background-color: #BE6A21 !important; /* Your specified orange */
     color: #ffffff !important; /* White text */
     border: 1px solid #a55c1c; /* Slightly darker border */
     border-radius: 2rem; /* Soft rounded corners */
@@ -35,7 +50,20 @@
 
     .custom-register:hover,
     .custom-register:focus {
-        background-color: #a55c1c; /* Darker orange on hover (derived from #BE6A21) */
+        background-color: #a55c1c !important; /* Darker orange on hover */
         color: #ffffff !important;
-        transform: translateY(0px);
+        transform: translateY(-1px);
     }
+
+/* Ensure buttons stay inline on mobile */
+@media (max-width: 768px) {
+    .navbar-nav {
+        flex-wrap: nowrap !important;
+    }
+
+    .nav-link.custom-login,
+    .nav-link.custom-register {
+        padding: 0.4rem 1rem !important;
+        font-size: 0.9rem;
+    }
+}

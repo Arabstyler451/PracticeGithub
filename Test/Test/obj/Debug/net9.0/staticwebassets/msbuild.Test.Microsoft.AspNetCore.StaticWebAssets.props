@@ -7752,8 +7752,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eyt1x2mrwz</Fingerprint>
-      <Integrity>GomjrgUsGU/ksQM5b01SdMXdZKEs/HJ/fMWms3A5Sc0=</Integrity>
+      <Fingerprint>d92k9g49yc</Fingerprint>
+      <Integrity>j06S1ajYlQivXpuyetwYF+qkHXbShCXQOAeFU6vIxKs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\LoginPartials.css'))</OriginalItemSpec>
@@ -7788,8 +7788,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ktkj6bz9j4</Fingerprint>
-      <Integrity>KDK/RTPqR4hLwycxLX5n100Wz/5TZFL4L2KOXagZbAE=</Integrity>
+      <Fingerprint>14yfq0ohg7</Fingerprint>
+      <Integrity>j4sCeQLT2Ea8V9nSSX81rGB+omDipB/47nI71T5fs9A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -7901,6 +7901,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\HomePageImage4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\accessibility.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Test</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Test</BasePath>
+      <RelativePath>js/accessibility.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>stx4oel75c</Fingerprint>
+      <Integrity>wFsL+LYE7omsLnJor4N3wAcM/DgEIQNlvZLO5bf7tCU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\accessibility.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\ajax-loader.gif'))">
       <SourceType>Package</SourceType>
